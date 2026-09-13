@@ -34,4 +34,4 @@ Licenčný kľúč si vyžiadate v programe: **O programe › Licencia**. Kľú�
 
 ---
 
-**English** — ready-to-run Catalog Studio for Windows (needs the .NET 8 Desktop Runtime, x64): download the ZIP and run `CatalogStudio.exe`. About › Updates installs new versions from this repository (versions 2.0.0 and 2.0.1: set the update source to the address above once). Without a license key the program creates Excel catalogs; PDF, the web catalog and page images need a key (89 €, one computer, no expiry) — request it under About › License (roman@magoc.sk).
+**English** — ready-to-run Catalog Studio for Windows (needs the .NET 8 Desktop Runtime, x64): download the ZIP and run `CatalogStudio.exe`. About › Updates installs new versions from this repository, including the translations. Without a license key the program creates Excel catalogs; PDF, the web catalog and page images are part of the full version. A license costs 89 € (one computer, no expiry) — request the key under About › License.
