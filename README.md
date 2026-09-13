@@ -1,6 +1,6 @@
 # Catalog Studio — program a aktualizácie
 
-Hotový program **Catalog Studio** pre Windows: z tabuľky so skladovými alebo produktovými dátami (Excel, OpenDocument, CSV) vytvorí katalóg alebo cenník v Exceli, PDF a ako webovú stránku. Zdrojový kód tu nie je — iba vydaný program a jeho aktualizácie.
+Hotový program **Catalog Studio** pre Windows: z tabuľky so skladovými alebo produktovými dátami (Excel, OpenDocument, CSV) vytvorí katalóg alebo cenník v Exceli, PDF a ako webovú stránku.
 
 ## Inštalácia
 
@@ -12,15 +12,13 @@ Hotový program **Catalog Studio** pre Windows: z tabuľky so skladovými alebo 
 
 V programe **O programe › Aktualizácie › Skontrolovať aktualizácie** — program stiahne novú verziu z tohto repozitára a reštartuje sa; nastavenia, šablóny a licencia ostanú.
 
-- Verzie **2.0.0 a 2.0.1** ešte hľadajú aktualizácie v neverejnom repozitári. Do poľa **Zdroj aktualizácií** vložte raz túto adresu:
-  `https://raw.githubusercontent.com/MidiComp/CatalogStudio-Updates/main/version.json`
 - Aktualizácia v programe vymení súbor `CatalogStudio.exe`. Nové preklady získate, keď z tohto repozitára stiahnete aj priečinok `Languages`.
 
 ## Licencia
 
 Bez licenčného kľúča je Catalog Studio **bezplatná verzia** a vytvára katalógy v Exceli. **PDF, webový katalóg a obrázky strán** sú v plnej verzii.
 
-Licenčný kľúč si vyžiadate v programe: **O programe › Licencia** — pošlite kód počítača na **roman@magoc.sk** (tlačidlo *Napísať e-mail* pripraví žiadosť). Kľúč patrí jednému počítaču a neexpiruje.
+Licenčný kľúč si vyžiadate v programe: **O programe › Licencia. Kľúč patrí jednému počítaču a neexpiruje.
 
 ## Obsah
 
