@@ -12,13 +12,15 @@ Hotový program **Catalog Studio** pre Windows: z tabuľky so skladovými alebo 
 
 V programe **O programe › Aktualizácie › Skontrolovať aktualizácie** — program stiahne novú verziu z tohto repozitára a reštartuje sa; nastavenia, šablóny a licencia ostanú.
 
-- Aktualizácia v programe vymení súbor `CatalogStudio.exe`. Nové preklady získate, keď z tohto repozitára stiahnete aj priečinok `Languages`.
+- Aktualizácia stiahne program aj preklady (`Languages`). Program má preklady zabudované, takže nové texty ukáže aj po aktualizácii zo staršej verzie.
 
 ## Licencia
 
 Bez licenčného kľúča je Catalog Studio **bezplatná verzia** a vytvára katalógy v Exceli. **PDF, webový katalóg a obrázky strán** sú v plnej verzii.
 
-Licenčný kľúč si vyžiadate v programe: **O programe › Licencia. Kľúč patrí jednému počítaču a neexpiruje.
+**Cena licencie: 89 €** — jeden počítač, bez časového obmedzenia.
+
+Licenčný kľúč si vyžiadate v programe: **O programe › Licencia**. Kľúč patrí jednému počítaču a neexpiruje.
 
 ## Obsah
 
@@ -32,4 +34,4 @@ Licenčný kľúč si vyžiadate v programe: **O programe › Licencia. Kľúč 
 
 ---
 
-**English** — ready-to-run Catalog Studio for Windows (needs the .NET 8 Desktop Runtime, x64): download the ZIP and run `CatalogStudio.exe`. About › Updates installs new versions from this repository (versions 2.0.0 and 2.0.1: set the update source to the address above once). Without a license key the program creates Excel catalogs; PDF, the web catalog and page images need a key — request it under About › License (roman@magoc.sk).
+**English** — ready-to-run Catalog Studio for Windows (needs the .NET 8 Desktop Runtime, x64): download the ZIP and run `CatalogStudio.exe`. About › Updates installs new versions from this repository (versions 2.0.0 and 2.0.1: set the update source to the address above once). Without a license key the program creates Excel catalogs; PDF, the web catalog and page images need a key (89 €, one computer, no expiry) — request it under About › License (roman@magoc.sk).

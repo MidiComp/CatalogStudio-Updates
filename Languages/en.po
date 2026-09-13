@@ -2373,3 +2373,12 @@ msgstr "Your mail program opens with the request — add your company name and s
 
 msgid "No mail program opened ({0}) — the request text was copied, send it to {1}."
 msgstr "No mail program opened ({0}) — the request text was copied, send it to {1}."
+
+msgid "License price:"
+msgstr "License price:"
+
+msgid "{0} — one computer, never expires"
+msgstr "{0} — one computer, never expires"
+
+msgid "License price: {0} — one computer, never expires."
+msgstr "License price: {0} — one computer, never expires."

@@ -2376,3 +2376,12 @@ msgstr "Ihr E-Mail-Programm öffnet sich mit der Anfrage — ergänzen Sie Ihren
 
 msgid "No mail program opened ({0}) — the request text was copied, send it to {1}."
 msgstr "Kein E-Mail-Programm geöffnet ({0}) — der Anfragetext wurde kopiert, senden Sie ihn an {1}."
+
+msgid "License price:"
+msgstr "Lizenzpreis:"
+
+msgid "{0} — one computer, never expires"
+msgstr "{0} — ein Computer, ohne Ablauf"
+
+msgid "License price: {0} — one computer, never expires."
+msgstr "Lizenzpreis: {0} — ein Computer, ohne Ablauf."
