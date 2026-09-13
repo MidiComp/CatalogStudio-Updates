@@ -1,0 +1,2410 @@
+﻿# Slovak translation for Catalog Studio 2.0
+# msgid = English source text, msgstr = Slovak translation
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Catalog Studio 2.0\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# ── MainForm: navigation ─────────────────────────
+
+msgid "catalog generator"
+msgstr "generátor katalógov"
+
+msgid "⌂   Catalog"
+msgstr "⌂   Katalóg"
+
+msgid "SETTINGS"
+msgstr "NASTAVENIA"
+
+msgid "▤   Columns"
+msgstr "▤   Stĺpce"
+
+msgid "☰   Categories"
+msgstr "☰   Kategórie"
+
+msgid "◫   Layout"
+msgstr "◫   Rozloženie"
+
+msgid "⇅   Sorting"
+msgstr "⇅   Zoradenie"
+
+msgid "▣   Images"
+msgstr "▣   Obrázky"
+
+msgid "✓   Rules"
+msgstr "✓   Pravidlá"
+
+msgid "◧   Design"
+msgstr "◧   Dizajn"
+
+msgid "❒   Cover page"
+msgstr "❒   Titulná strana"
+
+msgid "PROFILES"
+msgstr "PROFILY"
+
+msgid "❏   Templates"
+msgstr "❏   Šablóny"
+
+msgid "INFORMATION"
+msgstr "INFORMÁCIE"
+
+msgid "?   Help"
+msgstr "?   Pomoc"
+
+msgid "ⓘ   About"
+msgstr "ⓘ   O programe"
+
+msgid "Language:"
+msgstr "Jazyk:"
+
+msgid "LANGUAGE"
+msgstr "JAZYK"
+
+# ── MainForm: statuses and dialogs ───────────────
+
+msgid "Ready"
+msgstr "Pripravené"
+
+msgid "Loading data..."
+msgstr "Načítavam dáta..."
+
+msgid "Building layout..."
+msgstr "Vytváram rozloženie..."
+
+msgid "Preparing images... {0}/{1}"
+msgstr "Pripravujem obrázky... {0}/{1}"
+
+msgid "Generating Excel..."
+msgstr "Generujem Excel..."
+
+msgid "Generating PDF..."
+msgstr "Generujem PDF..."
+
+msgid "Generating web catalog..."
+msgstr "Generujem webový katalóg..."
+
+msgid "Rendering preview..."
+msgstr "Vykresľujem náhľad..."
+
+msgid "Done"
+msgstr "Hotovo"
+
+msgid "Preview ready — {0} pages"
+msgstr "Náhľad pripravený — {0} strán"
+
+msgid "Catalog created: {0}"
+msgstr "Katalóg úspešne vytvorený: {0}"
+
+msgid "Generation failed"
+msgstr "Chyba pri generovaní"
+
+msgid "Preview failed"
+msgstr "Chyba pri náhľade"
+
+msgid "Load failed"
+msgstr "Chyba pri načítaní"
+
+msgid "Error"
+msgstr "Chyba"
+
+msgid "Preview"
+msgstr "Náhľad"
+
+msgid "Data check finished"
+msgstr "Kontrola dát dokončená"
+
+msgid "Template loaded"
+msgstr "Šablóna načítaná"
+
+msgid "Loaded: {0} · {1} products"
+msgstr "Načítané: {0} · {1} produktov"
+
+msgid "Loaded: {0} products, {1} columns — check Columns and Categories in the left menu"
+msgstr "Načítané: {0} produktov, {1} stĺpcov — skontrolujte Stĺpce a Kategórie v ľavom menu"
+
+msgid "Select a source file."
+msgstr "Vyberte zdrojový súbor."
+
+msgid "Missing file"
+msgstr "Chýba súbor"
+
+msgid "Select an output folder."
+msgstr "Vyberte výstupný priečinok."
+
+msgid "Missing folder"
+msgstr "Chýba priečinok"
+
+msgid "Select at least one export format."
+msgstr "Vyberte aspoň jeden formát exportu."
+
+msgid "Export"
+msgstr "Export"
+
+msgid "The catalog was created successfully.\n\nOpen the output folder?"
+msgstr "Katalóg bol úspešne vytvorený.\n\nOtvoriť výstupný priečinok?"
+
+msgid "Failed to load file"
+msgstr "Chyba načítania súboru"
+
+msgid "The file cannot be overwritten:\n\n{0}"
+msgstr "Súbor sa nedá prepísať:\n\n{0}"
+
+msgid "Select a source file first."
+msgstr "Najprv vyberte zdrojový súbor."
+
+msgid "Data check"
+msgstr "Kontrola dát"
+
+# ── HomePanel ────────────────────────────────────
+
+msgid "Catalog"
+msgstr "Katalóg"
+
+msgid "Select source data, set the output and generate the catalog"
+msgstr "Vyberte zdrojové dáta, nastavte výstup a vygenerujte katalóg"
+
+msgid "1 · Source file"
+msgstr "1 · Zdrojový súbor"
+
+msgid "No file selected yet..."
+msgstr "Zatiaľ nie je vybraný žiadny súbor..."
+
+msgid "Browse"
+msgstr "Vybrať"
+
+msgid "Sheet:"
+msgstr "Hárok:"
+
+msgid "2 · Output"
+msgstr "2 · Výstup"
+
+msgid "Folder:"
+msgstr "Priečinok:"
+
+msgid "Catalog name:"
+msgstr "Názov katalógu:"
+
+msgid "e.g. Summer price list 2026"
+msgstr "Napr. Letný cenník 2026"
+
+msgid "Browse..."
+msgstr "Vybrať..."
+
+msgid "3 · Export formats"
+msgstr "3 · Formáty exportu"
+
+msgid "3 · Export formats (each with its own template)"
+msgstr "3 · Formáty exportu (každý s vlastnou šablónou)"
+
+msgid "(current settings)"
+msgstr "(aktuálne nastavenia)"
+
+msgid "PDF catalog"
+msgstr "PDF katalóg"
+
+msgid "Web catalog (.html)"
+msgstr "Webový katalóg (.html)"
+
+msgid "PDF preview"
+msgstr "Náhľad PDF"
+
+msgid "GENERATE CATALOG"
+msgstr "GENEROVAŤ KATALÓG"
+
+msgid "GENERATING..."
+msgstr "GENERUJEM..."
+
+msgid "The file will be loaded when generating."
+msgstr "Súbor sa načíta pri generovaní."
+
+msgid "✔  {0} products  ·  {1} columns  ·  {2}"
+msgstr "✔  {0} produktov  ·  {1} stĺpcov  ·  {2}"
+
+msgid "no categories"
+msgstr "bez kategórií"
+
+msgid "{0} categories ({1})"
+msgstr "{0} kategórií ({1})"
+
+msgid "Spreadsheets (*.xlsx;*.xlsm;*.xls;*.ods;*.csv;*.tsv)|*.xlsx;*.xlsm;*.xls;*.ods;*.csv;*.tsv|Excel (*.xlsx;*.xlsm;*.xls)|*.xlsx;*.xlsm;*.xls|OpenDocument (*.ods)|*.ods|CSV (*.csv;*.tsv;*.txt)|*.csv;*.tsv;*.txt|All files (*.*)|*.*"
+msgstr "Tabuľky (*.xlsx;*.xlsm;*.xls;*.ods;*.csv;*.tsv)|*.xlsx;*.xlsm;*.xls;*.ods;*.csv;*.tsv|Excel (*.xlsx;*.xlsm;*.xls)|*.xlsx;*.xlsm;*.xls|OpenDocument (*.ods)|*.ods|CSV (*.csv;*.tsv;*.txt)|*.csv;*.tsv;*.txt|Všetky súbory (*.*)|*.*"
+
+msgid "Select the source data file"
+msgstr "Vyberte zdrojový súbor s dátami"
+
+msgid "Select the catalog output folder"
+msgstr "Vyberte priečinok pre export katalógu"
+
+# ── ColumnsPanel ─────────────────────────────────
+
+msgid "Columns"
+msgstr "Stĺpce"
+
+
+msgid "Use"
+msgstr "Použiť"
+
+
+msgid "Name in catalog"
+msgstr "Názov v katalógu"
+
+msgid "Width"
+msgstr "Šírka"
+
+msgid "Decimals"
+msgstr "Des. miesta"
+
+msgid "Alignment"
+msgstr "Zarovnanie"
+
+msgid "Select all"
+msgstr "Vybrať všetko"
+
+msgid "Select none"
+msgstr "Zrušiť všetko"
+
+
+
+msgid "Number of decimal places for numbers (empty = no change)"
+msgstr "Počet desatinných miest pre čísla (prázdne = bez zmeny)"
+
+msgid "Card text"
+msgstr "Text karty"
+
+msgid "Card background"
+msgstr "Pozadie karty"
+
+msgid "Border"
+msgstr "Orámovanie"
+
+msgid "Font"
+msgstr "Písmo"
+
+msgid "Font size"
+msgstr "Veľkosť písma"
+
+msgid "Field font (empty = design font)"
+msgstr "Písmo poľa (prázdne = písmo z Dizajnu)"
+
+msgid "Field font size (empty = base font size)"
+msgstr "Veľkosť písma poľa (prázdne = základná veľkosť)"
+
+msgid "Image"
+msgstr "Obrázok"
+
+# ── CategoriesPanel ──────────────────────────────
+
+msgid "Categories"
+msgstr "Kategórie"
+
+msgid "The catalog splits into sections by the selected column — reorder with the arrows or by dragging"
+msgstr "Katalóg sa rozdelí na sekcie podľa hodnôt vybraného stĺpca — poradie určíte šípkami alebo ťahaním"
+
+msgid "Split by column:"
+msgstr "Rozdeliť podľa stĺpca:"
+
+msgid "Load categories"
+msgstr "Načítať kategórie"
+
+msgid "Category"
+msgstr "Kategória"
+
+msgid "All"
+msgstr "Všetky"
+
+msgid "None"
+msgstr "Žiadna"
+
+msgid "Select a category column."
+msgstr "Vyberte stĺpec kategórie."
+
+msgid "Load a file on the Catalog screen first"
+msgstr "Najprv načítajte súbor na obrazovke Katalóg"
+
+msgid "Without categories the catalog is one continuous table"
+msgstr "Bez kategórií bude katalóg jedna súvislá tabuľka"
+
+msgid "{0} categories"
+msgstr "{0} kategórií"
+
+# ── LayoutPanel ──────────────────────────────────
+
+msgid "Layout"
+msgstr "Rozloženie"
+
+msgid "How products are arranged on the page"
+msgstr "Ako budú produkty usporiadané na stránke katalógu"
+
+msgid "Output style"
+msgstr "Štýl výstupu"
+
+msgid "Table — classic rows and columns"
+msgstr "Tabuľka — klasické riadky a stĺpce"
+
+msgid "Card / flyer — fields stacked below each other (PDF and HTML only)"
+msgstr "Karta / leták — polia pod sebou (len PDF a HTML)"
+
+msgid "Number of columns"
+msgstr "Počet stĺpcov"
+
+msgid "Number of columns:"
+msgstr "Počet stĺpcov:"
+
+msgid "Gap between columns:"
+msgstr "Medzera medzi stĺpcami:"
+
+msgid "Gap between rows (card mode):"
+msgstr "Medzera medzi riadkami (režim kariet):"
+
+msgid "Headers"
+msgstr "Hlavičky"
+
+msgid "The category name is the section band above each group; the column header is the row of column titles (PDF, Excel and HTML). A separated category is placed on its own page without a header (card mode)."
+msgstr "Názov kategórie je pruh sekcie nad každou skupinou; hlavička stĺpcov je riadok s názvami stĺpcov (PDF, Excel aj HTML). Oddelená kategória je umiestnená na samostatnej strane bez hlavičky (režim kariet)."
+
+msgid "Separate categories (own page, no header):"
+msgstr "Oddeliť kategórie (samostatná strana, bez hlavičky):"
+
+msgid "Spacing"
+msgstr "Odsadenie"
+
+msgid "Cell padding"
+msgstr "Odsadenie buniek"
+
+msgid "Inner space added inside every cell."
+msgstr "Vnútorný priestor pridaný v každej bunke."
+
+msgid "Excel row height"
+msgstr "Výška riadka v Exceli"
+
+msgid "0 = automatic (by image size), a number = fixed points, or size it from the font plus the cell padding."
+msgstr "0 = automaticky (podľa obrázkov), číslo = pevná v bodoch, alebo podľa písma plus odsadenia buniek."
+
+msgid "Paper and margins"
+msgstr "Papier a okraje"
+
+msgid "Page setup, headers, breaks and print output"
+msgstr "Nastavenie strany, hlavičky, zlom a tlačový výstup"
+
+msgid "Cover style"
+msgstr "Štýl titulky"
+
+msgid "Style:"
+msgstr "Štýl:"
+
+msgid "Full page"
+msgstr "Celá strana"
+
+msgid "Flyer banner (PDF)"
+msgstr "Letáková hlavička (PDF)"
+
+msgid "Banner colors —  background:"
+msgstr "Farby hlavičky —  pozadie:"
+
+msgid "text:"
+msgstr "text:"
+
+msgid "accent:"
+msgstr "zvýraznenie:"
+
+msgid "Flyer banner: a graphic header (≈20% of the first PDF page), products continue below. Note 1 becomes the highlighted validity strip. Excel and HTML keep the full cover."
+msgstr "Letáková hlavička: grafická hlavička (≈20% prvej strany PDF), produkty pokračujú pod ňou. Poznámka 1 sa zobrazí ako zvýraznený pruh platnosti. Excel a HTML používajú celú titulku."
+
+msgid "Valid from: "
+msgstr "Platí od: "
+
+msgid "Logo on a white plate (for logos that need contrast)"
+msgstr "Logo na bielej podložke (pre logá, ktoré potrebujú kontrast)"
+
+msgid "Cell padding (PDF, HTML, Excel):"
+msgstr "Odsadenie buniek (PDF, HTML, Excel):"
+
+msgid "from font + padding"
+msgstr "podľa písma + odsadenia"
+
+msgid "Excel row height:"
+msgstr "Výška riadka v Exceli:"
+
+msgid "Padding = inner space in every cell. Excel row height: 0 = automatic (by image size), a number = fixed points, or size it from the font plus the padding."
+msgstr "Odsadenie = vnútorný priestor v každej bunke. Výška riadka v Exceli: 0 = automaticky (podľa obrázkov), číslo = pevná v bodoch, alebo podľa písma plus odsadenia."
+
+msgid "Border width"
+msgstr "Hrúbka rámu"
+
+msgid "Border color"
+msgstr "Farba rámu"
+
+msgid "Radius"
+msgstr "Zaobl."
+
+msgid "Border corner radius (PDF/HTML), 0 = square"
+msgstr "Zaoblenie rohov rámu (PDF/HTML), 0 = hranaté"
+
+msgid "Product frame (card mode)"
+msgstr "Rámik produktu (režim karta)"
+
+msgid "Product card (card mode)"
+msgstr "Okno produktu (režim karta)"
+
+msgid "Card background:"
+msgstr "Pozadie okna:"
+
+msgid "Applies to card / flyer mode (PDF and HTML). Lower the card opacity to let a page background show through."
+msgstr "Platí pre režim karta / leták (PDF a HTML). Znížením priehľadnosti okna presvitá pozadie strany."
+
+msgid "Color"
+msgstr "Farba"
+
+msgid "Frame around each product"
+msgstr "Rámik okolo každého produktu"
+
+msgid "Color:"
+msgstr "Farba:"
+
+msgid "Thickness:"
+msgstr "Hrúbka:"
+
+msgid "Radius:"
+msgstr "Zaoblenie:"
+
+msgid "Applies to card / flyer mode (PDF and HTML)."
+msgstr "Platí pre režim karta / leták (PDF a HTML)."
+
+msgid "Page background (PDF):"
+msgstr "Pozadie strany (PDF):"
+
+msgid "Background image:"
+msgstr "Obrázok pozadia:"
+
+msgid "Background is drawn on every PDF page. An image fills the page and overrides the color; leave both empty for white. Keep original quality embeds the image unchanged; otherwise it is rasterized at the DPI."
+msgstr "Pozadie sa vykreslí na každej strane PDF. Obrázok vyplní stranu a má prednosť pred farbou; obe prázdne = biele. „Zachovať pôvodnú kvalitu" vloží obrázok bez zmeny; inak sa prevzorkuje na dané DPI."
+
+msgid "Select a background image"
+msgstr "Vyberte obrázok pozadia"
+
+msgid "Make white background transparent"
+msgstr "Biele pozadie spraviť priehľadným"
+
+msgid "tolerance:"
+msgstr "tolerancia:"
+
+msgid "corner radius:"
+msgstr "zaoblenie rohov:"
+
+msgid "Flyer header"
+msgstr "Letáková hlavička"
+
+msgid "A graphic header on the first PDF page — logo and free text fields"
+msgstr "Grafická hlavička na prvej strane PDF — logo a voľné textové polia"
+
+msgid "Use flyer header on the first PDF page"
+msgstr "Použiť letákovú hlavičku na prvej strane PDF"
+
+msgid "Products continue right below the header. This is separate from the cover page — both can be used together."
+msgstr "Produkty pokračujú hneď pod hlavičkou. Je to nezávislé od titulnej strany — dajú sa použiť aj naraz."
+
+msgid "Logo and colors"
+msgstr "Logo a farby"
+
+msgid "Logo height:"
+msgstr "Výška loga:"
+
+msgid "Logo on a white plate"
+msgstr "Logo na bielej podložke"
+
+msgid "Band color:"
+msgstr "Farba pruhu:"
+
+msgid "Bottom stripe:"
+msgstr "Spodná linka:"
+
+msgid "opacity %:"
+msgstr "priehľadnosť %:"
+
+msgid "radius:"
+msgstr "zaoblenie:"
+
+msgid "Highlight pills —  opacity %:"
+msgstr "Zvýraznenie —  priehľadnosť %:"
+
+msgid "Highlight pills:"
+msgstr "Zvýraznenie:"
+
+msgid "The logo comes from Design settings. Leave the plate off for a transparent PNG."
+msgstr "Logo sa preberá z nastavení Dizajn. Pre priehľadné PNG nechajte podložku vypnutú."
+
+msgid "Text fields"
+msgstr "Textové polia"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Size"
+msgstr "Veľkosť"
+
+msgid "Align"
+msgstr "Zarovnanie"
+
+msgid "Highlight"
+msgstr "Zvýraznenie"
+
+msgid "Each field is one text line in the header. Highlight = a colored pill behind the text (left-click to pick, right-click for none). Empty fields are skipped."
+msgstr "Každé pole je jeden riadok textu v hlavičke. Zvýraznenie = farebný pruh za textom (ľavý klik vyberie, pravý klik zruší). Prázdne polia sa vynechajú."
+
+msgid "Left"
+msgstr "Vľavo"
+
+msgid "Center"
+msgstr "Na stred"
+
+msgid "Right"
+msgstr "Vpravo"
+
+msgid "Border thickness 1-10 (Excel uses thin/medium/thick)"
+msgstr "Hrúbka orámovania 1-10 (Excel používa tenký/stredný/hrubý)"
+
+msgid "Table: 1-2  ·  Card: 1-6"
+msgstr "Tabuľka: 1-2  ·  Karta: 1-6"
+
+msgid "Product split across columns"
+msgstr "Delenie produktov medzi stĺpce"
+
+msgid "Vertical — products fill the left column first, then the right  (1,2,3 | 4,5,6)"
+msgstr "Zvislé — produkty idú za sebou v ľavom stĺpci, potom v pravom  (1,2,3 | 4,5,6)"
+
+msgid "Horizontal — products alternate between columns  (1,2 | 3,4 | 5,6)"
+msgstr "Vodorovné — produkty sa striedajú medzi stĺpcami  (1,2 | 3,4 | 5,6)"
+
+msgid "Headers and page breaks"
+msgstr "Hlavičky a zlom strán"
+
+msgid "Show category names"
+msgstr "Zobraziť názvy kategórií"
+
+msgid "Show column header (repeats on every PDF page)"
+msgstr "Zobraziť hlavičku stĺpcov (v PDF sa opakuje na každej strane)"
+
+msgid "Show page footer (date and page numbers) — off gives more rows per page"
+msgstr "Zobraziť pätu strany (dátum a číslovanie) — vypnutím sa zmestí viac riadkov"
+
+msgid "Repeat category and column header on every printed Excel page"
+msgstr "Opakovať kategóriu a hlavičku stĺpcov na každej tlačenej strane Excelu"
+
+msgid "Repeat category and column header on every PDF page"
+msgstr "Opakovať kategóriu a hlavičku stĺpcov na každej strane PDF"
+
+msgid "Crop marks for print (PDF)"
+msgstr "Orezové značky pre tlač (PDF)"
+
+msgid "Bleed for background (mm):"
+msgstr "Spadávka pre pozadie (mm):"
+
+msgid "Applies to PDF and Excel printing (content always fits the page width). Crop marks add a white border with trim marks around the PDF page for professional cutting; the bleed lets the page background and the flyer banner run past the trim line so no white edge remains after cutting."
+msgstr "Platí pre PDF aj tlač Excelu (obsah sa vždy prispôsobí na šírku strany). Orezové značky pridajú biely okraj so značkami okolo strany PDF pre profesionálne orezanie; spadávka necháva pozadie strany aj letákovú hlavičku presiahnuť za orezovú líniu, takže po oreze nezostane biely okraj."
+
+msgid "A category starts on a new PDF page unless at least"
+msgstr "Kategória začne na novej strane PDF, ak sa pod ňu nezmestí aspoň"
+
+msgid "items fit below it  (0 = off)"
+msgstr "položiek  (0 = vypnuté)"
+
+msgid "Page and print"
+msgstr "Strana a tlač"
+
+msgid "Paper:"
+msgstr "Papier:"
+
+msgid "Orientation:"
+msgstr "Orientácia:"
+
+msgid "Portrait"
+msgstr "Na výšku"
+
+msgid "Landscape"
+msgstr "Na šírku"
+
+msgid "Margins (mm):"
+msgstr "Okraje (mm):"
+
+msgid "Margins (mm) —  top:"
+msgstr "Okraje (mm) —  hore:"
+
+msgid "bottom:"
+msgstr "dole:"
+
+msgid "left:"
+msgstr "vľavo:"
+
+msgid "right:"
+msgstr "vpravo:"
+
+msgid "Applies to PDF and Excel printing (content always fits the page width)."
+msgstr "Platí pre PDF aj tlač Excelu (obsah sa vždy prispôsobí na šírku strany)."
+
+# ── SortPanel ────────────────────────────────────
+
+msgid "Sorting"
+msgstr "Zoradenie"
+
+msgid "Multi-level product order within categories"
+msgstr "Viacúrovňové poradie produktov vo vnútri kategórií"
+
+msgid "Sort products by:"
+msgstr "Zoradiť produkty podľa:"
+
+msgid "Level {0}:"
+msgstr "{0}. úroveň:"
+
+msgid "(no sorting)"
+msgstr "(bez zoradenia)"
+
+msgid "Ascending  (A-Z)"
+msgstr "Vzostupne  (A-Z)"
+
+msgid "Descending  (Z-A)"
+msgstr "Zostupne  (Z-A)"
+
+msgid "Products are sorted by level 1 first; ties are decided by level 2 and then 3 (e.g. Name → Price).\nNumbers and prices sort numerically (2.50 < 15.90), texts alphabetically.\n\nCategory order is set in the Categories panel — the catalog always groups by category first and this sorting applies within them."
+msgstr "Produkty sa zoradia najprv podľa 1. úrovne; pri rovnakej hodnote rozhoduje 2. a potom 3. úroveň (napr. Názov → Cena).\nČísla a ceny sa radia numericky (2,50 < 15,90), texty podľa abecedy.\n\nPoradie kategórií sa nastavuje v paneli Kategórie — katalóg sa vždy najprv zoskupí podľa kategórií a toto zoradenie platí vo vnútri nich."
+
+# ── ImagesPanel ──────────────────────────────────
+
+msgid "Images"
+msgstr "Obrázky"
+
+msgid "Images are found by the selected column value in the given folder (extension optional)"
+msgstr "Obrázok sa hľadá podľa hodnoty vybraného stĺpca v zadanom priečinku (prípona nie je nutná)"
+
+msgid "Use product images"
+msgstr "Použiť obrázky produktov"
+
+msgid "Image folder:"
+msgstr "Priečinok obrázkov:"
+
+msgid "Image name column:"
+msgstr "Stĺpec s názvom obrázka:"
+
+msgid "Name prefix:"
+msgstr "Predpona názvu:"
+
+msgid "Name suffix:"
+msgstr "Prípona názvu:"
+
+msgid "e.g. IMG_"
+msgstr "napr. IMG_"
+
+msgid "e.g. _large"
+msgstr "napr. _invelky"
+
+msgid "File name = prefix + column value + suffix (.jpg/.png extension is added automatically)"
+msgstr "Názov súboru = predpona + hodnota stĺpca + prípona (koncovka .jpg/.png sa doplní automaticky)"
+
+msgid "Width (px):"
+msgstr "Šírka (px):"
+
+msgid "Height (px):"
+msgstr "Výška (px):"
+
+msgid "Preview:"
+msgstr "Náhľad:"
+
+msgid "Select the image folder"
+msgstr "Vyberte priečinok s obrázkami"
+
+msgid "Load a file first"
+msgstr "Najprv načítajte súbor"
+
+msgid "No image found"
+msgstr "Nenašiel sa žiadny obrázok"
+
+# ── RulesPanel ───────────────────────────────────
+
+msgid "Rules"
+msgstr "Pravidlá"
+
+msgid "Conditional formatting and hiding — e.g. Price > 100 → red, Stock = 0 → hide"
+msgstr "Podmienené formátovanie a skrývanie — napr. Cena > 100 → červená, Sklad = 0 → skryť"
+
+msgid "Active"
+msgstr "Aktívne"
+
+msgid "Column"
+msgstr "Stĺpec"
+
+msgid "Condition"
+msgstr "Podmienka"
+
+msgid "Value"
+msgstr "Hodnota"
+
+msgid "Action"
+msgstr "Akcia"
+
+msgid "Whole row"
+msgstr "Celý riadok"
+
+msgid "Text color"
+msgstr "Farba textu"
+
+msgid "Background"
+msgstr "Pozadie"
+
+msgid "+  Add rule"
+msgstr "+  Pridať pravidlo"
+
+msgid "Remove"
+msgstr "Odstrániť"
+
+msgid "Colors: click = pick, right-click = clear"
+msgstr "Farby: klik = vybrať, pravý klik = zrušiť"
+
+msgid "Contains"
+msgstr "Obsahuje"
+
+msgid "Equals"
+msgstr "Rovná sa"
+
+msgid "Not equal"
+msgstr "Nerovná sa"
+
+msgid "Greater than"
+msgstr "Väčšie ako"
+
+msgid "Less than"
+msgstr "Menšie ako"
+
+msgid "Is empty"
+msgstr "Je prázdne"
+
+msgid "Is not empty"
+msgstr "Nie je prázdne"
+
+msgid "Looks like a date"
+msgstr "Vyzerá ako dátum"
+
+msgid "Font size for matched text (empty = unchanged)"
+msgstr "Veľkosť písma pre nájdený text (prázdne = bez zmeny)"
+
+msgid "Format"
+msgstr "Formátovať"
+
+msgid "Hide"
+msgstr "Skryť"
+
+# ── DesignPanel ──────────────────────────────────
+
+msgid "Design"
+msgstr "Dizajn"
+
+msgid "Colors, font and logo — applies to Excel and PDF"
+msgstr "Farby, písmo a logo — platí pre Excel aj PDF výstup"
+
+msgid "Logo (PDF header):"
+msgstr "Logo (hlavička PDF):"
+
+msgid "Font:"
+msgstr "Písmo:"
+
+msgid "Font size:"
+msgstr "Veľkosť písma:"
+
+msgid "Header background:"
+msgstr "Pozadie hlavičky:"
+
+msgid "Header text:"
+msgstr "Text hlavičky:"
+
+msgid "Category background:"
+msgstr "Pozadie kategórie:"
+
+msgid "Category text:"
+msgstr "Text kategórie:"
+
+msgid "Alternating row shading"
+msgstr "Striedavé podfarbenie riadkov"
+
+msgid "Lines under product rows"
+msgstr "Čiary pod riadkami produktov"
+
+msgid "Select a logo"
+msgstr "Vyberte logo"
+
+msgid "Images (*.jpg;*.jpeg;*.png;*.bmp)|*.jpg;*.jpeg;*.png;*.bmp|All files (*.*)|*.*"
+msgstr "Obrázky (*.jpg;*.jpeg;*.png;*.bmp)|*.jpg;*.jpeg;*.png;*.bmp|Všetky súbory (*.*)|*.*"
+
+# ── CoverPanel ───────────────────────────────────
+
+msgid "Cover page"
+msgstr "Titulná strana"
+
+msgid "Price list name and company details on the first page of PDF and Excel"
+msgstr "Názov cenníka a údaje o firme na prvej strane PDF aj Excelu"
+
+msgid "Name"
+msgstr "Názov"
+
+msgid "Price list name:"
+msgstr "Názov cenníka:"
+
+msgid "e.g. Dairy price list 2026"
+msgstr "napr. Cenník mliečnych výrobkov 2026"
+
+msgid "Shown in every PDF page header and on the cover page. Empty = the file name from the Catalog screen is used."
+msgstr "Zobrazuje sa v hlavičke každej strany PDF a na titulnej strane. Prázdne = použije sa názov súboru z obrazovky Katalóg."
+
+msgid "Add a cover page (PDF and Excel)"
+msgstr "Pridať titulnú stranu (PDF aj Excel)"
+
+msgid "Company:"
+msgstr "Firma:"
+
+msgid "e.g. Kollár Ltd."
+msgstr "napr. Kollár s.r.o."
+
+msgid "Address:"
+msgstr "Adresa:"
+
+msgid "street, ZIP, city"
+msgstr "ulica, PSČ, mesto"
+
+msgid "Phone:"
+msgstr "Tel. kontakt:"
+
+msgid "Web:"
+msgstr "Web:"
+
+msgid "www.example.com"
+msgstr "www.priklad.sk"
+
+msgid "Show creation date"
+msgstr "Zobraziť dátum vytvorenia"
+
+msgid "The logo comes from Design settings. In Excel the cover is separated by a page break for printing."
+msgstr "Logo sa preberá z nastavení Dizajn. V Exceli je titulná strana oddelená zlomom strany pre tlač."
+
+msgid "Notes / announcements"
+msgstr "Poznámky / oznamy"
+
+msgid "Note 1:"
+msgstr "Poznámka 1:"
+
+msgid "Note 2:"
+msgstr "Poznámka 2:"
+
+msgid "Note 3:"
+msgstr "Poznámka 3:"
+
+msgid "Free texts on the cover page — announcements, price validity, delivery terms... Empty notes are hidden."
+msgstr "Ľubovoľné texty na titulnej strane — oznamy, platnosť cien, dodacie podmienky... Prázdne poznámky sa nezobrazia."
+
+# ── TemplatesPanel ───────────────────────────────
+
+msgid "Templates"
+msgstr "Šablóny"
+
+msgid "Save complete settings under a name — e.g. Price list 2026, Sale, Wholesale"
+msgstr "Uložte si kompletné nastavenia pod menom — napr. Cenník 2026, Akcia, Veľkoobchod"
+
+msgid "Save current as..."
+msgstr "Uložiť aktuálne ako..."
+
+msgid "Load"
+msgstr "Načítať"
+
+msgid "Delete"
+msgstr "Vymazať"
+
+msgid "Template \"{0}\" already exists.\n\nOverwrite?"
+msgstr "Šablóna \"{0}\" už existuje.\n\nPrepísať?"
+
+msgid "Failed to load the template."
+msgstr "Šablónu sa nepodarilo načítať."
+
+msgid "Delete template \"{0}\"?"
+msgstr "Vymazať šablónu \"{0}\"?"
+
+msgid "Template name"
+msgstr "Názov šablóny"
+
+# ── HelpPanel / AboutPanel ───────────────────────
+
+msgid "Help"
+msgstr "Pomoc"
+
+msgid "How to use Catalog Studio"
+msgstr "Ako používať Catalog Studio"
+
+msgid "Quick start"
+msgstr "Rýchly postup"
+
+msgid "1.  Select the source file (.xlsx, .xls, .ods, .csv) on the Catalog screen.\n2.  In Columns choose what to show, names and order.\n3.  In Categories pick the column that splits the catalog.\n4.  Adjust Layout, Sorting, Images, Rules and Design as needed.\n5.  Optionally enable the Cover page with company details.\n6.  Select the output folder, formats and click GENERATE CATALOG.\n\nAll settings are saved automatically and can be stored as a template."
+msgstr "1.  Na obrazovke Katalóg vyberte zdrojový súbor (.xlsx, .xls, .ods, .csv).\n2.  V menu Stĺpce vyberte, čo sa má zobraziť, názvy a poradie.\n3.  V menu Kategórie zvoľte stĺpec, podľa ktorého sa katalóg rozdelí.\n4.  Upravte Rozloženie, Zoradenie, Obrázky, Pravidlá a Dizajn podľa potreby.\n5.  Voliteľne zapnite Titulnú stranu s údajmi o firme.\n6.  Vyberte výstupný priečinok, formáty a kliknite GENEROVAŤ KATALÓG.\n\nVšetky nastavenia sa ukladajú automaticky a dajú sa uložiť ako šablóna."
+
+msgid "A detailed guide for every screen opens as a PDF document."
+msgstr "Podrobný návod ku každej obrazovke sa otvorí ako PDF dokument."
+
+msgid "Open the guide (PDF)"
+msgstr "Otvoriť návod (PDF)"
+
+msgid "Failed to open the guide:\n\n{0}"
+msgstr "Návod sa nepodarilo otvoriť:\n\n{0}"
+
+msgid "About"
+msgstr "O programe"
+
+msgid "Application information"
+msgstr "Informácie o aplikácii"
+
+msgid "Product catalog and price list generator from spreadsheet data.\nLoads any spreadsheet, lets you set the rules and produces a finished Excel, PDF and web catalog."
+msgstr "Generátor produktových katalógov a cenníkov z tabuľkových dát.\nNačíta ľubovoľnú tabuľku, umožní nastaviť pravidlá a vytvorí hotový Excel, PDF a webový katalóg."
+
+msgid "Version:"
+msgstr "Verzia:"
+
+msgid "Author:"
+msgstr "Autor:"
+
+msgid "Copyright:"
+msgstr "Copyright:"
+
+msgid "Platform:"
+msgstr "Platforma:"
+
+# ── PreviewForm / DataCheckForm ──────────────────
+
+msgid "PDF preview — {0}"
+msgstr "Náhľad PDF — {0}"
+
+msgid "◀  Previous"
+msgstr "◀  Predchádzajúca"
+
+msgid "Next  ▶"
+msgstr "Ďalšia  ▶"
+
+msgid "Page {0} / {1}"
+msgstr "Strana {0} / {1}"
+
+msgid "Copy"
+msgstr "Kopírovať"
+
+msgid "Save as..."
+msgstr "Uložiť ako..."
+
+msgid "Close"
+msgstr "Zavrieť"
+
+msgid "Text file (*.txt)|*.txt"
+msgstr "Textový súbor (*.txt)|*.txt"
+
+msgid "Save"
+msgstr "Uloženie"
+
+# ── FileService ──────────────────────────────────
+
+msgid "The file is open in another program.\n\nClose it and try again."
+msgstr "Súbor je otvorený v inom programe.\n\nZatvorte ho a skúste znovu."
+
+msgid "File in use"
+msgstr "Súbor je používaný"
+
+msgid "The file:\n\n{0}\n\nalready exists.\n\nOverwrite it?"
+msgstr "Súbor:\n\n{0}\n\nuž existuje.\n\nChcete ho prepísať?"
+
+msgid "Existing file"
+msgstr "Existujúci súbor"
+
+msgid "Saving cancelled."
+msgstr "Ukladanie zrušené."
+
+msgid "No columns selected."
+msgstr "Nie sú vybrané žiadne stĺpce."
+
+# ── Outputs (PDF/Excel/HTML) ─────────────────────
+
+msgid "Created: {0}"
+msgstr "Vytvorené: {0}"
+
+msgid "Created: "
+msgstr "Vytvorené: "
+
+msgid "Phone: {0}"
+msgstr "Tel.: {0}"
+
+msgid "Phone: "
+msgstr "Tel.: "
+
+msgid "Search the catalog..."
+msgstr "Hľadať v katalógu..."
+
+msgid "↑ Top"
+msgstr "↑ Hore"
+
+msgid "No product matches the search."
+msgstr "Žiadny produkt nezodpovedá hľadaniu."
+
+msgid "Generated {0} — Catalog Studio"
+msgstr "Vygenerované {0} — Catalog Studio"
+
+# ── DataCheckService ─────────────────────────────
+
+msgid "DATA CHECK — {0}"
+msgstr "KONTROLA DÁT — {0}"
+
+msgid " (sheet {0})"
+msgstr " (hárok {0})"
+
+msgid "Generated: {0}"
+msgstr "Vygenerované: {0}"
+
+msgid "Products: {0}"
+msgstr "Produktov: {0}"
+
+msgid "IMAGES"
+msgstr "OBRÁZKY"
+
+msgid "Images are disabled — check skipped."
+msgstr "Obrázky sú vypnuté — kontrola preskočená."
+
+msgid "MISSING IMAGES ({0} of {1})"
+msgstr "CHÝBAJÚCE OBRÁZKY ({0} z {1})"
+
+msgid "All products have an image. ✔"
+msgstr "Všetky produkty majú obrázok. ✔"
+
+msgid "(empty image name)"
+msgstr "(prázdny názov obrázka)"
+
+msgid "expected file: {0}"
+msgstr "hľadaný súbor: {0}"
+
+msgid "  ... and {0} more"
+msgstr "  ... a ďalších {0}"
+
+msgid "EMPTY VALUES (visible columns)"
+msgstr "PRÁZDNE HODNOTY (viditeľné stĺpce)"
+
+msgid "All visible columns are filled. ✔"
+msgstr "Všetky viditeľné stĺpce sú vyplnené. ✔"
+
+msgid "  {0}: {1} empty  ({2})"
+msgstr "  {0}: {1} prázdnych  ({2})"
+
+msgid "  {0}: {1} empty  ({2}, ...)"
+msgstr "  {0}: {1} prázdnych  ({2}, ...)"
+
+msgid "DUPLICATE VALUES (column {0})"
+msgstr "DUPLICITNÉ HODNOTY (stĺpec {0})"
+
+msgid "No visible column."
+msgstr "Žiadny viditeľný stĺpec."
+
+msgid "No duplicates. ✔"
+msgstr "Žiadne duplicity. ✔"
+
+msgid "CATEGORIES"
+msgstr "KATEGÓRIE"
+
+msgid "Categories are not set — the catalog is one table."
+msgstr "Kategórie nie sú nastavené — katalóg je jedna tabuľka."
+
+msgid "  Without category: {0} products ({1})"
+msgstr "  Bez kategórie: {0} produktov ({1})"
+
+msgid "  WARNING — values outside the category list (these products would be missing, reload categories):"
+msgstr "  POZOR — hodnoty mimo zoznamu kategórií (produkty by v katalógu chýbali, načítajte kategórie znova):"
+
+msgid "    \"{0}\" — {1} products"
+msgstr "    \"{0}\" — {1} produktov"
+
+msgid "  Disabled category \"{0}\" — {1} products will not be in the catalog"
+msgstr "  Vypnutá kategória \"{0}\" — {1} produktov nebude v katalógu"
+
+msgid "All products have a valid category. ✔"
+msgstr "Všetky produkty majú platnú kategóriu. ✔"
+
+msgid "RULES (hiding)"
+msgstr "PRAVIDLÁ (skrývanie)"
+
+msgid "  Rules hide {0} products ({1} remain in the catalog)."
+msgstr "  Pravidlá skryjú {0} produktov (v katalógu zostane {1})."
+
+msgid "Something went wrong"
+msgstr "Nastala chyba"
+
+msgid "An unexpected error occurred."
+msgstr "Nastala neočakávaná chyba."
+
+msgid "The catalog could not be created."
+msgstr "Katalóg sa nepodarilo vytvoriť."
+
+msgid "Show details"
+msgstr "Zobraziť podrobnosti"
+
+msgid "Hide details"
+msgstr "Skryť podrobnosti"
+
+msgid "Copy details"
+msgstr "Kopírovať podrobnosti"
+
+msgid "Open log"
+msgstr "Otvoriť denník"
+
+msgid "Recent:"
+msgstr "Nedávne:"
+
+msgid "Auto-refresh"
+msgstr "Automatická obnova"
+
+msgid "Updating…"
+msgstr "Aktualizujem…"
+
+msgid "Up to date"
+msgstr "Aktuálne"
+
+msgid "The preview could not be created."
+msgstr "Náhľad sa nepodarilo vytvoriť."
+
+msgid "Show logo and title at the top of every PDF page"
+msgstr "Zobraziť logo a názov v hlavičke každej strany PDF"
+
+msgid "Remove rule"
+msgstr "Odstrániť pravidlo"
+
+msgid "Reload categories"
+msgstr "Znova načítať kategórie"
+
+msgid "Hide all categories"
+msgstr "Skryť všetky kategórie"
+
+msgid "Deselect all columns"
+msgstr "Odznačiť všetky stĺpce"
+
+msgid "Nothing to undo"
+msgstr "Nie je čo vrátiť späť"
+
+msgid "Nothing to redo"
+msgstr "Nie je čo zopakovať"
+
+msgid "Undone: {0}"
+msgstr "Vrátené späť: {0}"
+
+msgid "Redone: {0}"
+msgstr "Zopakované: {0}"
+
+msgid "{0} — press Ctrl+Z to undo"
+msgstr "{0} — stlačte Ctrl+Z pre vrátenie späť"
+
+msgid "PDF / print"
+msgstr "PDF / tlač"
+
+msgid "Page setup, headers, breaks and print marks for the PDF output"
+msgstr "Nastavenie strany, hlavičky, zlomy a tlačové značky pre PDF"
+
+msgid "Settings that apply only to the Excel (.xlsx) output"
+msgstr "Nastavenia platné len pre výstup Excel (.xlsx)"
+
+msgid "Excel printing"
+msgstr "Tlač Excelu"
+
+msgid "Printing always fits the content to the page width."
+msgstr "Tlač vždy prispôsobí obsah na šírku strany."
+
+msgid "Content always fits the page width. Crop marks add a white border with trim marks around the PDF page for professional cutting; the bleed lets the page background and the flyer banner run past the trim line so no white edge remains after cutting."
+msgstr "Obsah sa vždy prispôsobí na šírku strany. Orezové značky pridajú biely okraj so značkami okolo strany PDF pre profesionálne orezanie; spadávka necháva pozadie strany aj letákovú hlavičku presiahnuť za orezovú líniu, takže po oreze nezostane biely okraj."
+
+msgid "Paper, orientation and margins are shared with the PDF output."
+msgstr "Papier, orientácia a okraje sú spoločné s výstupom PDF."
+
+msgid "Resolution (DPI):"
+msgstr "Rozlíšenie (DPI):"
+
+msgid "JPEG quality (%):"
+msgstr "JPEG kvalita (%):"
+
+msgid "higher = sharper print, larger files"
+msgstr "vyššie = ostrejšia tlač, väčšie súbory"
+
+msgid "Web / HTML"
+msgstr "Web / HTML"
+
+msgid "Settings that apply only to the web (.html) output"
+msgstr "Nastavenia platné len pre webový výstup (.html)"
+
+msgid "Images in the web catalog"
+msgstr "Obrázky vo webovom katalógu"
+
+msgid "Embed images in the single .html file"
+msgstr "Vložiť obrázky do jedného .html súboru"
+
+msgid "Everything in one file (as before). Easiest to share, but a large .html."
+msgstr "Všetko v jednom súbore (ako doteraz). Najľahšie sa zdieľa, ale veľký .html."
+
+msgid "Link to the images in the source folder"
+msgstr "Odkázať na obrázky v zdrojovom priečinku"
+
+msgid "The .html only references the original files by their full path. Smallest .html, but it only works on this computer and keeps the source images in place (transparency is not applied)."
+msgstr "Súbor .html iba odkazuje na pôvodné súbory celou cestou. Najmenší .html, ale funguje len na tomto počítači a zdrojové obrázky musia zostať na mieste (priehľadnosť sa neaplikuje)."
+
+msgid "Copy images to a folder next to the .html (relative links)"
+msgstr "Skopírovať obrázky do priečinka vedľa .html (relatívne odkazy)"
+
+msgid "Creates a \"<name>_images\" folder beside the .html and links to it. Portable — move the .html together with the folder."
+msgstr "Vytvorí priečinok „<názov>_images“ vedľa .html a odkazuje naň. Prenosné — presúvaj .html spolu s priečinkom."
+
+msgid "Keep original quality"
+msgstr "Zachovať pôvodnú kvalitu"
+
+msgid "Full width (background)"
+msgstr "Na celú šírku (pozadie)"
+
+msgid "height:"
+msgstr "výška:"
+
+msgid "Clear"
+msgstr "Vymazať"
+
+msgid "Select an image"
+msgstr "Vyberte obrázok"
+
+msgid "Full width stretches the image across the whole banner behind the text. Otherwise it is a sized image freely placed by X/Y offset (in points, from the band's top-left), independent of the logo and text. All sizes are in points."
+msgstr "Na celú šírku roztiahne obrázok cez celý banner za text. Inak je to obrázok s danou veľkosťou, voľne umiestnený posunom X/Y (v bodoch, od ľavého horného rohu pruhu), nezávisle od loga a textu. Všetky rozmery sú v bodoch."
+
+msgid "Size —  width:"
+msgstr "Veľkosť —  šírka:"
+
+msgid "Position —  X:"
+msgstr "Poloha —  X:"
+
+msgid "Y:"
+msgstr "Y:"
+
+msgid "Band height (0 = auto):"
+msgstr "Výška pruhu (0 = auto):"
+
+msgid "Full page width"
+msgstr "Na celú šírku strany"
+
+msgid "Images (*.png;*.jpg;*.jpeg;*.bmp;*.gif)|*.png;*.jpg;*.jpeg;*.bmp;*.gif|All files (*.*)|*.*"
+msgstr "Obrázky (*.png;*.jpg;*.jpeg;*.bmp;*.gif)|*.png;*.jpg;*.jpeg;*.bmp;*.gif|Všetky súbory (*.*)|*.*"
+
+msgid "Show logo"
+msgstr "Zobraziť logo"
+
+msgid "Show image"
+msgstr "Zobraziť obrázok"
+
+msgid "Show text fields"
+msgstr "Zobraziť textové polia"
+
+msgid "Product filter"
+msgstr "Filter produktov"
+
+msgid "Show only the products listed in a second file (matched by a shared column)"
+msgstr "Zobraziť iba produkty uvedené v druhom súbore (párované cez spoločný stĺpec)"
+
+msgid "Show only products from a filter file"
+msgstr "Zobraziť iba produkty z filtrovacieho súboru"
+
+msgid "Filter file:"
+msgstr "Filtrovací súbor:"
+
+msgid "Column in the filter file:"
+msgstr "Stĺpec vo filtr. súbore:"
+
+msgid "Matching column in the data:"
+msgstr "Stĺpec v hlavných dátach:"
+
+msgid "Works like VLOOKUP: the filter file lists the products to show; both files share a column with the same values (e.g. EAN or a product code) — the column names may differ. The catalog keeps the category grouping and sorting."
+msgstr "Funguje ako VLOOKUP: filtrovací súbor obsahuje produkty, ktoré sa majú zobraziť; oba súbory majú stĺpec s rovnakými hodnotami (napr. EAN alebo kód produktu) — názvy stĺpcov sa môžu líšiť. Katalóg zachová zoskupenie podľa kategórií aj zoradenie."
+
+msgid "Spreadsheets (*.xlsx;*.xlsm;*.xls;*.ods;*.csv;*.tsv)|*.xlsx;*.xlsm;*.xls;*.ods;*.csv;*.tsv|All files (*.*)|*.*"
+msgstr "Tabuľky (*.xlsx;*.xlsm;*.xls;*.ods;*.csv;*.tsv)|*.xlsx;*.xlsm;*.xls;*.ods;*.csv;*.tsv|Všetky súbory (*.*)|*.*"
+
+msgid "Select the filter file"
+msgstr "Vyberte filtrovací súbor"
+
+msgid "The filter file could not be read."
+msgstr "Filtrovací súbor sa nepodarilo prečítať."
+
+msgid "{0} values in the filter file."
+msgstr "{0} hodnôt vo filtrovacom súbore."
+
+msgid "{0} values in the filter file — {1} of {2} products match."
+msgstr "{0} hodnôt vo filtrovacom súbore — zodpovedá {1} z {2} produktov."
+
+msgid "Enlarge"
+msgstr "Zväčšiť"
+
+msgid "Card size"
+msgstr "Veľkosť karty"
+
+msgid "Enlarged card size in grid cells (Enlarge action, card mode)"
+msgstr "Veľkosť zväčšenej karty v bunkách mriežky (akcia Zväčšiť, režim kariet)"
+
+msgid "Move to start"
+msgstr "Na začiatok"
+
+msgid "Move to end"
+msgstr "Na koniec"
+
+msgid "Badge (ribbon)"
+msgstr "Pruh s nápisom"
+
+msgid "Badge text"
+msgstr "Text pruhu"
+
+msgid "Angle"
+msgstr "Uhol"
+
+msgid "Ribbon caption, e.g. SUPER CENA / NOVINKA (Badge action, card mode)"
+msgstr "Nápis pruhu, napr. SUPER CENA / NOVINKA (akcia Pruh s nápisom, režim kariet)"
+
+msgid "Save rule template..."
+msgstr "Uložiť šablónu pravidiel…"
+
+msgid "Rule templates..."
+msgstr "Šablóny pravidiel…"
+
+msgid "Rule templates"
+msgstr "Šablóny pravidiel"
+
+msgid "Apply (replace current rules)"
+msgstr "Použiť (nahradiť súčasné pravidlá)"
+
+msgid "Add to current rules"
+msgstr "Pridať k súčasným pravidlám"
+
+msgid "The template could not be loaded."
+msgstr "Šablónu sa nepodarilo načítať."
+
+msgid "Delete the selected template?"
+msgstr "Vymazať vybranú šablónu?"
+
+msgid "There are no rules to save."
+msgstr "Nie sú žiadne pravidlá na uloženie."
+
+msgid "Back %"
+msgstr "Poz. %"
+
+msgid "Background opacity 0-100%"
+msgstr "Priehľadnosť pozadia 0-100 %"
+
+
+
+
+
+
+
+
+
+
+
+
+
+msgid "Layer Z"
+msgstr "Vrstva Z"
+
+msgid "Drawing order in card mode (higher = on top, negative = behind the other fields)"
+msgstr "Poradie vykreslenia v režime karta (vyššie = navrchu, záporné = za ostatnými poľami)"
+
+
+msgid "Pos X %"
+msgstr "Poloha X %"
+
+msgid "Pos Y %"
+msgstr "Poloha Y %"
+
+msgid "Field position X in percent of the card width (empty = normal flow)"
+msgstr "Vodorovná poloha poľa v percentách šírky karty (prázdne = bežné poradie)"
+
+msgid "Field position Y in percent of the card height (empty = normal flow)"
+msgstr "Zvislá poloha poľa v percentách výšky karty (prázdne = bežné poradie)"
+
+msgid "Pad left"
+msgstr "Okraj vľavo"
+
+msgid "Pad top"
+msgstr "Okraj hore"
+
+msgid "Pad right"
+msgstr "Okraj vpravo"
+
+msgid "Pad bottom"
+msgstr "Okraj dole"
+
+msgid "Padding between the field text and its left edge (empty = automatic)"
+msgstr "Odsadenie textu poľa od ľavého okraja (prázdne = automaticky)"
+
+msgid "Padding between the field text and its top edge (empty = automatic)"
+msgstr "Odsadenie textu poľa od horného okraja (prázdne = automaticky)"
+
+msgid "Padding between the field text and its right edge (empty = automatic)"
+msgstr "Odsadenie textu poľa od pravého okraja (prázdne = automaticky)"
+
+msgid "Padding between the field text and its bottom edge (empty = automatic)"
+msgstr "Odsadenie textu poľa od dolného okraja (prázdne = automaticky)"
+
+msgid "Shadow"
+msgstr "Tieň"
+
+msgid "Shadow color"
+msgstr "Farba tieňa"
+
+msgid "Shadow X"
+msgstr "Tieň X"
+
+msgid "Shadow Y"
+msgstr "Tieň Y"
+
+msgid "Draw a shadow under the field text"
+msgstr "Vykresliť tieň pod textom poľa"
+
+msgid "Horizontal shadow offset"
+msgstr "Vodorovný posun tieňa"
+
+msgid "Vertical shadow offset"
+msgstr "Zvislý posun tieňa"
+
+msgid "Width %"
+msgstr "Šírka %"
+
+msgid "Field width in percent of the card (empty = full width; longer text wraps to the next line)"
+msgstr "Šírka poľa v percentách karty (prázdne = celá šírka; dlhší text sa zalomí do ďalšieho riadka)"
+
+msgid "Basic settings"
+msgstr "Základné nastavenia"
+
+msgid "Field style"
+msgstr "Vzhľad poľa"
+
+msgid "Placement in the card"
+msgstr "Umiestnenie v karte"
+
+msgid "Text shadow"
+msgstr "Tieň textu"
+
+msgid "Bold"
+msgstr "Tučné"
+
+msgid "Italic"
+msgstr "Kurzíva"
+
+msgid "Include this column in the catalog"
+msgstr "Zahrnúť tento stĺpec do katalógu"
+
+msgid "Column width in percent (table mode)"
+msgstr "Šírka stĺpca v percentách (režim tabuľka)"
+
+msgid "Fields across the top, their settings underneath"
+msgstr "Polia vodorovne, ich nastavenia pod nimi"
+
+msgid "◀  Left"
+msgstr "◀  Vľavo"
+
+msgid "Right  ▶"
+msgstr "Vpravo  ▶"
+
+msgid "▲  Up"
+msgstr "▲  Hore"
+
+msgid "▼  Down"
+msgstr "▼  Dole"
+
+msgid "Source column"
+msgstr "Zdrojový stĺpec"
+
+msgid "Setting"
+msgstr "Nastavenie"
+
+msgid "Show fields:"
+msgstr "Zobraziť polia:"
+
+msgid "Only used"
+msgstr "Iba použité"
+
+msgid "Rows per page (card mode, PDF):"
+msgstr "Riadkov na stranu (režim karta, PDF):"
+
+msgid "0 = automatic (a row that does not fit moves to the next page)"
+msgstr "0 = automaticky (riadok, ktorý sa celý nezmestí, prejde na ďalšiu stranu)"
+
+msgid "Logo X % / Y %:"
+msgstr "Logo X % / Y %:"
+
+msgid "empty = next to the text block"
+msgstr "prázdne = vedľa textových polí"
+
+msgid "Gap above the products:"
+msgstr "Medzera nad produktmi:"
+
+msgid "X %"
+msgstr "X %"
+
+msgid "Y %"
+msgstr "Y %"
+
+msgid "Background opacity 0-100% (PDF and HTML)"
+msgstr "Priehľadnosť pozadia 0-100 % (PDF a HTML)"
+
+msgid "Page footer"
+msgstr "Päta stránky"
+
+msgid "A strip along the bottom edge of a chosen page — the products above it make room for it"
+msgstr "Pruh pri spodnom okraji zvolenej stránky — produkty nad ním mu uvoľnia miesto"
+
+msgid "Footers"
+msgstr "Päty"
+
+msgid "Use page footers"
+msgstr "Použiť päty stránok"
+
+msgid "Every footer belongs to one page. Page 0 means the footer is used on every page that has no footer of its own."
+msgstr "Každá päta patrí jednej stránke. Strana 0 znamená, že sa päta použije na každej stránke, ktorá nemá vlastnú."
+
+msgid "+  Add footer"
+msgstr "+  Pridať pätu"
+
+msgid "On"
+msgstr "Zap."
+
+msgid "Page"
+msgstr "Strana"
+
+msgid "Page the footer belongs to (1 = first product page, 0 = every page)"
+msgstr "Stránka, ktorej päta patrí (1 = prvá stránka s produktmi, 0 = každá stránka)"
+
+msgid "Height (pt)"
+msgstr "Výška (pt)"
+
+msgid "Content"
+msgstr "Obsah"
+
+msgid "Band"
+msgstr "Pruh"
+
+msgid "A band lower than one product row only makes the cards on that page shorter; a taller band costs the page a whole row (or more)."
+msgstr "Pruh nižší ako jeden riadok produktov iba zmenší okná s produktmi na danej stránke; vyšší pruh uberie stránke celý riadok (alebo viac)."
+
+msgid "Page (0 = every page):"
+msgstr "Strana (0 = každá):"
+
+msgid "Height (pt):"
+msgstr "Výška (pt):"
+
+msgid "Gap above the band (pt):"
+msgstr "Medzera nad pruhom (pt):"
+
+msgid "Background:"
+msgstr "Pozadie:"
+
+msgid "Opacity (%):"
+msgstr "Priehľadnosť (%):"
+
+msgid "Corner radius (pt):"
+msgstr "Zaoblenie rohov (pt):"
+
+msgid "Frame around the band"
+msgstr "Rám okolo pruhu"
+
+msgid "Frame color:"
+msgstr "Farba rámu:"
+
+msgid "Frame width (pt):"
+msgstr "Hrúbka rámu (pt):"
+
+msgid "Highlight opacity (%):"
+msgstr "Priehľadnosť zvýraznenia (%):"
+
+msgid "Highlight radius (pt):"
+msgstr "Zaoblenie zvýraznenia (pt):"
+
+msgid "An image from the source data is looked up by the image rules of the catalog (folder, prefix and suffix). The position is measured in percent of the band width and height, empty = the top left corner."
+msgstr "Obrázok zo zdrojových údajov sa hľadá podľa pravidiel obrázkov katalógu (priečinok, predpona, prípona). Poloha sa udáva v percentách šírky a výšky pruhu, prázdne = ľavý horný roh."
+
+msgid "Image:"
+msgstr "Obrázok:"
+
+msgid "No image"
+msgstr "Bez obrázka"
+
+msgid "External file"
+msgstr "Externý súbor"
+
+msgid "From the source data"
+msgstr "Zo zdrojového súboru"
+
+msgid "Across the whole band"
+msgstr "Cez celý pruh"
+
+msgid "File:"
+msgstr "Súbor:"
+
+msgid "Name in the source data:"
+msgstr "Názov v zdrojovom súbore:"
+
+msgid "Width (pt):"
+msgstr "Šírka (pt):"
+
+msgid "Position X (%):"
+msgstr "Poloha X (%):"
+
+msgid "Position Y (%):"
+msgstr "Poloha Y (%):"
+
+msgid "All files"
+msgstr "Všetky súbory"
+
+msgid "Fields without a position are stacked in the middle of the band; a field with X or Y is placed at that spot instead."
+msgstr "Polia bez polohy sú poskladané v strede pruhu; pole s X alebo Y sa umiestni na dané miesto."
+
+msgid "+  Add text field"
+msgstr "+  Pridať textové pole"
+
+msgid "Position in percent of the band width (empty = in the stacked text)"
+msgstr "Poloha v percentách šírky pruhu (prázdne = v poskladanom texte)"
+
+msgid "Position in percent of the band height (empty = in the stacked text)"
+msgstr "Poloha v percentách výšky pruhu (prázdne = v poskladanom texte)"
+
+msgid "none"
+msgstr "žiadna"
+
+msgid "1 text field"
+msgstr "1 textové pole"
+
+msgid "{0} text fields"
+msgstr "{0} textových polí"
+
+msgid "image from a file"
+msgstr "obrázok zo súboru"
+
+msgid "image from the data"
+msgstr "obrázok z údajov"
+
+msgid "Add footer"
+msgstr "Pridať pätu"
+
+msgid "Remove footer"
+msgstr "Odstrániť pätu"
+
+msgid "Add text field"
+msgstr "Pridať textové pole"
+
+msgid "Remove text field"
+msgstr "Odstrániť textové pole"
+
+msgid "Gap below the band (pt):"
+msgstr "Medzera pod pruhom (pt):"
+
+msgid "Badge shape"
+msgstr "Tvar badge"
+
+msgid "Badge"
+msgstr "Badge"
+
+msgid "Shape"
+msgstr "Tvar"
+
+msgid "Shape W"
+msgstr "Šírka tvaru"
+
+msgid "Shape H"
+msgstr "Výška tvaru"
+
+msgid "Badge outline — click to pick a shape (Badge action, card mode)"
+msgstr "Tvar badge — kliknutím vyberieš tvar (akcia Badge, režim kariet)"
+
+msgid "Shape width in points (the ribbon is as wide as its caption)"
+msgstr "Šírka tvaru v bodoch (pruh je široký podľa nápisu)"
+
+msgid "Shape height in points"
+msgstr "Výška tvaru v bodoch"
+
+msgid "Ribbon (caption only)"
+msgstr "Pruh (iba nápis)"
+
+msgid "Rectangle"
+msgstr "Obdĺžnik"
+
+msgid "Rounded rectangle"
+msgstr "Zaoblený obdĺžnik"
+
+msgid "Cushion"
+msgstr "Vankúš"
+
+msgid "Squircle"
+msgstr "Zaoblený štvorec"
+
+msgid "Arch"
+msgstr "Oblúk"
+
+msgid "Wavy rectangle"
+msgstr "Zvlnený obdĺžnik"
+
+msgid "Cloud"
+msgstr "Obláčik"
+
+msgid "Flower"
+msgstr "Kvet"
+
+msgid "Scalloped"
+msgstr "Vrúbkovaný kruh"
+
+msgid "Blob"
+msgstr "Bublina"
+
+msgid "Burst (8 points)"
+msgstr "Hviezdica (8 hrotov)"
+
+msgid "Burst (12 points)"
+msgstr "Hviezdica (12 hrotov)"
+
+msgid "Burst (16 points)"
+msgstr "Hviezdica (16 hrotov)"
+
+msgid "Circle / ellipse"
+msgstr "Kruh / elipsa"
+
+msgid "Pebble"
+msgstr "Kamienok"
+
+msgid "Pill"
+msgstr "Pilulka"
+
+msgid "Hexagon"
+msgstr "Šesťuholník"
+
+msgid "Ticket"
+msgstr "Lístok"
+
+msgid "Leaf"
+msgstr "List"
+
+msgid "Leaf (mirrored)"
+msgstr "List (zrkadlený)"
+
+msgid "Flag"
+msgstr "Zástava"
+
+msgid "Trapezoid"
+msgstr "Lichobežník"
+
+msgid "Star (8 points)"
+msgstr "Hviezda (8 cípov)"
+
+msgid "Shield"
+msgstr "Štít"
+
+msgid "Speech bubble"
+msgstr "Bublina s chvostom"
+
+msgid "Price tag"
+msgstr "Cenovka"
+
+msgid "Diamond"
+msgstr "Kosoštvorec"
+
+msgid "Banner ribbon"
+msgstr "Stuha"
+
+msgid "Badge (ribbon or shape)"
+msgstr "Badge (pruh alebo tvar)"
+
+msgid "Frame"
+msgstr "Rám"
+
+msgid "Frame W"
+msgstr "Rám pt"
+
+msgid "Frame color around the badge shape (Auto = no frame)"
+msgstr "Farba rámu okolo tvaru badge (Auto = bez rámu)"
+
+msgid "Frame width in points (0 = no frame)"
+msgstr "Hrúbka rámu v bodoch (0 = bez rámu)"
+
+msgid "frame"
+msgstr "rám"
+
+msgid "Star (5 points)"
+msgstr "Hviezda (5 cípov)"
+
+msgid "Star (6 points)"
+msgstr "Hviezda (6 cípov)"
+
+msgid "Star (10 points)"
+msgstr "Hviezda (10 cípov)"
+
+msgid "Star with round tips"
+msgstr "Hviezda so zaoblenými cípmi"
+
+msgid "Burst (24 points)"
+msgstr "Hviezdica (24 hrotov)"
+
+msgid "Sunburst (rays)"
+msgstr "Slnko (lúče)"
+
+msgid "Pinwheel"
+msgstr "Veterník"
+
+msgid "Gear"
+msgstr "Ozubené koleso"
+
+msgid "Daisy"
+msgstr "Margarétka"
+
+msgid "Clover"
+msgstr "Štvorlístok"
+
+msgid "Seal"
+msgstr "Pečať"
+
+msgid "Pentagon"
+msgstr "Päťuholník"
+
+msgid "Cross"
+msgstr "Kríž"
+
+msgid "Background opacity 0-100% (empty = the band's shared value)"
+msgstr "Priehľadnosť pozadia 0-100 % (prázdne = spoločná hodnota pruhu)"
+
+msgid "Background corner radius in points (empty = the band's shared value)"
+msgstr "Zaoblenie rohov pozadia v bodoch (prázdne = spoločná hodnota pruhu)"
+
+msgid "Pad L"
+msgstr "Ľ"
+
+msgid "Pad T"
+msgstr "H"
+
+msgid "Pad R"
+msgstr "P"
+
+msgid "Pad B"
+msgstr "D"
+
+msgid "Space between the text and the left edge of its background"
+msgstr "Medzera medzi textom a ľavým okrajom jeho pozadia"
+
+msgid "Space between the text and the top edge of its background"
+msgstr "Medzera medzi textom a horným okrajom jeho pozadia"
+
+msgid "Space between the text and the right edge of its background"
+msgstr "Medzera medzi textom a pravým okrajom jeho pozadia"
+
+msgid "Space between the text and the bottom edge of its background"
+msgstr "Medzera medzi textom a dolným okrajom jeho pozadia"
+
+msgid "No shape"
+msgstr "Bez tvaru"
+
+msgid "Badge outline behind the text — click to pick a shape"
+msgstr "Tvar badge za textom — kliknutím vyberieš tvar"
+
+msgid "Shape width in points (empty = as wide as the text needs)"
+msgstr "Šírka tvaru v bodoch (prázdne = podľa šírky textu)"
+
+msgid "Shape height in points (empty = as tall as the text needs)"
+msgstr "Výška tvaru v bodoch (prázdne = podľa výšky textu)"
+
+msgid "{0}× shape"
+msgstr "{0}× tvar"
+
+msgid "Wrap"
+msgstr "Zalom."
+
+msgid "Wrap the caption to the badge size; off scales a long caption down to one line"
+msgstr "Zalomiť nápis podľa veľkosti badge; vypnuté dlhý nápis zmenší na jeden riadok"
+
+msgid "Wrap the text to the shape; off scales a long text down to one line"
+msgstr "Zalomiť text podľa tvaru; vypnuté dlhý text zmenší na jeden riadok"
+
+msgid "Space between the caption and the left edge of the badge"
+msgstr "Medzera medzi nápisom a ľavým okrajom badge"
+
+msgid "Space between the caption and the top edge of the badge"
+msgstr "Medzera medzi nápisom a horným okrajom badge"
+
+msgid "Space between the caption and the right edge of the badge"
+msgstr "Medzera medzi nápisom a pravým okrajom badge"
+
+msgid "Space between the caption and the bottom edge of the badge"
+msgstr "Medzera medzi nápisom a dolným okrajom badge"
+
+msgid "Badge outline behind the value — click to pick a shape"
+msgstr "Tvar badge za hodnotou — kliknutím vyberieš tvar"
+
+msgid "Shape width in points (empty = as wide as the value needs)"
+msgstr "Šírka tvaru v bodoch (prázdne = podľa šírky hodnoty)"
+
+msgid "Shape height in points (empty = as tall as the value needs)"
+msgstr "Výška tvaru v bodoch (prázdne = podľa výšky hodnoty)"
+
+msgid "Wrap the value to the shape; off scales a long value down to one line"
+msgstr "Zalomiť hodnotu podľa tvaru; vypnuté dlhú hodnotu zmenší na jeden riadok"
+
+msgid "Card designer"
+msgstr "Návrhár karty"
+
+msgid "Drag the fields of a product card, of the flyer header or of a page footer where they belong — the settings follow"
+msgstr "Polia karty produktu, letákovej hlavičky alebo päty stránky potiahni tam, kam patria — nastavenia idú s nimi"
+
+msgid "Product:"
+msgstr "Produkt:"
+
+msgid "Zoom:"
+msgstr "Priblíženie:"
+
+msgid "Back to flow"
+msgstr "Späť do toku"
+
+msgid "Reset field"
+msgstr "Vynulovať pole"
+
+msgid "Rendering…"
+msgstr "Renderujem…"
+
+msgid "No field selected"
+msgstr "Nevybrané pole"
+
+msgid "More settings…"
+msgstr "Ďalšie nastavenia…"
+
+msgid "(no name)"
+msgstr "(bez názvu)"
+
+msgid "The card designer works with the card / flyer layout — switch the output style in Layout."
+msgstr "Návrhár karty pracuje s rozložením Karta/leták — štýl výstupu prepneš v Rozložení."
+
+msgid "Load a data file first — the designer needs a product to draw."
+msgstr "Najprv načítaj súbor s údajmi — návrhár potrebuje produkt, ktorý nakreslí."
+
+msgid "Opacity (%)"
+msgstr "Priehľadnosť (%)"
+
+msgid "Frame color"
+msgstr "Farba rámu"
+
+msgid "Frame width"
+msgstr "Hrúbka rámu"
+
+msgid "Corner radius"
+msgstr "Zaoblenie rohov"
+
+msgid "Position X (%)"
+msgstr "Poloha X (%)"
+
+msgid "Position Y (%)"
+msgstr "Poloha Y (%)"
+
+msgid "Width (%)"
+msgstr "Šírka (%)"
+
+msgid "Move field"
+msgstr "Presun poľa"
+
+msgid "Resize field"
+msgstr "Zmena šírky poľa"
+
+msgid "Card padding:"
+msgstr "Odsadenie karty:"
+
+msgid "0 = the image fills the whole card"
+msgstr "0 = obrázok vyplní celú kartu"
+
+msgid "Product card"
+msgstr "Karta produktu"
+
+msgid "Wrap text"
+msgstr "Zalomiť text"
+
+msgid "Footer"
+msgstr "Päta"
+
+msgid "page"
+msgstr "strana"
+
+msgid "every page"
+msgstr "každá strana"
+
+msgid "Switch the flyer header on in Flyer header — then its fields can be dragged here."
+msgstr "Letákovú hlavičku zapni v časti Letáková hlavička — potom sa jej polia dajú ťahať tu."
+
+msgid "Add a page footer in Page footer — then its fields can be dragged here."
+msgstr "Pätu stránky pridaj v časti Päta stránky — potom sa jej polia dajú ťahať tu."
+
+msgid "Pick a page footer."
+msgstr "Vyber pätu stránky."
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Width (pt)"
+msgstr "Šírka (pt)"
+
+msgid "Position X (pt)"
+msgstr "Poloha X (pt)"
+
+msgid "Position Y (pt)"
+msgstr "Poloha Y (pt)"
+
+msgid "Page images (PNG/JPG)"
+msgstr "Obrázky strán (PNG/JPG)"
+
+msgid "Page images (PNG / JPG)"
+msgstr "Obrázky strán (PNG / JPG)"
+
+msgid "Generating page images..."
+msgstr "Vytváram obrázky strán..."
+
+msgid "Format:"
+msgstr "Formát:"
+
+msgid "JPG quality:"
+msgstr "Kvalita JPG:"
+
+msgid "Best"
+msgstr "Najlepšia"
+
+msgid "Very high"
+msgstr "Veľmi vysoká"
+
+msgid "High"
+msgstr "Vysoká"
+
+msgid "Medium"
+msgstr "Stredná"
+
+msgid "Tick \"Page images\" on the Catalog screen: every page of the PDF is saved as a picture into the folder <name>_pages next to the catalog — for social media, an e-mail or a web page. 150 DPI suits a screen, 300 DPI print; PNG keeps the text sharp, JPG makes smaller files."
+msgstr "Na obrazovke Katalóg zaškrtnite \"Obrázky strán\": každá strana PDF sa uloží ako obrázok do priečinka <názov>_pages vedľa katalógu — na sociálne siete, do e-mailu alebo na web. 150 DPI stačí pre obrazovku, 300 DPI pre tlač; PNG drží ostrý text, JPG robí menšie súbory."
+
+msgid "QR / barcode"
+msgstr "QR / čiarový kód"
+
+msgid "Code"
+msgstr "Kód"
+
+msgid "Code height"
+msgstr "Výška kódu"
+
+msgid "Code text"
+msgstr "Text kódu"
+
+msgid "Show the value as a QR code, an EAN barcode (8 or 13 digits) or a Code 128 barcode; empty = plain text"
+msgstr "Zobraziť hodnotu ako QR kód, čiarový kód EAN (8 alebo 13 číslic) alebo Code 128; prázdne = obyčajný text"
+
+msgid "Height of the code in points (a QR code is square)"
+msgstr "Výška kódu v bodoch (QR kód je štvorcový)"
+
+msgid "Print the value under a barcode"
+msgstr "Vypísať hodnotu pod čiarový kód"
+
+msgid "Copy style"
+msgstr "Kopírovať štýl"
+
+msgid "Paste style"
+msgstr "Vložiť štýl"
+
+msgid "Align:"
+msgstr "Zarovnať:"
+
+msgid "Align left edges"
+msgstr "Zarovnať ľavé okraje"
+
+msgid "Center horizontally"
+msgstr "Vycentrovať vodorovne"
+
+msgid "Align right edges"
+msgstr "Zarovnať pravé okraje"
+
+msgid "Align top edges"
+msgstr "Zarovnať horné okraje"
+
+msgid "Center vertically"
+msgstr "Vycentrovať zvisle"
+
+msgid "Align bottom edges"
+msgstr "Zarovnať spodné okraje"
+
+msgid "Distribute horizontally"
+msgstr "Rozložiť rovnomerne vodorovne"
+
+msgid "Distribute vertically"
+msgstr "Rozložiť rovnomerne zvisle"
+
+msgid "Ctrl+click selects several fields"
+msgstr "Ctrl+klik vyberie viac polí"
+
+msgid "{0} fields selected"
+msgstr "Vybraté polia: {0}"
+
+msgid "Style of \"{0}\" copied"
+msgstr "Štýl poľa „{0}“ skopírovaný"
+
+msgid "Align fields"
+msgstr "Zarovnať polia"
+
+msgid "Refresh preview"
+msgstr "Obnoviť náhľad"
+
+msgid "No preview"
+msgstr "Bez náhľadu"
+
+msgid "Load a data file first — the preview is drawn from your data."
+msgstr "Najprv načítajte súbor s údajmi — náhľad sa kreslí z vašich údajov."
+
+msgid "Getting started — your first catalog in four steps"
+msgstr "Začíname — prvý katalóg v štyroch krokoch"
+
+msgid "Choose the file with your products (Excel, OpenDocument or CSV)"
+msgstr "Vyberte súbor s produktmi (Excel, OpenDocument alebo CSV)"
+
+msgid "Choose file…"
+msgstr "Vybrať súbor…"
+
+msgid "Load a template, or set the columns and the layout"
+msgstr "Načítajte šablónu alebo nastavte stĺpce a rozloženie"
+
+msgid "Check the look in the preview"
+msgstr "Skontrolujte vzhľad v náhľade"
+
+msgid "Pick the output folder and the formats, then generate"
+msgstr "Vyberte výstupný priečinok a formáty, potom vytvorte katalóg"
+
+msgid "Generate"
+msgstr "Vytvoriť"
+
+msgid "Hide this guide"
+msgstr "Skryť sprievodcu"
+
+msgid "Show the getting-started guide"
+msgstr "Zobraziť sprievodcu začiatkom"
+
+msgid "Updates"
+msgstr "Aktualizácie"
+
+msgid "Update source:"
+msgstr "Zdroj aktualizácií:"
+
+msgid "Check for updates"
+msgstr "Skontrolovať aktualizácie"
+
+msgid "Download and install"
+msgstr "Stiahnuť a nainštalovať"
+
+msgid "A GitHub release address, or a version.json on a web server or a shared drive."
+msgstr "Adresa GitHub release alebo version.json na webe či zdieľanom disku."
+
+msgid "Checking…"
+msgstr "Kontrolujem…"
+
+msgid "Version {0} is available (you have {1})."
+msgstr "K dispozícii je verzia {0} (máte {1})."
+
+msgid "You have the newest version ({0})."
+msgstr "Máte najnovšiu verziu ({0})."
+
+msgid "The check did not succeed: {0}"
+msgstr "Kontrola sa nepodarila: {0}"
+
+msgid "Catalog Studio {0} will be downloaded and the program restarts.\n\nYour settings and templates stay as they are. Continue?"
+msgstr "Stiahne sa Catalog Studio {0} a program sa reštartuje.\n\nNastavenia a šablóny zostanú. Pokračovať?"
+
+msgid "Downloading…"
+msgstr "Sťahujem…"
+
+msgid "The update could not be installed: {0}"
+msgstr "Aktualizáciu sa nepodarilo nainštalovať: {0}"
+
+msgid "The update source does not describe a version."
+msgstr "Zdroj aktualizácií neobsahuje verziu."
+
+msgid "The downloaded file is not a Catalog Studio program."
+msgstr "Stiahnutý súbor nie je program Catalog Studio."
+
+msgid "The update source was not found. A private GitHub repository cannot be read without signing in — use a version.json on a web server or a shared drive instead."
+msgstr "Zdroj aktualizácií sa nenašiel. Súkromný repozitár GitHub sa bez prihlásenia prečítať nedá — použite version.json na webe alebo zdieľanom disku."
+
+msgid "Dark mode"
+msgstr "Tmavý režim"
+
+msgid "Light mode"
+msgstr "Svetlý režim"
+
+msgid "Theme like Windows"
+msgstr "Vzhľad podľa Windows"
+
+msgid "Universal layout: every page without an individual layout (below) uses these columns and rows."
+msgstr "Univerzálne rozloženie: tieto stĺpce a riadky platia pre každú stranu bez individuálneho rozloženia (nižšie)."
+
+msgid "Individual page layouts"
+msgstr "Individuálne rozloženie strán"
+
+msgid "Chosen pages get their own columns and rows instead of the universal layout above — e.g. pages 2-3: 6 × 8, page 4: 4 × 5. Pages are counted like the page footer (1 = first product page); it works with or without category names."
+msgstr "Vybrané strany dostanú vlastný počet stĺpcov a riadkov namiesto univerzálneho rozloženia vyššie — napr. strany 2-3: 6 × 8, strana 4: 4 × 5. Strany sa počítajú ako pri päte stránky (1 = prvá strana s produktmi); platí s názvami kategórií aj bez nich."
+
+msgid "+  Add page layout"
+msgstr "+  Pridať rozloženie strany"
+
+msgid "Pages"
+msgstr "Strany"
+
+msgid "Rows"
+msgstr "Riadky"
+
+msgid "Cards on a page"
+msgstr "Kariet na strane"
+
+msgid "Pages such as 4, 2-3 or 2-3, 6 (1 = first product page)"
+msgstr "Strany, napr. 4, 2-3 alebo 2-3, 6 (1 = prvá strana s produktmi)"
+
+msgid "Cards side by side on these pages (1-6)"
+msgstr "Počet kariet vedľa seba na týchto stranách (1-6)"
+
+msgid "Rows of cards on these pages (1-12)"
+msgstr "Počet riadkov kariet na týchto stranách (1-12)"
+
+msgid "Enter pages such as 4, 2-3 or 2-3, 6"
+msgstr "Zadajte strany, napr. 4, 2-3 alebo 2-3, 6"
+
+msgid "Page layout:"
+msgstr "Rozloženie strany:"
+
+msgid "All pages ({0} × {1})"
+msgstr "Všetky strany ({0} × {1})"
+
+msgid "All pages ({0} columns, rows automatic)"
+msgstr "Všetky strany ({0} stĺpcov, riadky automaticky)"
+
+msgid "Pages {0} ({1} × {2})"
+msgstr "Strany {0} ({1} × {2})"
+
+msgid "The card at the size it has on these pages. The first change made here gives these pages a card design of their own; the other pages keep theirs."
+msgstr "Karta vo veľkosti, akú má na týchto stranách. Prvá úprava tu dá týmto stranám vlastný návrh karty; ostatné strany si ponechajú svoj."
+
+msgid "Own card design for these pages"
+msgstr "Vlastný návrh karty pre tieto strany"
+
+msgid "Same design as all pages — a change here makes it their own"
+msgstr "Rovnaký návrh ako všetky strany — úprava tu vytvorí vlastný"
+
+msgid "Use all-pages design"
+msgstr "Použiť návrh všetkých strán"
+
+msgid "Copy design to…"
+msgstr "Kopírovať návrh do…"
+
+msgid "Copies the card design shown here to another page layout or to all pages"
+msgstr "Skopíruje zobrazený návrh karty do iného rozloženia strany alebo do všetkých strán"
+
+msgid "Copy card design"
+msgstr "Kopírovať návrh karty"
+
+msgid "License"
+msgstr "Licencia"
+
+msgid "Computer code:"
+msgstr "Kód počítača:"
+
+msgid "Copy request text"
+msgstr "Kopírovať text žiadosti"
+
+msgid "License key:"
+msgstr "Licenčný kľúč:"
+
+msgid "Activate"
+msgstr "Aktivovať"
+
+msgid "Load license file…"
+msgstr "Načítať súbor licencie…"
+
+msgid "Remove license"
+msgstr "Odstrániť licenciu"
+
+msgid "Full version — licensed to {0}, license no. {1}, issued {2}."
+msgstr "Plná verzia — licencované pre {0}, licencia č. {1}, vydaná {2}."
+
+msgid "Unlocked: {0}"
+msgstr "Odomknuté: {0}"
+
+msgid "The saved license belongs to another computer ({0}). This computer: {1}. Ask for a new key."
+msgstr "Uložená licencia patrí inému počítaču ({0}). Tento počítač: {1}. Požiadajte o nový kľúč."
+
+msgid "Free version — only Excel output. PDF, the web catalog and page images need a license key. Send the computer code below to {0} to get your key."
+msgstr "Bezplatná verzia — iba výstup do Excelu. PDF, webový katalóg a obrázky strán potrebujú licenčný kľúč. Pošlite kód počítača uvedený nižšie na {0} a dostanete kľúč."
+
+msgid "The license was activated. Thank you!"
+msgstr "Licencia bola aktivovaná. Ďakujeme!"
+
+msgid "The license could not be saved: {0}"
+msgstr "Licenciu sa nepodarilo uložiť: {0}"
+
+msgid "Remove the license from this computer? PDF and the web catalog will be locked again."
+msgstr "Odstrániť licenciu z tohto počítača? PDF a webový katalóg sa znova zamknú."
+
+msgid "The license was removed."
+msgstr "Licencia bola odstránená."
+
+msgid "The computer code was copied."
+msgstr "Kód počítača bol skopírovaný."
+
+msgid "The request text was copied — add your company name and send it to {0}."
+msgstr "Text žiadosti bol skopírovaný — doplňte názov firmy a odošlite ho na {0}."
+
+msgid "License request for Catalog Studio\nComputer code: {0}\nVersion: {1}\nCompany: "
+msgstr "Žiadosť o licenciu pre Catalog Studio\nKód počítača: {0}\nVerzia: {1}\nFirma: "
+
+msgid "License files (*.license;*.txt)|*.license;*.txt|All files (*.*)|*.*"
+msgstr "Súbory licencie (*.license;*.txt)|*.license;*.txt|Všetky súbory (*.*)|*.*"
+
+msgid "Load license file"
+msgstr "Načítať súbor licencie"
+
+msgid "The clipboard is not available: {0}"
+msgstr "Schránka nie je dostupná: {0}"
+
+msgid "Paste a license key first."
+msgstr "Najprv vložte licenčný kľúč."
+
+msgid "This is not a valid license key."
+msgstr "Toto nie je platný licenčný kľúč."
+
+msgid "This license key needs a newer version of Catalog Studio."
+msgstr "Tento licenčný kľúč potrebuje novšiu verziu Catalog Studio."
+
+msgid "The license key is damaged or was changed."
+msgstr "Licenčný kľúč je poškodený alebo bol zmenený."
+
+msgid "This license key belongs to another computer ({0}). This computer: {1}."
+msgstr "Tento licenčný kľúč patrí inému počítaču ({0}). Tento počítač: {1}."
+
+msgid "Catalog Studio — Free version"
+msgstr "Catalog Studio — bezplatná verzia"
+
+msgid "{0} is available in the full version of Catalog Studio.\n\nThe free version creates catalogs in Excel. Enter a license key to unlock PDF, the web catalog and page images.\n\nComputer code: {1}\n\nOpen the license settings now?"
+msgstr "Funkcia „{0}“ je dostupná v plnej verzii Catalog Studio.\n\nBezplatná verzia vytvára katalógy v Exceli. Pre PDF, webový katalóg a obrázky strán zadajte licenčný kľúč.\n\nKód počítača: {1}\n\nOtvoriť teraz nastavenie licencie?"
+
+msgid "Full version"
+msgstr "Plná verzia"
+
+msgid "Available in the full version"
+msgstr "Dostupné v plnej verzii"
+
+msgid "License requests:"
+msgstr "Žiadosti o licenciu:"
+
+msgid "Write e-mail"
+msgstr "Napísať e-mail"
+
+msgid "License request for Catalog Studio"
+msgstr "Žiadosť o licenciu pre Catalog Studio"
+
+msgid "Your mail program opens with the request — add your company name and send it to {0}."
+msgstr "Otvorí sa váš e-mailový program so žiadosťou — doplňte názov firmy a odošlite ju na {0}."
+
+msgid "No mail program opened ({0}) — the request text was copied, send it to {1}."
+msgstr "E-mailový program sa neotvoril ({0}) — text žiadosti bol skopírovaný, pošlite ho na {1}."

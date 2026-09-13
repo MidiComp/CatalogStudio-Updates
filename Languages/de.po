@@ -1,0 +1,2378 @@
+﻿# English source strings for Catalog Studio 2.0
+# Translation: German (de)
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Catalog Studio 2.0\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "catalog generator"
+msgstr "Katalog-Generator"
+
+msgid "⌂   Catalog"
+msgstr "⌂   Katalog"
+
+msgid "SETTINGS"
+msgstr "EINSTELLUNGEN"
+
+msgid "▤   Columns"
+msgstr "▤   Spalten"
+
+msgid "☰   Categories"
+msgstr "☰   Kategorien"
+
+msgid "◫   Layout"
+msgstr "◫   Layout"
+
+msgid "⇅   Sorting"
+msgstr "⇅   Sortierung"
+
+msgid "▣   Images"
+msgstr "▣   Bilder"
+
+msgid "✓   Rules"
+msgstr "✓   Regeln"
+
+msgid "◧   Design"
+msgstr "◧   Design"
+
+msgid "❒   Cover page"
+msgstr "❒   Deckblatt"
+
+msgid "PROFILES"
+msgstr "PROFILE"
+
+msgid "❏   Templates"
+msgstr "❏   Vorlagen"
+
+msgid "INFORMATION"
+msgstr "INFORMATIONEN"
+
+msgid "?   Help"
+msgstr "?   Hilfe"
+
+msgid "ⓘ   About"
+msgstr "ⓘ   Über"
+
+msgid "Language:"
+msgstr "Sprache:"
+
+msgid "LANGUAGE"
+msgstr "SPRACHE"
+
+msgid "Ready"
+msgstr "Bereit"
+
+msgid "Loading data..."
+msgstr "Daten werden geladen..."
+
+msgid "Building layout..."
+msgstr "Layout wird erstellt..."
+
+msgid "Preparing images... {0}/{1}"
+msgstr "Bilder werden vorbereitet... {0}/{1}"
+
+msgid "Generating Excel..."
+msgstr "Excel wird erstellt..."
+
+msgid "Generating PDF..."
+msgstr "PDF wird erstellt..."
+
+msgid "Generating web catalog..."
+msgstr "Web-Katalog wird erstellt..."
+
+msgid "Rendering preview..."
+msgstr "Vorschau wird gerendert..."
+
+msgid "Done"
+msgstr "Fertig"
+
+msgid "Preview ready — {0} pages"
+msgstr "Vorschau bereit — {0} Seiten"
+
+msgid "Catalog created: {0}"
+msgstr "Katalog erstellt: {0}"
+
+msgid "Generation failed"
+msgstr "Erstellung fehlgeschlagen"
+
+msgid "Preview failed"
+msgstr "Vorschau fehlgeschlagen"
+
+msgid "Load failed"
+msgstr "Laden fehlgeschlagen"
+
+msgid "Error"
+msgstr "Fehler"
+
+msgid "Preview"
+msgstr "Vorschau"
+
+msgid "Data check finished"
+msgstr "Datenprüfung abgeschlossen"
+
+msgid "Template loaded"
+msgstr "Vorlage geladen"
+
+msgid "Loaded: {0} · {1} products"
+msgstr "Geladen: {0} · {1} Produkte"
+
+msgid "Loaded: {0} products, {1} columns — check Columns and Categories in the left menu"
+msgstr "Geladen: {0} Produkte, {1} Spalten — prüfen Sie Spalten und Kategorien im linken Menü"
+
+msgid "Select a source file."
+msgstr "Bitte wählen Sie eine Quelldatei aus."
+
+msgid "Missing file"
+msgstr "Fehlende Datei"
+
+msgid "Select an output folder."
+msgstr "Bitte wählen Sie einen Ausgabeordner aus."
+
+msgid "Missing folder"
+msgstr "Fehlender Ordner"
+
+msgid "Select at least one export format."
+msgstr "Bitte wählen Sie mindestens ein Exportformat aus."
+
+msgid "Export"
+msgstr "Exportieren"
+
+msgid "The catalog was created successfully.\n\nOpen the output folder?"
+msgstr "Der Katalog wurde erfolgreich erstellt.\n\nAusgabeordner öffnen?"
+
+msgid "Failed to load file"
+msgstr "Datei konnte nicht geladen werden"
+
+msgid "The file cannot be overwritten:\n\n{0}"
+msgstr "Die Datei kann nicht überschrieben werden:\n\n{0}"
+
+msgid "Select a source file first."
+msgstr "Bitte wählen Sie zuerst eine Quelldatei aus."
+
+msgid "Data check"
+msgstr "Datenprüfung"
+
+msgid "Catalog"
+msgstr "Katalog"
+
+msgid "Select source data, set the output and generate the catalog"
+msgstr "Quelldaten auswählen, Ausgabe festlegen und Katalog erstellen"
+
+msgid "1 · Source file"
+msgstr "1 · Quelldatei"
+
+msgid "No file selected yet..."
+msgstr "Noch keine Datei ausgewählt..."
+
+msgid "Browse"
+msgstr "Durchsuchen"
+
+msgid "Sheet:"
+msgstr "Tabellenblatt:"
+
+msgid "2 · Output"
+msgstr "2 · Ausgabe"
+
+msgid "Folder:"
+msgstr "Ordner:"
+
+msgid "Catalog name:"
+msgstr "Katalogname:"
+
+msgid "e.g. Summer price list 2026"
+msgstr "z. B. Sommerpreisliste 2026"
+
+msgid "Browse..."
+msgstr "Durchsuchen..."
+
+msgid "3 · Export formats"
+msgstr "3 · Exportformate"
+
+msgid "PDF catalog"
+msgstr "PDF-Katalog"
+
+msgid "Web catalog (.html)"
+msgstr "Web-Katalog (.html)"
+
+msgid "PDF preview"
+msgstr "PDF-Vorschau"
+
+msgid "GENERATE CATALOG"
+msgstr "KATALOG ERSTELLEN"
+
+msgid "GENERATING..."
+msgstr "WIRD ERSTELLT..."
+
+msgid "The file will be loaded when generating."
+msgstr "Die Datei wird beim Erstellen geladen."
+
+msgid "✔  {0} products  ·  {1} columns  ·  {2}"
+msgstr "✔  {0} Produkte  ·  {1} Spalten  ·  {2}"
+
+msgid "no categories"
+msgstr "keine Kategorien"
+
+msgid "{0} categories ({1})"
+msgstr "{0} Kategorien ({1})"
+
+msgid "Spreadsheets (*.xlsx;*.xlsm;*.xls;*.ods;*.csv;*.tsv)|*.xlsx;*.xlsm;*.xls;*.ods;*.csv;*.tsv|Excel (*.xlsx;*.xlsm;*.xls)|*.xlsx;*.xlsm;*.xls|OpenDocument (*.ods)|*.ods|CSV (*.csv;*.tsv;*.txt)|*.csv;*.tsv;*.txt|All files (*.*)|*.*"
+msgstr "Tabellenkalkulationen (*.xlsx;*.xlsm;*.xls;*.ods;*.csv;*.tsv)|*.xlsx;*.xlsm;*.xls;*.ods;*.csv;*.tsv|Excel (*.xlsx;*.xlsm;*.xls)|*.xlsx;*.xlsm;*.xls|OpenDocument (*.ods)|*.ods|CSV (*.csv;*.tsv;*.txt)|*.csv;*.tsv;*.txt|Alle Dateien (*.*)|*.*"
+
+msgid "Select the source data file"
+msgstr "Quelldatendatei auswählen"
+
+msgid "Select the catalog output folder"
+msgstr "Katalog-Ausgabeordner auswählen"
+
+msgid "Columns"
+msgstr "Spalten"
+
+
+msgid "Use"
+msgstr "Verwenden"
+
+
+msgid "Name in catalog"
+msgstr "Name im Katalog"
+
+msgid "Width"
+msgstr "Breite"
+
+msgid "Decimals"
+msgstr "Dezimalstellen"
+
+msgid "Alignment"
+msgstr "Ausrichtung"
+
+msgid "Select all"
+msgstr "Alle auswählen"
+
+msgid "Select none"
+msgstr "Keine auswählen"
+
+
+
+msgid "Number of decimal places for numbers (empty = no change)"
+msgstr "Anzahl der Nachkommastellen für Zahlen (leer = keine Änderung)"
+
+msgid "Card text"
+msgstr "Karten-Text"
+
+msgid "Card background"
+msgstr "Karten-Hintergrund"
+
+msgid "Border"
+msgstr "Rahmen"
+
+msgid "Font"
+msgstr "Schriftart"
+
+msgid "Font size"
+msgstr "Schriftgröße"
+
+msgid "Field font (empty = design font)"
+msgstr "Feld-Schriftart (leer = Design-Schriftart)"
+
+msgid "Field font size (empty = base font size)"
+msgstr "Feld-Schriftgröße (leer = Standard-Schriftgröße)"
+
+msgid "Image"
+msgstr "Bild"
+
+msgid "Categories"
+msgstr "Kategorien"
+
+msgid "The catalog splits into sections by the selected column — reorder with the arrows or by dragging"
+msgstr "Der Katalog wird nach der ausgewählten Spalte unterteilt — Umsortierung über Pfeile oder Drag & Drop"
+
+msgid "Split by column:"
+msgstr "Unterteilen nach Spalte:"
+
+msgid "Load categories"
+msgstr "Kategorien laden"
+
+msgid "Category"
+msgstr "Kategorie"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "None"
+msgstr "Keine"
+
+msgid "Select a category column."
+msgstr "Bitte wählen Sie eine Kategoriespalte aus."
+
+msgid "Load a file on the Catalog screen first"
+msgstr "Laden Sie zuerst eine Datei im Menü Katalog"
+
+msgid "Without categories the catalog is one continuous table"
+msgstr "Ohne Kategorien wird der Katalog als eine fortlaufende Tabelle dargestellt"
+
+msgid "{0} categories"
+msgstr "{0} Kategorien"
+
+msgid "Layout"
+msgstr "Layout"
+
+msgid "How products are arranged on the page"
+msgstr "Anordnung der Produkte auf der Seite"
+
+msgid "Output style"
+msgstr "Ausgabestil"
+
+msgid "Table — classic rows and columns"
+msgstr "Tabelle — klassische Zeilen und Spalten"
+
+msgid "Card / flyer — fields stacked below each other (PDF and HTML only)"
+msgstr "Karte / Flyer — Felder untereinander angeordnet (nur PDF und HTML)"
+
+msgid "Number of columns"
+msgstr "Anzahl der Spalten"
+
+msgid "Number of columns:"
+msgstr "Anzahl der Spalten:"
+
+msgid "Table: 1-2  ·  Card: 1-6"
+msgstr "Tabelle: 1-2  ·  Karte: 1-6"
+
+msgid "Product split across columns"
+msgstr "Produktverteilung auf Spalten"
+
+msgid "Vertical — products fill the left column first, then the right  (1,2,3 | 4,5,6)"
+msgstr "Vertikal — Produkte füllen zuerst die linke, dann die rechte Spalte  (1,2,3 | 4,5,6)"
+
+msgid "Horizontal — products alternate between columns  (1,2 | 3,4 | 5,6)"
+msgstr "Horizontal — Produkte wechseln zwischen den Spalten ab  (1,2 | 3,4 | 5,6)"
+
+msgid "Headers and page breaks"
+msgstr "Kopfzeilen und Seitenumbrüche"
+
+msgid "Show category names"
+msgstr "Kategorienamen anzeigen"
+
+msgid "Show column header (repeats on every PDF page)"
+msgstr "Spaltenüberschrift anzeigen (wird auf jeder PDF-Seite wiederholt)"
+
+msgid "Show page footer (date and page numbers) — off gives more rows per page"
+msgstr "Fußzeile anzeigen (Datum und Seitenzahlen) — Aus schaltet mehr Zeilen pro Seite frei"
+
+msgid "A category starts on a new PDF page unless at least"
+msgstr "Eine Kategorie beginnt eine neue PDF-Seite, außer wenn mindestens"
+
+msgid "items fit below it  (0 = off)"
+msgstr "Einträge darunter passen  (0 = aus)"
+
+msgid "Page and print"
+msgstr "Seite und Druck"
+
+msgid "Paper:"
+msgstr "Papier:"
+
+msgid "Orientation:"
+msgstr "Ausrichtung:"
+
+msgid "Portrait"
+msgstr "Hochformat"
+
+msgid "Landscape"
+msgstr "Querformat"
+
+msgid "Margins (mm):"
+msgstr "Ränder (mm):"
+
+msgid "Applies to PDF and Excel printing (content always fits the page width). Crop marks add a white border with trim marks around the PDF page for professional cutting; the bleed lets the page background and the flyer banner run past the trim line so no white edge remains after cutting."
+msgstr "Gilt für PDF- und Excel-Druck (Inhalt passt sich immer der Seitenbreite an). Schnittmarken fügen einen weißen Rand mit Beschnittmarken um die PDF-Seite hinzu, für professionellen Zuschnitt; der Beschnitt lässt den Seitenhintergrund und das Flyer-Banner über die Schnittlinie hinauslaufen, sodass nach dem Zuschnitt kein weißer Rand bleibt."
+
+msgid "Something went wrong"
+msgstr "Etwas ist schiefgelaufen"
+
+msgid "An unexpected error occurred."
+msgstr "Ein unerwarteter Fehler ist aufgetreten."
+
+msgid "The catalog could not be created."
+msgstr "Der Katalog konnte nicht erstellt werden."
+
+msgid "Show details"
+msgstr "Details anzeigen"
+
+msgid "Hide details"
+msgstr "Details ausblenden"
+
+msgid "Copy details"
+msgstr "Details kopieren"
+
+msgid "Open log"
+msgstr "Protokoll öffnen"
+
+msgid "Recent:"
+msgstr "Zuletzt:"
+
+msgid "Auto-refresh"
+msgstr "Automatische Aktualisierung"
+
+msgid "Updating…"
+msgstr "Aktualisierung…"
+
+msgid "Up to date"
+msgstr "Aktuell"
+
+msgid "The preview could not be created."
+msgstr "Die Vorschau konnte nicht erstellt werden."
+
+msgid "Show logo and title at the top of every PDF page"
+msgstr "Logo und Titel oben auf jeder PDF-Seite anzeigen"
+
+msgid "Remove rule"
+msgstr "Regel entfernen"
+
+msgid "Reload categories"
+msgstr "Kategorien neu laden"
+
+msgid "Hide all categories"
+msgstr "Alle Kategorien ausblenden"
+
+msgid "Deselect all columns"
+msgstr "Alle Spalten abwählen"
+
+msgid "Nothing to undo"
+msgstr "Nichts rückgängig zu machen"
+
+msgid "Nothing to redo"
+msgstr "Nichts zu wiederholen"
+
+msgid "Undone: {0}"
+msgstr "Rückgängig gemacht: {0}"
+
+msgid "Redone: {0}"
+msgstr "Wiederhergestellt: {0}"
+
+msgid "{0} — press Ctrl+Z to undo"
+msgstr "{0} — Strg+Z zum Rückgängigmachen"
+
+msgid "PDF / print"
+msgstr "PDF / Druck"
+
+msgid "Page setup, headers, breaks and print marks for the PDF output"
+msgstr "Seiteneinrichtung, Kopfzeilen, Umbrüche und Druckmarken für die PDF-Ausgabe"
+
+msgid "Settings that apply only to the Excel (.xlsx) output"
+msgstr "Einstellungen nur für die Excel-Ausgabe (.xlsx)"
+
+msgid "Excel printing"
+msgstr "Excel-Druck"
+
+msgid "Printing always fits the content to the page width."
+msgstr "Der Druck passt den Inhalt immer an die Seitenbreite an."
+
+msgid "Content always fits the page width. Crop marks add a white border with trim marks around the PDF page for professional cutting; the bleed lets the page background and the flyer banner run past the trim line so no white edge remains after cutting."
+msgstr "Der Inhalt passt sich immer der Seitenbreite an. Schnittmarken fügen einen weißen Rand mit Beschnittmarken um die PDF-Seite hinzu; der Beschnitt lässt den Seitenhintergrund und das Flyer-Banner über die Schnittlinie hinauslaufen, sodass nach dem Zuschnitt kein weißer Rand bleibt."
+
+msgid "Paper, orientation and margins are shared with the PDF output."
+msgstr "Papier, Ausrichtung und Ränder sind mit der PDF-Ausgabe gemeinsam."
+
+msgid "Resolution (DPI):"
+msgstr "Auflösung (DPI):"
+
+msgid "JPEG quality (%):"
+msgstr "JPEG-Qualität (%):"
+
+msgid "higher = sharper print, larger files"
+msgstr "höher = schärferer Druck, größere Dateien"
+
+msgid "Web / HTML"
+msgstr "Web / HTML"
+
+msgid "Settings that apply only to the web (.html) output"
+msgstr "Einstellungen nur für die Web-Ausgabe (.html)"
+
+msgid "Images in the web catalog"
+msgstr "Bilder im Web-Katalog"
+
+msgid "Embed images in the single .html file"
+msgstr "Bilder in die einzelne .html-Datei einbetten"
+
+msgid "Everything in one file (as before). Easiest to share, but a large .html."
+msgstr "Alles in einer Datei (wie bisher). Am einfachsten zu teilen, aber eine große .html."
+
+msgid "Link to the images in the source folder"
+msgstr "Auf die Bilder im Quellordner verweisen"
+
+msgid "The .html only references the original files by their full path. Smallest .html, but it only works on this computer and keeps the source images in place (transparency is not applied)."
+msgstr "Die .html verweist nur über den vollständigen Pfad auf die Originaldateien. Kleinste .html, funktioniert aber nur auf diesem Computer und die Quellbilder müssen an Ort und Stelle bleiben (Transparenz wird nicht angewendet)."
+
+msgid "Copy images to a folder next to the .html (relative links)"
+msgstr "Bilder in einen Ordner neben der .html kopieren (relative Links)"
+
+msgid "Creates a \"<name>_images\" folder beside the .html and links to it. Portable — move the .html together with the folder."
+msgstr "Erstellt einen Ordner „<Name>_images“ neben der .html und verweist darauf. Portabel — verschieben Sie die .html zusammen mit dem Ordner."
+
+msgid "Keep original quality"
+msgstr "Originalqualität beibehalten"
+
+msgid "Full width (background)"
+msgstr "Volle Breite (Hintergrund)"
+
+msgid "height:"
+msgstr "Höhe:"
+
+msgid "Clear"
+msgstr "Löschen"
+
+msgid "Select an image"
+msgstr "Bild auswählen"
+
+msgid "Full width stretches the image across the whole banner behind the text. Otherwise it is a sized image freely placed by X/Y offset (in points, from the band's top-left), independent of the logo and text. All sizes are in points."
+msgstr "Volle Breite streckt das Bild über das gesamte Banner hinter dem Text. Andernfalls ist es ein Bild mit fester Größe, frei per X/Y-Versatz platziert (in Punkten, ab der oberen linken Ecke des Streifens), unabhängig von Logo und Text. Alle Größen sind in Punkten."
+
+msgid "Size —  width:"
+msgstr "Größe —  Breite:"
+
+msgid "Position —  X:"
+msgstr "Position —  X:"
+
+msgid "Y:"
+msgstr "Y:"
+
+msgid "Band height (0 = auto):"
+msgstr "Streifenhöhe (0 = auto):"
+
+msgid "Full page width"
+msgstr "Volle Seitenbreite"
+
+msgid "Images (*.png;*.jpg;*.jpeg;*.bmp;*.gif)|*.png;*.jpg;*.jpeg;*.bmp;*.gif|All files (*.*)|*.*"
+msgstr "Bilder (*.png;*.jpg;*.jpeg;*.bmp;*.gif)|*.png;*.jpg;*.jpeg;*.bmp;*.gif|Alle Dateien (*.*)|*.*"
+
+msgid "Show logo"
+msgstr "Logo anzeigen"
+
+msgid "Show image"
+msgstr "Bild anzeigen"
+
+msgid "Show text fields"
+msgstr "Textfelder anzeigen"
+
+# --- completed German translations ---
+
+msgid "3 · Export formats (each with its own template)"
+msgstr "3 · Exportformate (jedes mit eigener Vorlage)"
+
+msgid "(current settings)"
+msgstr "(aktuelle Einstellungen)"
+
+msgid "Gap between columns:"
+msgstr "Abstand zwischen Spalten:"
+
+msgid "Gap between rows (card mode):"
+msgstr "Abstand zwischen Zeilen (Kartenmodus):"
+
+msgid "Headers"
+msgstr "Kopfzeilen"
+
+msgid "The category name is the section band above each group; the column header is the row of column titles (PDF, Excel and HTML). A separated category is placed on its own page without a header (card mode)."
+msgstr "Der Kategoriename ist der Abschnittsstreifen über jeder Gruppe; die Spaltenkopfzeile ist die Zeile mit den Spaltentiteln (PDF, Excel und HTML). Eine getrennte Kategorie wird ohne Kopfzeile auf einer eigenen Seite platziert (Kartenmodus)."
+
+msgid "Separate categories (own page, no header):"
+msgstr "Kategorien trennen (eigene Seite, ohne Kopfzeile):"
+
+msgid "Spacing"
+msgstr "Abstand"
+
+msgid "Cell padding"
+msgstr "Zellenabstand"
+
+msgid "Inner space added inside every cell."
+msgstr "Innenabstand in jeder Zelle."
+
+msgid "Excel row height"
+msgstr "Excel-Zeilenhöhe"
+
+msgid "0 = automatic (by image size), a number = fixed points, or size it from the font plus the cell padding."
+msgstr "0 = automatisch (nach Bildgröße), eine Zahl = feste Punkte, oder aus Schrift plus Zellenabstand berechnet."
+
+msgid "Paper and margins"
+msgstr "Papier und Ränder"
+
+msgid "Page setup, headers, breaks and print output"
+msgstr "Seiteneinrichtung, Kopfzeilen, Umbrüche und Druckausgabe"
+
+msgid "Cover style"
+msgstr "Deckblatt-Stil"
+
+msgid "Style:"
+msgstr "Stil:"
+
+msgid "Full page"
+msgstr "Ganze Seite"
+
+msgid "Flyer banner (PDF)"
+msgstr "Flyer-Banner (PDF)"
+
+msgid "Banner colors —  background:"
+msgstr "Banner-Farben —  Hintergrund:"
+
+msgid "text:"
+msgstr "Text:"
+
+msgid "accent:"
+msgstr "Akzent:"
+
+msgid "Flyer banner: a graphic header (≈20% of the first PDF page), products continue below. Note 1 becomes the highlighted validity strip. Excel and HTML keep the full cover."
+msgstr "Flyer-Banner: eine grafische Kopfzeile (≈20 % der ersten PDF-Seite), Produkte folgen darunter. Notiz 1 wird zum hervorgehobenen Gültigkeitsstreifen. Excel und HTML behalten das volle Deckblatt."
+
+msgid "Valid from: "
+msgstr "Gültig ab: "
+
+msgid "Logo on a white plate (for logos that need contrast)"
+msgstr "Logo auf weißer Platte (für Logos, die Kontrast brauchen)"
+
+msgid "Cell padding (PDF, HTML, Excel):"
+msgstr "Zellenabstand (PDF, HTML, Excel):"
+
+msgid "from font + padding"
+msgstr "aus Schrift + Abstand"
+
+msgid "Excel row height:"
+msgstr "Excel-Zeilenhöhe:"
+
+msgid "Padding = inner space in every cell. Excel row height: 0 = automatic (by image size), a number = fixed points, or size it from the font plus the padding."
+msgstr "Abstand = Innenraum in jeder Zelle. Excel-Zeilenhöhe: 0 = automatisch (nach Bildgröße), eine Zahl = feste Punkte, oder aus Schrift plus Abstand berechnet."
+
+msgid "Border width"
+msgstr "Rahmenbreite"
+
+msgid "Border color"
+msgstr "Rahmenfarbe"
+
+msgid "Radius"
+msgstr "Radius"
+
+msgid "Border corner radius (PDF/HTML), 0 = square"
+msgstr "Eckenradius des Rahmens (PDF/HTML), 0 = eckig"
+
+msgid "Product frame (card mode)"
+msgstr "Produktrahmen (Kartenmodus)"
+
+msgid "Product card (card mode)"
+msgstr "Produktkarte (Kartenmodus)"
+
+msgid "Card background:"
+msgstr "Karten-Hintergrund:"
+
+msgid "Applies to card / flyer mode (PDF and HTML). Lower the card opacity to let a page background show through."
+msgstr "Gilt für Karten-/Flyer-Modus (PDF und HTML). Verringern Sie die Deckkraft der Karte, damit ein Seitenhintergrund durchscheint."
+
+msgid "Color"
+msgstr "Farbe"
+
+msgid "Frame around each product"
+msgstr "Rahmen um jedes Produkt"
+
+msgid "Color:"
+msgstr "Farbe:"
+
+msgid "Thickness:"
+msgstr "Dicke:"
+
+msgid "Radius:"
+msgstr "Radius:"
+
+msgid "Applies to card / flyer mode (PDF and HTML)."
+msgstr "Gilt für Karten-/Flyer-Modus (PDF und HTML)."
+
+msgid "Page background (PDF):"
+msgstr "Seitenhintergrund (PDF):"
+
+msgid "Background image:"
+msgstr "Hintergrundbild:"
+
+msgid "Background is drawn on every PDF page. An image fills the page and overrides the color; leave both empty for white. Keep original quality embeds the image unchanged; otherwise it is rasterized at the DPI."
+msgstr "Der Hintergrund wird auf jeder PDF-Seite gezeichnet. Ein Bild füllt die Seite und überschreibt die Farbe; beides leer = weiß. „Originalqualität behalten" bettet das Bild unverändert ein; sonst wird es mit der DPI gerastert."
+
+msgid "Select a background image"
+msgstr "Hintergrundbild auswählen"
+
+msgid "Make white background transparent"
+msgstr "Weißen Hintergrund transparent machen"
+
+msgid "tolerance:"
+msgstr "Toleranz:"
+
+msgid "corner radius:"
+msgstr "Eckenradius:"
+
+msgid "Flyer header"
+msgstr "Flyer-Kopfzeile"
+
+msgid "A graphic header on the first PDF page — logo and free text fields"
+msgstr "Eine grafische Kopfzeile auf der ersten PDF-Seite — Logo und freie Textfelder"
+
+msgid "Use flyer header on the first PDF page"
+msgstr "Flyer-Kopfzeile auf der ersten PDF-Seite verwenden"
+
+msgid "Products continue right below the header. This is separate from the cover page — both can be used together."
+msgstr "Produkte folgen direkt unter der Kopfzeile. Dies ist unabhängig vom Deckblatt — beide können zusammen verwendet werden."
+
+msgid "Logo and colors"
+msgstr "Logo und Farben"
+
+msgid "Logo height:"
+msgstr "Logo-Höhe:"
+
+msgid "Logo on a white plate"
+msgstr "Logo auf weißer Platte"
+
+msgid "Band color:"
+msgstr "Streifenfarbe:"
+
+msgid "Bottom stripe:"
+msgstr "Unterer Streifen:"
+
+msgid "opacity %:"
+msgstr "Deckkraft %:"
+
+msgid "radius:"
+msgstr "Radius:"
+
+msgid "Highlight pills —  opacity %:"
+msgstr "Hervorhebungs-Pillen —  Deckkraft %:"
+
+msgid "Highlight pills:"
+msgstr "Hervorhebung:"
+
+msgid "The logo comes from Design settings. Leave the plate off for a transparent PNG."
+msgstr "Das Logo stammt aus den Design-Einstellungen. Für ein transparentes PNG die Platte ausgeschaltet lassen."
+
+msgid "Text fields"
+msgstr "Textfelder"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Size"
+msgstr "Größe"
+
+msgid "Align"
+msgstr "Ausrichtung"
+
+msgid "Highlight"
+msgstr "Hervorhebung"
+
+msgid "Each field is one text line in the header. Highlight = a colored pill behind the text (left-click to pick, right-click for none). Empty fields are skipped."
+msgstr "Jedes Feld ist eine Textzeile in der Kopfzeile. Hervorhebung = eine farbige Pille hinter dem Text (Linksklick zum Wählen, Rechtsklick für keine). Leere Felder werden übersprungen."
+
+msgid "Left"
+msgstr "Links"
+
+msgid "Center"
+msgstr "Zentriert"
+
+msgid "Right"
+msgstr "Rechts"
+
+msgid "Border thickness 1-10 (Excel uses thin/medium/thick)"
+msgstr "Rahmendicke 1-10 (Excel verwendet dünn/mittel/dick)"
+
+msgid "Repeat category and column header on every printed Excel page"
+msgstr "Kategorie und Spaltenkopf auf jeder gedruckten Excel-Seite wiederholen"
+
+msgid "Repeat category and column header on every PDF page"
+msgstr "Kategorie und Spaltenkopf auf jeder PDF-Seite wiederholen"
+
+msgid "Crop marks for print (PDF)"
+msgstr "Schnittmarken für den Druck (PDF)"
+
+msgid "Bleed for background (mm):"
+msgstr "Beschnitt für Hintergrund (mm):"
+
+msgid "Margins (mm) —  top:"
+msgstr "Ränder (mm) —  oben:"
+
+msgid "bottom:"
+msgstr "unten:"
+
+msgid "left:"
+msgstr "links:"
+
+msgid "right:"
+msgstr "rechts:"
+
+msgid "Applies to PDF and Excel printing (content always fits the page width)."
+msgstr "Gilt für PDF- und Excel-Druck (Inhalt passt sich immer der Seitenbreite an)."
+
+msgid "Sorting"
+msgstr "Sortierung"
+
+msgid "Multi-level product order within categories"
+msgstr "Mehrstufige Produktreihenfolge innerhalb der Kategorien"
+
+msgid "Sort products by:"
+msgstr "Produkte sortieren nach:"
+
+msgid "Level {0}:"
+msgstr "Ebene {0}:"
+
+msgid "(no sorting)"
+msgstr "(keine Sortierung)"
+
+msgid "Ascending  (A-Z)"
+msgstr "Aufsteigend  (A-Z)"
+
+msgid "Descending  (Z-A)"
+msgstr "Absteigend  (Z-A)"
+
+msgid "Products are sorted by level 1 first; ties are decided by level 2 and then 3 (e.g. Name → Price).\nNumbers and prices sort numerically (2.50 < 15.90), texts alphabetically.\n\nCategory order is set in the Categories panel — the catalog always groups by category first and this sorting applies within them."
+msgstr "Produkte werden zuerst nach Ebene 1 sortiert; Gleichstände entscheiden Ebene 2 und dann 3 (z. B. Name → Preis).\nZahlen und Preise werden numerisch sortiert (2,50 < 15,90), Texte alphabetisch.\n\nDie Kategoriereihenfolge wird im Bereich Kategorien festgelegt — der Katalog gruppiert immer zuerst nach Kategorie und diese Sortierung gilt innerhalb."
+
+msgid "Images"
+msgstr "Bilder"
+
+msgid "Images are found by the selected column value in the given folder (extension optional)"
+msgstr "Bilder werden anhand des gewählten Spaltenwerts im angegebenen Ordner gefunden (Endung optional)"
+
+msgid "Use product images"
+msgstr "Produktbilder verwenden"
+
+msgid "Image folder:"
+msgstr "Bildordner:"
+
+msgid "Image name column:"
+msgstr "Spalte mit Bildnamen:"
+
+msgid "Name prefix:"
+msgstr "Namens-Präfix:"
+
+msgid "Name suffix:"
+msgstr "Namens-Suffix:"
+
+msgid "e.g. IMG_"
+msgstr "z. B. IMG_"
+
+msgid "e.g. _large"
+msgstr "z. B. _groß"
+
+msgid "File name = prefix + column value + suffix (.jpg/.png extension is added automatically)"
+msgstr "Dateiname = Präfix + Spaltenwert + Suffix (.jpg/.png-Endung wird automatisch ergänzt)"
+
+msgid "Width (px):"
+msgstr "Breite (px):"
+
+msgid "Height (px):"
+msgstr "Höhe (px):"
+
+msgid "Preview:"
+msgstr "Vorschau:"
+
+msgid "Select the image folder"
+msgstr "Bildordner auswählen"
+
+msgid "Load a file first"
+msgstr "Zuerst eine Datei laden"
+
+msgid "No image found"
+msgstr "Kein Bild gefunden"
+
+msgid "Rules"
+msgstr "Regeln"
+
+msgid "Conditional formatting and hiding — e.g. Price > 100 → red, Stock = 0 → hide"
+msgstr "Bedingte Formatierung und Ausblenden — z. B. Preis > 100 → rot, Bestand = 0 → ausblenden"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Column"
+msgstr "Spalte"
+
+msgid "Condition"
+msgstr "Bedingung"
+
+msgid "Value"
+msgstr "Wert"
+
+msgid "Action"
+msgstr "Aktion"
+
+msgid "Whole row"
+msgstr "Ganze Zeile"
+
+msgid "Text color"
+msgstr "Textfarbe"
+
+msgid "Background"
+msgstr "Hintergrund"
+
+msgid "+  Add rule"
+msgstr "+  Regel hinzufügen"
+
+msgid "Remove"
+msgstr "Entfernen"
+
+msgid "Colors: click = pick, right-click = clear"
+msgstr "Farben: Klick = wählen, Rechtsklick = löschen"
+
+msgid "Contains"
+msgstr "Enthält"
+
+msgid "Equals"
+msgstr "Gleich"
+
+msgid "Not equal"
+msgstr "Ungleich"
+
+msgid "Greater than"
+msgstr "Größer als"
+
+msgid "Less than"
+msgstr "Kleiner als"
+
+msgid "Is empty"
+msgstr "Ist leer"
+
+msgid "Is not empty"
+msgstr "Ist nicht leer"
+
+msgid "Looks like a date"
+msgstr "Sieht wie ein Datum aus"
+
+msgid "Font size for matched text (empty = unchanged)"
+msgstr "Schriftgröße für passenden Text (leer = unverändert)"
+
+msgid "Format"
+msgstr "Formatieren"
+
+msgid "Hide"
+msgstr "Ausblenden"
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Colors, font and logo — applies to Excel and PDF"
+msgstr "Farben, Schrift und Logo — gilt für Excel und PDF"
+
+msgid "Logo (PDF header):"
+msgstr "Logo (PDF-Kopfzeile):"
+
+msgid "Font:"
+msgstr "Schriftart:"
+
+msgid "Font size:"
+msgstr "Schriftgröße:"
+
+msgid "Header background:"
+msgstr "Kopf-Hintergrund:"
+
+msgid "Header text:"
+msgstr "Kopf-Text:"
+
+msgid "Category background:"
+msgstr "Kategorie-Hintergrund:"
+
+msgid "Category text:"
+msgstr "Kategorie-Text:"
+
+msgid "Alternating row shading"
+msgstr "Abwechselnde Zeilenschattierung"
+
+msgid "Lines under product rows"
+msgstr "Linien unter Produktzeilen"
+
+msgid "Select a logo"
+msgstr "Logo auswählen"
+
+msgid "Images (*.jpg;*.jpeg;*.png;*.bmp)|*.jpg;*.jpeg;*.png;*.bmp|All files (*.*)|*.*"
+msgstr "Bilder (*.jpg;*.jpeg;*.png;*.bmp)|*.jpg;*.jpeg;*.png;*.bmp|Alle Dateien (*.*)|*.*"
+
+msgid "Cover page"
+msgstr "Deckblatt"
+
+msgid "Price list name and company details on the first page of PDF and Excel"
+msgstr "Preislistenname und Firmendaten auf der ersten Seite von PDF und Excel"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Price list name:"
+msgstr "Preislistenname:"
+
+msgid "e.g. Dairy price list 2026"
+msgstr "z. B. Milchpreisliste 2026"
+
+msgid "Shown in every PDF page header and on the cover page. Empty = the file name from the Catalog screen is used."
+msgstr "Wird in jeder PDF-Kopfzeile und auf dem Deckblatt angezeigt. Leer = der Dateiname vom Katalog-Bildschirm wird verwendet."
+
+msgid "Add a cover page (PDF and Excel)"
+msgstr "Deckblatt hinzufügen (PDF und Excel)"
+
+msgid "Company:"
+msgstr "Firma:"
+
+msgid "e.g. Kollár Ltd."
+msgstr "z. B. Kollár GmbH"
+
+msgid "Address:"
+msgstr "Adresse:"
+
+msgid "street, ZIP, city"
+msgstr "Straße, PLZ, Ort"
+
+msgid "Phone:"
+msgstr "Telefon:"
+
+msgid "Web:"
+msgstr "Web:"
+
+msgid "www.example.com"
+msgstr "www.beispiel.de"
+
+msgid "Show creation date"
+msgstr "Erstellungsdatum anzeigen"
+
+msgid "The logo comes from Design settings. In Excel the cover is separated by a page break for printing."
+msgstr "Das Logo stammt aus den Design-Einstellungen. In Excel wird das Deckblatt für den Druck durch einen Seitenumbruch getrennt."
+
+msgid "Notes / announcements"
+msgstr "Notizen / Ankündigungen"
+
+msgid "Note 1:"
+msgstr "Notiz 1:"
+
+msgid "Note 2:"
+msgstr "Notiz 2:"
+
+msgid "Note 3:"
+msgstr "Notiz 3:"
+
+msgid "Free texts on the cover page — announcements, price validity, delivery terms... Empty notes are hidden."
+msgstr "Freie Texte auf dem Deckblatt — Ankündigungen, Preisgültigkeit, Lieferbedingungen... Leere Notizen werden ausgeblendet."
+
+msgid "Templates"
+msgstr "Vorlagen"
+
+msgid "Save complete settings under a name — e.g. Price list 2026, Sale, Wholesale"
+msgstr "Vollständige Einstellungen unter einem Namen speichern — z. B. Preisliste 2026, Aktion, Großhandel"
+
+msgid "Save current as..."
+msgstr "Aktuelle speichern als..."
+
+msgid "Load"
+msgstr "Laden"
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "Template \"{0}\" already exists.\n\nOverwrite?"
+msgstr "Vorlage \"{0}\" existiert bereits.\n\nÜberschreiben?"
+
+msgid "Failed to load the template."
+msgstr "Vorlage konnte nicht geladen werden."
+
+msgid "Delete template \"{0}\"?"
+msgstr "Vorlage \"{0}\" löschen?"
+
+msgid "Template name"
+msgstr "Vorlagenname"
+
+msgid "Help"
+msgstr "Hilfe"
+
+msgid "How to use Catalog Studio"
+msgstr "So verwenden Sie Catalog Studio"
+
+msgid "Quick start"
+msgstr "Schnellstart"
+
+msgid "1.  Select the source file (.xlsx, .xls, .ods, .csv) on the Catalog screen.\n2.  In Columns choose what to show, names and order.\n3.  In Categories pick the column that splits the catalog.\n4.  Adjust Layout, Sorting, Images, Rules and Design as needed.\n5.  Optionally enable the Cover page with company details.\n6.  Select the output folder, formats and click GENERATE CATALOG.\n\nAll settings are saved automatically and can be stored as a template."
+msgstr "1.  Wählen Sie die Quelldatei (.xlsx, .xls, .ods, .csv) im Katalog-Bildschirm.\n2.  Wählen Sie unter Spalten, was angezeigt wird, Namen und Reihenfolge.\n3.  Wählen Sie unter Kategorien die Spalte, die den Katalog unterteilt.\n4.  Passen Sie Layout, Sortierung, Bilder, Regeln und Design nach Bedarf an.\n5.  Aktivieren Sie optional das Deckblatt mit Firmendaten.\n6.  Wählen Sie Ausgabeordner und Formate und klicken Sie KATALOG ERSTELLEN.\n\nAlle Einstellungen werden automatisch gespeichert und können als Vorlage abgelegt werden."
+
+msgid "A detailed guide for every screen opens as a PDF document."
+msgstr "Eine ausführliche Anleitung zu jedem Bildschirm öffnet sich als PDF-Dokument."
+
+msgid "Open the guide (PDF)"
+msgstr "Anleitung öffnen (PDF)"
+
+msgid "Failed to open the guide:\n\n{0}"
+msgstr "Anleitung konnte nicht geöffnet werden:\n\n{0}"
+
+msgid "About"
+msgstr "Über"
+
+msgid "Application information"
+msgstr "Anwendungsinformationen"
+
+msgid "Product catalog and price list generator from spreadsheet data.\nLoads any spreadsheet, lets you set the rules and produces a finished Excel, PDF and web catalog."
+msgstr "Generator für Produktkataloge und Preislisten aus Tabellendaten.\nLädt beliebige Tabellen, lässt Sie die Regeln festlegen und erzeugt einen fertigen Excel-, PDF- und Web-Katalog."
+
+msgid "Version:"
+msgstr "Version:"
+
+msgid "Author:"
+msgstr "Autor:"
+
+msgid "Copyright:"
+msgstr "Copyright:"
+
+msgid "Platform:"
+msgstr "Plattform:"
+
+msgid "PDF preview — {0}"
+msgstr "PDF-Vorschau — {0}"
+
+msgid "◀  Previous"
+msgstr "◀  Zurück"
+
+msgid "Next  ▶"
+msgstr "Weiter  ▶"
+
+msgid "Page {0} / {1}"
+msgstr "Seite {0} / {1}"
+
+msgid "Copy"
+msgstr "Kopieren"
+
+msgid "Save as..."
+msgstr "Speichern unter..."
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Text file (*.txt)|*.txt"
+msgstr "Textdatei (*.txt)|*.txt"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "The file is open in another program.\n\nClose it and try again."
+msgstr "Die Datei ist in einem anderen Programm geöffnet.\n\nSchließen Sie sie und versuchen Sie es erneut."
+
+msgid "File in use"
+msgstr "Datei in Verwendung"
+
+msgid "The file:\n\n{0}\n\nalready exists.\n\nOverwrite it?"
+msgstr "Die Datei:\n\n{0}\n\nexistiert bereits.\n\nÜberschreiben?"
+
+msgid "Existing file"
+msgstr "Vorhandene Datei"
+
+msgid "Saving cancelled."
+msgstr "Speichern abgebrochen."
+
+msgid "No columns selected."
+msgstr "Keine Spalten ausgewählt."
+
+msgid "Created: {0}"
+msgstr "Erstellt: {0}"
+
+msgid "Created: "
+msgstr "Erstellt: "
+
+msgid "Phone: {0}"
+msgstr "Telefon: {0}"
+
+msgid "Phone: "
+msgstr "Telefon: "
+
+msgid "Search the catalog..."
+msgstr "Katalog durchsuchen..."
+
+msgid "↑ Top"
+msgstr "↑ Nach oben"
+
+msgid "No product matches the search."
+msgstr "Kein Produkt entspricht der Suche."
+
+msgid "Generated {0} — Catalog Studio"
+msgstr "Erstellt {0} — Catalog Studio"
+
+msgid "DATA CHECK — {0}"
+msgstr "DATENPRÜFUNG — {0}"
+
+msgid " (sheet {0})"
+msgstr " (Blatt {0})"
+
+msgid "Generated: {0}"
+msgstr "Erstellt: {0}"
+
+msgid "Products: {0}"
+msgstr "Produkte: {0}"
+
+msgid "IMAGES"
+msgstr "BILDER"
+
+msgid "Images are disabled — check skipped."
+msgstr "Bilder sind deaktiviert — Prüfung übersprungen."
+
+msgid "MISSING IMAGES ({0} of {1})"
+msgstr "FEHLENDE BILDER ({0} von {1})"
+
+msgid "All products have an image. ✔"
+msgstr "Alle Produkte haben ein Bild. ✔"
+
+msgid "(empty image name)"
+msgstr "(leerer Bildname)"
+
+msgid "expected file: {0}"
+msgstr "erwartete Datei: {0}"
+
+msgid "  ... and {0} more"
+msgstr "  ... und {0} weitere"
+
+msgid "EMPTY VALUES (visible columns)"
+msgstr "LEERE WERTE (sichtbare Spalten)"
+
+msgid "All visible columns are filled. ✔"
+msgstr "Alle sichtbaren Spalten sind ausgefüllt. ✔"
+
+msgid "  {0}: {1} empty  ({2})"
+msgstr "  {0}: {1} leer  ({2})"
+
+msgid "  {0}: {1} empty  ({2}, ...)"
+msgstr "  {0}: {1} leer  ({2}, ...)"
+
+msgid "DUPLICATE VALUES (column {0})"
+msgstr "DOPPELTE WERTE (Spalte {0})"
+
+msgid "No visible column."
+msgstr "Keine sichtbare Spalte."
+
+msgid "No duplicates. ✔"
+msgstr "Keine Duplikate. ✔"
+
+msgid "CATEGORIES"
+msgstr "KATEGORIEN"
+
+msgid "Categories are not set — the catalog is one table."
+msgstr "Kategorien sind nicht festgelegt — der Katalog ist eine Tabelle."
+
+msgid "  Without category: {0} products ({1})"
+msgstr "  Ohne Kategorie: {0} Produkte ({1})"
+
+msgid "  WARNING — values outside the category list (these products would be missing, reload categories):"
+msgstr "  WARNUNG — Werte außerhalb der Kategorieliste (diese Produkte würden fehlen, Kategorien neu laden):"
+
+msgid "    \"{0}\" — {1} products"
+msgstr "    \"{0}\" — {1} Produkte"
+
+msgid "  Disabled category \"{0}\" — {1} products will not be in the catalog"
+msgstr "  Deaktivierte Kategorie \"{0}\" — {1} Produkte werden nicht im Katalog sein"
+
+msgid "All products have a valid category. ✔"
+msgstr "Alle Produkte haben eine gültige Kategorie. ✔"
+
+msgid "RULES (hiding)"
+msgstr "REGELN (Ausblenden)"
+
+msgid "  Rules hide {0} products ({1} remain in the catalog)."
+msgstr "  Regeln blenden {0} Produkte aus ({1} bleiben im Katalog)."
+
+msgid "Product filter"
+msgstr "Produktfilter"
+
+msgid "Show only the products listed in a second file (matched by a shared column)"
+msgstr "Nur die Produkte aus einer zweiten Datei anzeigen (über eine gemeinsame Spalte zugeordnet)"
+
+msgid "Show only products from a filter file"
+msgstr "Nur Produkte aus einer Filterdatei anzeigen"
+
+msgid "Filter file:"
+msgstr "Filterdatei:"
+
+msgid "Column in the filter file:"
+msgstr "Spalte in der Filterdatei:"
+
+msgid "Matching column in the data:"
+msgstr "Spalte in den Hauptdaten:"
+
+msgid "Works like VLOOKUP: the filter file lists the products to show; both files share a column with the same values (e.g. EAN or a product code) — the column names may differ. The catalog keeps the category grouping and sorting."
+msgstr "Funktioniert wie SVERWEIS: Die Filterdatei listet die anzuzeigenden Produkte; beide Dateien haben eine Spalte mit denselben Werten (z. B. EAN oder Artikelnummer) — die Spaltennamen dürfen abweichen. Der Katalog behält Kategorien-Gruppierung und Sortierung."
+
+msgid "Spreadsheets (*.xlsx;*.xlsm;*.xls;*.ods;*.csv;*.tsv)|*.xlsx;*.xlsm;*.xls;*.ods;*.csv;*.tsv|All files (*.*)|*.*"
+msgstr "Tabellen (*.xlsx;*.xlsm;*.xls;*.ods;*.csv;*.tsv)|*.xlsx;*.xlsm;*.xls;*.ods;*.csv;*.tsv|Alle Dateien (*.*)|*.*"
+
+msgid "Select the filter file"
+msgstr "Filterdatei auswählen"
+
+msgid "The filter file could not be read."
+msgstr "Die Filterdatei konnte nicht gelesen werden."
+
+msgid "{0} values in the filter file."
+msgstr "{0} Werte in der Filterdatei."
+
+msgid "{0} values in the filter file — {1} of {2} products match."
+msgstr "{0} Werte in der Filterdatei — {1} von {2} Produkten stimmen überein."
+
+msgid "Enlarge"
+msgstr "Vergrößern"
+
+msgid "Card size"
+msgstr "Kartengröße"
+
+msgid "Enlarged card size in grid cells (Enlarge action, card mode)"
+msgstr "Größe der vergrößerten Karte in Rasterzellen (Aktion Vergrößern, Kartenmodus)"
+
+msgid "Move to start"
+msgstr "An den Anfang"
+
+msgid "Move to end"
+msgstr "Ans Ende"
+
+msgid "Badge (ribbon)"
+msgstr "Banderole"
+
+msgid "Badge text"
+msgstr "Banderolentext"
+
+msgid "Angle"
+msgstr "Winkel"
+
+msgid "Ribbon caption, e.g. SUPER CENA / NOVINKA (Badge action, card mode)"
+msgstr "Aufschrift der Banderole, z. B. SUPERPREIS / NEU (Aktion Banderole, Kartenmodus)"
+
+msgid "Save rule template..."
+msgstr "Regelvorlage speichern…"
+
+msgid "Rule templates..."
+msgstr "Regelvorlagen…"
+
+msgid "Rule templates"
+msgstr "Regelvorlagen"
+
+msgid "Apply (replace current rules)"
+msgstr "Anwenden (aktuelle Regeln ersetzen)"
+
+msgid "Add to current rules"
+msgstr "Zu den aktuellen Regeln hinzufügen"
+
+msgid "The template could not be loaded."
+msgstr "Die Vorlage konnte nicht geladen werden."
+
+msgid "Delete the selected template?"
+msgstr "Ausgewählte Vorlage löschen?"
+
+msgid "There are no rules to save."
+msgstr "Es gibt keine Regeln zum Speichern."
+
+msgid "Back %"
+msgstr "Hg. %"
+
+msgid "Background opacity 0-100%"
+msgstr "Deckkraft des Hintergrunds 0-100 %"
+
+
+
+
+
+
+
+
+
+
+
+
+
+msgid "Layer Z"
+msgstr "Ebene Z"
+
+msgid "Drawing order in card mode (higher = on top, negative = behind the other fields)"
+msgstr "Zeichenreihenfolge im Kartenmodus (höher = oben, negativ = hinter den anderen Feldern)"
+
+
+msgid "Pos X %"
+msgstr "Position X %"
+
+msgid "Pos Y %"
+msgstr "Position Y %"
+
+msgid "Field position X in percent of the card width (empty = normal flow)"
+msgstr "Horizontale Position des Feldes in Prozent der Kartenbreite (leer = normaler Fluss)"
+
+msgid "Field position Y in percent of the card height (empty = normal flow)"
+msgstr "Vertikale Position des Feldes in Prozent der Kartenhöhe (leer = normaler Fluss)"
+
+msgid "Pad left"
+msgstr "Rand links"
+
+msgid "Pad top"
+msgstr "Rand oben"
+
+msgid "Pad right"
+msgstr "Rand rechts"
+
+msgid "Pad bottom"
+msgstr "Rand unten"
+
+msgid "Padding between the field text and its left edge (empty = automatic)"
+msgstr "Abstand zwischen Feldtext und linkem Rand (leer = automatisch)"
+
+msgid "Padding between the field text and its top edge (empty = automatic)"
+msgstr "Abstand zwischen Feldtext und oberem Rand (leer = automatisch)"
+
+msgid "Padding between the field text and its right edge (empty = automatic)"
+msgstr "Abstand zwischen Feldtext und rechtem Rand (leer = automatisch)"
+
+msgid "Padding between the field text and its bottom edge (empty = automatic)"
+msgstr "Abstand zwischen Feldtext und unterem Rand (leer = automatisch)"
+
+msgid "Shadow"
+msgstr "Schatten"
+
+msgid "Shadow color"
+msgstr "Schattenfarbe"
+
+msgid "Shadow X"
+msgstr "Schatten X"
+
+msgid "Shadow Y"
+msgstr "Schatten Y"
+
+msgid "Draw a shadow under the field text"
+msgstr "Schatten unter dem Feldtext zeichnen"
+
+msgid "Horizontal shadow offset"
+msgstr "Horizontaler Schattenversatz"
+
+msgid "Vertical shadow offset"
+msgstr "Vertikaler Schattenversatz"
+
+msgid "Width %"
+msgstr "Breite %"
+
+msgid "Field width in percent of the card (empty = full width; longer text wraps to the next line)"
+msgstr "Feldbreite in Prozent der Karte (leer = volle Breite; längerer Text bricht in die nächste Zeile um)"
+
+msgid "Basic settings"
+msgstr "Grundeinstellungen"
+
+msgid "Field style"
+msgstr "Feldgestaltung"
+
+msgid "Placement in the card"
+msgstr "Platzierung in der Karte"
+
+msgid "Text shadow"
+msgstr "Textschatten"
+
+msgid "Bold"
+msgstr "Fett"
+
+msgid "Italic"
+msgstr "Kursiv"
+
+msgid "Include this column in the catalog"
+msgstr "Diese Spalte in den Katalog aufnehmen"
+
+msgid "Column width in percent (table mode)"
+msgstr "Spaltenbreite in Prozent (Tabellenmodus)"
+
+msgid "Fields across the top, their settings underneath"
+msgstr "Felder oben nebeneinander, ihre Einstellungen darunter"
+
+msgid "◀  Left"
+msgstr "◀  Links"
+
+msgid "Right  ▶"
+msgstr "Rechts  ▶"
+
+msgid "▲  Up"
+msgstr "▲  Hoch"
+
+msgid "▼  Down"
+msgstr "▼  Runter"
+
+msgid "Source column"
+msgstr "Quellspalte"
+
+msgid "Setting"
+msgstr "Einstellung"
+
+msgid "Show fields:"
+msgstr "Felder anzeigen:"
+
+msgid "Only used"
+msgstr "Nur verwendete"
+
+msgid "Rows per page (card mode, PDF):"
+msgstr "Zeilen pro Seite (Kartenmodus, PDF):"
+
+msgid "0 = automatic (a row that does not fit moves to the next page)"
+msgstr "0 = automatisch (eine Zeile, die nicht ganz passt, rückt auf die nächste Seite)"
+
+msgid "Logo X % / Y %:"
+msgstr "Logo X % / Y %:"
+
+msgid "empty = next to the text block"
+msgstr "leer = neben dem Textblock"
+
+msgid "Gap above the products:"
+msgstr "Abstand über den Produkten:"
+
+msgid "X %"
+msgstr "X %"
+
+msgid "Y %"
+msgstr "Y %"
+
+msgid "Background opacity 0-100% (PDF and HTML)"
+msgstr "Deckkraft des Hintergrunds 0-100 % (PDF und HTML)"
+
+msgid "Page footer"
+msgstr "Seitenfuß"
+
+msgid "A strip along the bottom edge of a chosen page — the products above it make room for it"
+msgstr "Ein Streifen am unteren Rand einer gewählten Seite — die Produkte darüber machen ihm Platz"
+
+msgid "Footers"
+msgstr "Fußzeilen"
+
+msgid "Use page footers"
+msgstr "Seitenfußzeilen verwenden"
+
+msgid "Every footer belongs to one page. Page 0 means the footer is used on every page that has no footer of its own."
+msgstr "Jede Fußzeile gehört zu einer Seite. Seite 0 bedeutet, dass sie auf jeder Seite ohne eigene Fußzeile verwendet wird."
+
+msgid "+  Add footer"
+msgstr "+  Fußzeile hinzufügen"
+
+msgid "On"
+msgstr "Ein"
+
+msgid "Page"
+msgstr "Seite"
+
+msgid "Page the footer belongs to (1 = first product page, 0 = every page)"
+msgstr "Seite, zu der die Fußzeile gehört (1 = erste Produktseite, 0 = jede Seite)"
+
+msgid "Height (pt)"
+msgstr "Höhe (pt)"
+
+msgid "Content"
+msgstr "Inhalt"
+
+msgid "Band"
+msgstr "Streifen"
+
+msgid "A band lower than one product row only makes the cards on that page shorter; a taller band costs the page a whole row (or more)."
+msgstr "Ein Streifen niedriger als eine Produktzeile macht nur die Karten dieser Seite kürzer; ein höherer Streifen kostet die Seite eine ganze Zeile (oder mehr)."
+
+msgid "Page (0 = every page):"
+msgstr "Seite (0 = jede):"
+
+msgid "Height (pt):"
+msgstr "Höhe (pt):"
+
+msgid "Gap above the band (pt):"
+msgstr "Abstand über dem Streifen (pt):"
+
+msgid "Background:"
+msgstr "Hintergrund:"
+
+msgid "Opacity (%):"
+msgstr "Deckkraft (%):"
+
+msgid "Corner radius (pt):"
+msgstr "Eckenradius (pt):"
+
+msgid "Frame around the band"
+msgstr "Rahmen um den Streifen"
+
+msgid "Frame color:"
+msgstr "Rahmenfarbe:"
+
+msgid "Frame width (pt):"
+msgstr "Rahmenbreite (pt):"
+
+msgid "Highlight opacity (%):"
+msgstr "Deckkraft der Hervorhebung (%):"
+
+msgid "Highlight radius (pt):"
+msgstr "Radius der Hervorhebung (pt):"
+
+msgid "An image from the source data is looked up by the image rules of the catalog (folder, prefix and suffix). The position is measured in percent of the band width and height, empty = the top left corner."
+msgstr "Ein Bild aus den Quelldaten wird über die Bildregeln des Katalogs gesucht (Ordner, Präfix, Suffix). Die Position wird in Prozent der Streifenbreite und -höhe angegeben, leer = obere linke Ecke."
+
+msgid "Image:"
+msgstr "Bild:"
+
+msgid "No image"
+msgstr "Kein Bild"
+
+msgid "External file"
+msgstr "Externe Datei"
+
+msgid "From the source data"
+msgstr "Aus den Quelldaten"
+
+msgid "Across the whole band"
+msgstr "Über den ganzen Streifen"
+
+msgid "File:"
+msgstr "Datei:"
+
+msgid "Name in the source data:"
+msgstr "Name in den Quelldaten:"
+
+msgid "Width (pt):"
+msgstr "Breite (pt):"
+
+msgid "Position X (%):"
+msgstr "Position X (%):"
+
+msgid "Position Y (%):"
+msgstr "Position Y (%):"
+
+msgid "All files"
+msgstr "Alle Dateien"
+
+msgid "Fields without a position are stacked in the middle of the band; a field with X or Y is placed at that spot instead."
+msgstr "Felder ohne Position werden in der Mitte des Streifens gestapelt; ein Feld mit X oder Y wird an dieser Stelle platziert."
+
+msgid "+  Add text field"
+msgstr "+  Textfeld hinzufügen"
+
+msgid "Position in percent of the band width (empty = in the stacked text)"
+msgstr "Position in Prozent der Streifenbreite (leer = im gestapelten Text)"
+
+msgid "Position in percent of the band height (empty = in the stacked text)"
+msgstr "Position in Prozent der Streifenhöhe (leer = im gestapelten Text)"
+
+msgid "none"
+msgstr "keine"
+
+msgid "1 text field"
+msgstr "1 Textfeld"
+
+msgid "{0} text fields"
+msgstr "{0} Textfelder"
+
+msgid "image from a file"
+msgstr "Bild aus einer Datei"
+
+msgid "image from the data"
+msgstr "Bild aus den Daten"
+
+msgid "Add footer"
+msgstr "Fußzeile hinzufügen"
+
+msgid "Remove footer"
+msgstr "Fußzeile entfernen"
+
+msgid "Add text field"
+msgstr "Textfeld hinzufügen"
+
+msgid "Remove text field"
+msgstr "Textfeld entfernen"
+
+msgid "Gap below the band (pt):"
+msgstr "Abstand unter dem Streifen (pt):"
+
+msgid "Badge shape"
+msgstr "Badge-Form"
+
+msgid "Badge"
+msgstr "Badge"
+
+msgid "Shape"
+msgstr "Form"
+
+msgid "Shape W"
+msgstr "Form B"
+
+msgid "Shape H"
+msgstr "Form H"
+
+msgid "Badge outline — click to pick a shape (Badge action, card mode)"
+msgstr "Badge-Umriss — zum Auswählen klicken (Aktion Badge, Kartenmodus)"
+
+msgid "Shape width in points (the ribbon is as wide as its caption)"
+msgstr "Formbreite in Punkten (der Streifen ist so breit wie seine Beschriftung)"
+
+msgid "Shape height in points"
+msgstr "Formhöhe in Punkten"
+
+msgid "Ribbon (caption only)"
+msgstr "Streifen (nur Beschriftung)"
+
+msgid "Rectangle"
+msgstr "Rechteck"
+
+msgid "Rounded rectangle"
+msgstr "Abgerundetes Rechteck"
+
+msgid "Cushion"
+msgstr "Kissen"
+
+msgid "Squircle"
+msgstr "Quadrat mit runden Ecken"
+
+msgid "Arch"
+msgstr "Bogen"
+
+msgid "Wavy rectangle"
+msgstr "Gewelltes Rechteck"
+
+msgid "Cloud"
+msgstr "Wolke"
+
+msgid "Flower"
+msgstr "Blume"
+
+msgid "Scalloped"
+msgstr "Wellenkreis"
+
+msgid "Blob"
+msgstr "Klecks"
+
+msgid "Burst (8 points)"
+msgstr "Stern (8 Zacken)"
+
+msgid "Burst (12 points)"
+msgstr "Stern (12 Zacken)"
+
+msgid "Burst (16 points)"
+msgstr "Stern (16 Zacken)"
+
+msgid "Circle / ellipse"
+msgstr "Kreis / Ellipse"
+
+msgid "Pebble"
+msgstr "Kiesel"
+
+msgid "Pill"
+msgstr "Pille"
+
+msgid "Hexagon"
+msgstr "Sechseck"
+
+msgid "Ticket"
+msgstr "Ticket"
+
+msgid "Leaf"
+msgstr "Blatt"
+
+msgid "Leaf (mirrored)"
+msgstr "Blatt (gespiegelt)"
+
+msgid "Flag"
+msgstr "Fahne"
+
+msgid "Trapezoid"
+msgstr "Trapez"
+
+msgid "Star (8 points)"
+msgstr "Stern (8 Spitzen)"
+
+msgid "Shield"
+msgstr "Schild"
+
+msgid "Speech bubble"
+msgstr "Sprechblase"
+
+msgid "Price tag"
+msgstr "Preisschild"
+
+msgid "Diamond"
+msgstr "Raute"
+
+msgid "Banner ribbon"
+msgstr "Banderole"
+
+msgid "Badge (ribbon or shape)"
+msgstr "Badge (Streifen oder Form)"
+
+msgid "Frame"
+msgstr "Rahmen"
+
+msgid "Frame W"
+msgstr "Rahmen"
+
+msgid "Frame color around the badge shape (Auto = no frame)"
+msgstr "Rahmenfarbe um die Badge-Form (Auto = kein Rahmen)"
+
+msgid "Frame width in points (0 = no frame)"
+msgstr "Rahmenbreite in Punkten (0 = kein Rahmen)"
+
+msgid "frame"
+msgstr "Rahmen"
+
+msgid "Star (5 points)"
+msgstr "Stern (5 Spitzen)"
+
+msgid "Star (6 points)"
+msgstr "Stern (6 Spitzen)"
+
+msgid "Star (10 points)"
+msgstr "Stern (10 Spitzen)"
+
+msgid "Star with round tips"
+msgstr "Stern mit runden Spitzen"
+
+msgid "Burst (24 points)"
+msgstr "Stern (24 Zacken)"
+
+msgid "Sunburst (rays)"
+msgstr "Sonne (Strahlen)"
+
+msgid "Pinwheel"
+msgstr "Windrad"
+
+msgid "Gear"
+msgstr "Zahnrad"
+
+msgid "Daisy"
+msgstr "Margerite"
+
+msgid "Clover"
+msgstr "Kleeblatt"
+
+msgid "Seal"
+msgstr "Siegel"
+
+msgid "Pentagon"
+msgstr "Fünfeck"
+
+msgid "Cross"
+msgstr "Kreuz"
+
+msgid "Background opacity 0-100% (empty = the band's shared value)"
+msgstr "Deckkraft des Hintergrunds 0-100 % (leer = gemeinsamer Wert des Streifens)"
+
+msgid "Background corner radius in points (empty = the band's shared value)"
+msgstr "Eckenradius des Hintergrunds in Punkten (leer = gemeinsamer Wert des Streifens)"
+
+msgid "Pad L"
+msgstr "L"
+
+msgid "Pad T"
+msgstr "O"
+
+msgid "Pad R"
+msgstr "R"
+
+msgid "Pad B"
+msgstr "U"
+
+msgid "Space between the text and the left edge of its background"
+msgstr "Abstand zwischen Text und linkem Rand seines Hintergrunds"
+
+msgid "Space between the text and the top edge of its background"
+msgstr "Abstand zwischen Text und oberem Rand seines Hintergrunds"
+
+msgid "Space between the text and the right edge of its background"
+msgstr "Abstand zwischen Text und rechtem Rand seines Hintergrunds"
+
+msgid "Space between the text and the bottom edge of its background"
+msgstr "Abstand zwischen Text und unterem Rand seines Hintergrunds"
+
+msgid "No shape"
+msgstr "Keine Form"
+
+msgid "Badge outline behind the text — click to pick a shape"
+msgstr "Badge-Umriss hinter dem Text — zum Auswählen klicken"
+
+msgid "Shape width in points (empty = as wide as the text needs)"
+msgstr "Formbreite in Punkten (leer = so breit wie der Text)"
+
+msgid "Shape height in points (empty = as tall as the text needs)"
+msgstr "Formhöhe in Punkten (leer = so hoch wie der Text)"
+
+msgid "{0}× shape"
+msgstr "{0}× Form"
+
+msgid "Wrap"
+msgstr "Umbr."
+
+msgid "Wrap the caption to the badge size; off scales a long caption down to one line"
+msgstr "Beschriftung an die Badge-Größe umbrechen; aus verkleinert eine lange Beschriftung auf eine Zeile"
+
+msgid "Wrap the text to the shape; off scales a long text down to one line"
+msgstr "Text an die Form umbrechen; aus verkleinert einen langen Text auf eine Zeile"
+
+msgid "Space between the caption and the left edge of the badge"
+msgstr "Abstand zwischen Beschriftung und linkem Rand des Badges"
+
+msgid "Space between the caption and the top edge of the badge"
+msgstr "Abstand zwischen Beschriftung und oberem Rand des Badges"
+
+msgid "Space between the caption and the right edge of the badge"
+msgstr "Abstand zwischen Beschriftung und rechtem Rand des Badges"
+
+msgid "Space between the caption and the bottom edge of the badge"
+msgstr "Abstand zwischen Beschriftung und unterem Rand des Badges"
+
+msgid "Badge outline behind the value — click to pick a shape"
+msgstr "Badge-Umriss hinter dem Wert — zum Auswählen klicken"
+
+msgid "Shape width in points (empty = as wide as the value needs)"
+msgstr "Formbreite in Punkten (leer = so breit wie der Wert)"
+
+msgid "Shape height in points (empty = as tall as the value needs)"
+msgstr "Formhöhe in Punkten (leer = so hoch wie der Wert)"
+
+msgid "Wrap the value to the shape; off scales a long value down to one line"
+msgstr "Wert an die Form umbrechen; aus verkleinert einen langen Wert auf eine Zeile"
+
+msgid "Card designer"
+msgstr "Karten-Designer"
+
+msgid "Drag the fields of a product card, of the flyer header or of a page footer where they belong — the settings follow"
+msgstr "Ziehen Sie die Felder einer Produktkarte, der Flyer-Kopfzeile oder einer Seitenfußzeile dorthin, wo sie hingehören — die Einstellungen folgen"
+
+msgid "Product:"
+msgstr "Produkt:"
+
+msgid "Zoom:"
+msgstr "Zoom:"
+
+msgid "Back to flow"
+msgstr "Zurück in den Fluss"
+
+msgid "Reset field"
+msgstr "Feld zurücksetzen"
+
+msgid "Rendering…"
+msgstr "Rendern…"
+
+msgid "No field selected"
+msgstr "Kein Feld ausgewählt"
+
+msgid "More settings…"
+msgstr "Weitere Einstellungen…"
+
+msgid "(no name)"
+msgstr "(ohne Namen)"
+
+msgid "The card designer works with the card / flyer layout — switch the output style in Layout."
+msgstr "Der Karten-Designer arbeitet mit dem Karten-/Flyer-Layout — den Ausgabestil ändern Sie im Layout."
+
+msgid "Load a data file first — the designer needs a product to draw."
+msgstr "Laden Sie zuerst eine Datendatei — der Designer braucht ein Produkt zum Zeichnen."
+
+msgid "Opacity (%)"
+msgstr "Deckkraft (%)"
+
+msgid "Frame color"
+msgstr "Rahmenfarbe"
+
+msgid "Frame width"
+msgstr "Rahmenbreite"
+
+msgid "Corner radius"
+msgstr "Eckenradius"
+
+msgid "Position X (%)"
+msgstr "Position X (%)"
+
+msgid "Position Y (%)"
+msgstr "Position Y (%)"
+
+msgid "Width (%)"
+msgstr "Breite (%)"
+
+msgid "Move field"
+msgstr "Feld verschieben"
+
+msgid "Resize field"
+msgstr "Feldbreite ändern"
+
+msgid "Card padding:"
+msgstr "Kartenabstand:"
+
+msgid "0 = the image fills the whole card"
+msgstr "0 = das Bild füllt die ganze Karte"
+
+msgid "Product card"
+msgstr "Produktkarte"
+
+msgid "Wrap text"
+msgstr "Text umbrechen"
+
+msgid "Footer"
+msgstr "Fußzeile"
+
+msgid "page"
+msgstr "Seite"
+
+msgid "every page"
+msgstr "jede Seite"
+
+msgid "Switch the flyer header on in Flyer header — then its fields can be dragged here."
+msgstr "Schalten Sie die Flyer-Kopfzeile unter Flyer-Kopfzeile ein — dann lassen sich ihre Felder hier ziehen."
+
+msgid "Add a page footer in Page footer — then its fields can be dragged here."
+msgstr "Fügen Sie unter Seitenfußzeile eine Fußzeile hinzu — dann lassen sich ihre Felder hier ziehen."
+
+msgid "Pick a page footer."
+msgstr "Wählen Sie eine Seitenfußzeile."
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Width (pt)"
+msgstr "Breite (pt)"
+
+msgid "Position X (pt)"
+msgstr "Position X (pt)"
+
+msgid "Position Y (pt)"
+msgstr "Position Y (pt)"
+
+msgid "Page images (PNG/JPG)"
+msgstr "Seitenbilder (PNG/JPG)"
+
+msgid "Page images (PNG / JPG)"
+msgstr "Seitenbilder (PNG / JPG)"
+
+msgid "Generating page images..."
+msgstr "Seitenbilder werden erstellt..."
+
+msgid "Format:"
+msgstr "Format:"
+
+msgid "JPG quality:"
+msgstr "JPG-Qualität:"
+
+msgid "Best"
+msgstr "Beste"
+
+msgid "Very high"
+msgstr "Sehr hoch"
+
+msgid "High"
+msgstr "Hoch"
+
+msgid "Medium"
+msgstr "Mittel"
+
+msgid "Tick \"Page images\" on the Catalog screen: every page of the PDF is saved as a picture into the folder <name>_pages next to the catalog — for social media, an e-mail or a web page. 150 DPI suits a screen, 300 DPI print; PNG keeps the text sharp, JPG makes smaller files."
+msgstr "Aktivieren Sie im Katalog-Bildschirm \"Seitenbilder\": Jede PDF-Seite wird als Bild im Ordner <Name>_pages neben dem Katalog gespeichert — für soziale Netzwerke, E-Mail oder das Web. 150 DPI genügen für den Bildschirm, 300 DPI für den Druck; PNG hält den Text scharf, JPG erzeugt kleinere Dateien."
+
+msgid "QR / barcode"
+msgstr "QR / Barcode"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Code height"
+msgstr "Codehöhe"
+
+msgid "Code text"
+msgstr "Codetext"
+
+msgid "Show the value as a QR code, an EAN barcode (8 or 13 digits) or a Code 128 barcode; empty = plain text"
+msgstr "Wert als QR-Code, EAN-Barcode (8 oder 13 Ziffern) oder Code 128 anzeigen; leer = normaler Text"
+
+msgid "Height of the code in points (a QR code is square)"
+msgstr "Höhe des Codes in Punkten (ein QR-Code ist quadratisch)"
+
+msgid "Print the value under a barcode"
+msgstr "Wert unter den Barcode drucken"
+
+msgid "Copy style"
+msgstr "Stil kopieren"
+
+msgid "Paste style"
+msgstr "Stil einfügen"
+
+msgid "Align:"
+msgstr "Ausrichten:"
+
+msgid "Align left edges"
+msgstr "Linke Kanten ausrichten"
+
+msgid "Center horizontally"
+msgstr "Horizontal zentrieren"
+
+msgid "Align right edges"
+msgstr "Rechte Kanten ausrichten"
+
+msgid "Align top edges"
+msgstr "Obere Kanten ausrichten"
+
+msgid "Center vertically"
+msgstr "Vertikal zentrieren"
+
+msgid "Align bottom edges"
+msgstr "Untere Kanten ausrichten"
+
+msgid "Distribute horizontally"
+msgstr "Horizontal gleichmäßig verteilen"
+
+msgid "Distribute vertically"
+msgstr "Vertikal gleichmäßig verteilen"
+
+msgid "Ctrl+click selects several fields"
+msgstr "Strg+Klick wählt mehrere Felder"
+
+msgid "{0} fields selected"
+msgstr "{0} Felder ausgewählt"
+
+msgid "Style of \"{0}\" copied"
+msgstr "Stil von „{0}“ kopiert"
+
+msgid "Align fields"
+msgstr "Felder ausrichten"
+
+msgid "Refresh preview"
+msgstr "Vorschau aktualisieren"
+
+msgid "No preview"
+msgstr "Keine Vorschau"
+
+msgid "Load a data file first — the preview is drawn from your data."
+msgstr "Laden Sie zuerst eine Datendatei — die Vorschau wird aus Ihren Daten gezeichnet."
+
+msgid "Getting started — your first catalog in four steps"
+msgstr "Erste Schritte — Ihr erster Katalog in vier Schritten"
+
+msgid "Choose the file with your products (Excel, OpenDocument or CSV)"
+msgstr "Wählen Sie die Datei mit Ihren Produkten (Excel, OpenDocument oder CSV)"
+
+msgid "Choose file…"
+msgstr "Datei wählen…"
+
+msgid "Load a template, or set the columns and the layout"
+msgstr "Laden Sie eine Vorlage oder legen Sie Spalten und Layout fest"
+
+msgid "Check the look in the preview"
+msgstr "Prüfen Sie das Aussehen in der Vorschau"
+
+msgid "Pick the output folder and the formats, then generate"
+msgstr "Wählen Sie Ausgabeordner und Formate, dann erstellen"
+
+msgid "Generate"
+msgstr "Erstellen"
+
+msgid "Hide this guide"
+msgstr "Leitfaden ausblenden"
+
+msgid "Show the getting-started guide"
+msgstr "Leitfaden „Erste Schritte“ einblenden"
+
+msgid "Updates"
+msgstr "Aktualisierungen"
+
+msgid "Update source:"
+msgstr "Update-Quelle:"
+
+msgid "Check for updates"
+msgstr "Nach Updates suchen"
+
+msgid "Download and install"
+msgstr "Herunterladen und installieren"
+
+msgid "A GitHub release address, or a version.json on a web server or a shared drive."
+msgstr "Eine GitHub-Release-Adresse oder eine version.json auf einem Webserver oder Netzlaufwerk."
+
+msgid "Checking…"
+msgstr "Wird geprüft…"
+
+msgid "Version {0} is available (you have {1})."
+msgstr "Version {0} ist verfügbar (Sie haben {1})."
+
+msgid "You have the newest version ({0})."
+msgstr "Sie haben die neueste Version ({0})."
+
+msgid "The check did not succeed: {0}"
+msgstr "Die Prüfung ist fehlgeschlagen: {0}"
+
+msgid "Catalog Studio {0} will be downloaded and the program restarts.\n\nYour settings and templates stay as they are. Continue?"
+msgstr "Catalog Studio {0} wird heruntergeladen und das Programm neu gestartet.\n\nEinstellungen und Vorlagen bleiben erhalten. Fortfahren?"
+
+msgid "Downloading…"
+msgstr "Wird heruntergeladen…"
+
+msgid "The update could not be installed: {0}"
+msgstr "Das Update konnte nicht installiert werden: {0}"
+
+msgid "The update source does not describe a version."
+msgstr "Die Update-Quelle enthält keine Version."
+
+msgid "The downloaded file is not a Catalog Studio program."
+msgstr "Die heruntergeladene Datei ist kein Catalog-Studio-Programm."
+
+msgid "The update source was not found. A private GitHub repository cannot be read without signing in — use a version.json on a web server or a shared drive instead."
+msgstr "Die Update-Quelle wurde nicht gefunden. Ein privates GitHub-Repository ist ohne Anmeldung nicht lesbar — verwenden Sie eine version.json auf einem Webserver oder Netzlaufwerk."
+
+msgid "Dark mode"
+msgstr "Dunkler Modus"
+
+msgid "Light mode"
+msgstr "Heller Modus"
+
+msgid "Theme like Windows"
+msgstr "Wie Windows"
+
+msgid "Universal layout: every page without an individual layout (below) uses these columns and rows."
+msgstr "Universelles Layout: Jede Seite ohne individuelles Layout (unten) verwendet diese Spalten und Zeilen."
+
+msgid "Individual page layouts"
+msgstr "Individuelles Seitenlayout"
+
+msgid "Chosen pages get their own columns and rows instead of the universal layout above — e.g. pages 2-3: 6 × 8, page 4: 4 × 5. Pages are counted like the page footer (1 = first product page); it works with or without category names."
+msgstr "Ausgewählte Seiten erhalten statt des universellen Layouts oben eigene Spalten und Zeilen — z. B. Seiten 2-3: 6 × 8, Seite 4: 4 × 5. Die Seiten werden wie bei der Seitenfußzeile gezählt (1 = erste Produktseite); gilt mit und ohne Kategorienamen."
+
+msgid "+  Add page layout"
+msgstr "+  Seitenlayout hinzufügen"
+
+msgid "Pages"
+msgstr "Seiten"
+
+msgid "Rows"
+msgstr "Zeilen"
+
+msgid "Cards on a page"
+msgstr "Karten pro Seite"
+
+msgid "Pages such as 4, 2-3 or 2-3, 6 (1 = first product page)"
+msgstr "Seiten wie 4, 2-3 oder 2-3, 6 (1 = erste Produktseite)"
+
+msgid "Cards side by side on these pages (1-6)"
+msgstr "Karten nebeneinander auf diesen Seiten (1-6)"
+
+msgid "Rows of cards on these pages (1-12)"
+msgstr "Kartenzeilen auf diesen Seiten (1-12)"
+
+msgid "Enter pages such as 4, 2-3 or 2-3, 6"
+msgstr "Seiten eingeben, z. B. 4, 2-3 oder 2-3, 6"
+
+msgid "Page layout:"
+msgstr "Seitenlayout:"
+
+msgid "All pages ({0} × {1})"
+msgstr "Alle Seiten ({0} × {1})"
+
+msgid "All pages ({0} columns, rows automatic)"
+msgstr "Alle Seiten ({0} Spalten, Zeilen automatisch)"
+
+msgid "Pages {0} ({1} × {2})"
+msgstr "Seiten {0} ({1} × {2})"
+
+msgid "The card at the size it has on these pages. The first change made here gives these pages a card design of their own; the other pages keep theirs."
+msgstr "Die Karte in der Größe, die sie auf diesen Seiten hat. Die erste Änderung hier gibt diesen Seiten einen eigenen Kartenentwurf; die übrigen Seiten behalten ihren."
+
+msgid "Own card design for these pages"
+msgstr "Eigener Kartenentwurf für diese Seiten"
+
+msgid "Same design as all pages — a change here makes it their own"
+msgstr "Gleicher Entwurf wie alle Seiten — eine Änderung hier macht ihn eigen"
+
+msgid "Use all-pages design"
+msgstr "Entwurf aller Seiten verwenden"
+
+msgid "Copy design to…"
+msgstr "Entwurf kopieren nach…"
+
+msgid "Copies the card design shown here to another page layout or to all pages"
+msgstr "Kopiert den hier gezeigten Kartenentwurf in ein anderes Seitenlayout oder auf alle Seiten"
+
+msgid "Copy card design"
+msgstr "Kartenentwurf kopieren"
+
+msgid "License"
+msgstr "Lizenz"
+
+msgid "Computer code:"
+msgstr "Computer-Code:"
+
+msgid "Copy request text"
+msgstr "Anfragetext kopieren"
+
+msgid "License key:"
+msgstr "Lizenzschlüssel:"
+
+msgid "Activate"
+msgstr "Aktivieren"
+
+msgid "Load license file…"
+msgstr "Lizenzdatei laden…"
+
+msgid "Remove license"
+msgstr "Lizenz entfernen"
+
+msgid "Full version — licensed to {0}, license no. {1}, issued {2}."
+msgstr "Vollversion — lizenziert für {0}, Lizenz Nr. {1}, ausgestellt am {2}."
+
+msgid "Unlocked: {0}"
+msgstr "Freigeschaltet: {0}"
+
+msgid "The saved license belongs to another computer ({0}). This computer: {1}. Ask for a new key."
+msgstr "Die gespeicherte Lizenz gehört zu einem anderen Computer ({0}). Dieser Computer: {1}. Fordern Sie einen neuen Schlüssel an."
+
+msgid "Free version — only Excel output. PDF, the web catalog and page images need a license key. Send the computer code below to {0} to get your key."
+msgstr "Kostenlose Version — nur Excel-Ausgabe. PDF, der Web-Katalog und Seitenbilder benötigen einen Lizenzschlüssel. Senden Sie den unten stehenden Computer-Code an {0}, um Ihren Schlüssel zu erhalten."
+
+msgid "The license was activated. Thank you!"
+msgstr "Die Lizenz wurde aktiviert. Vielen Dank!"
+
+msgid "The license could not be saved: {0}"
+msgstr "Die Lizenz konnte nicht gespeichert werden: {0}"
+
+msgid "Remove the license from this computer? PDF and the web catalog will be locked again."
+msgstr "Die Lizenz von diesem Computer entfernen? PDF und der Web-Katalog werden wieder gesperrt."
+
+msgid "The license was removed."
+msgstr "Die Lizenz wurde entfernt."
+
+msgid "The computer code was copied."
+msgstr "Der Computer-Code wurde kopiert."
+
+msgid "The request text was copied — add your company name and send it to {0}."
+msgstr "Der Anfragetext wurde kopiert — ergänzen Sie Ihren Firmennamen und senden Sie ihn an {0}."
+
+msgid "License request for Catalog Studio\nComputer code: {0}\nVersion: {1}\nCompany: "
+msgstr "Lizenzanfrage für Catalog Studio\nComputer-Code: {0}\nVersion: {1}\nFirma: "
+
+msgid "License files (*.license;*.txt)|*.license;*.txt|All files (*.*)|*.*"
+msgstr "Lizenzdateien (*.license;*.txt)|*.license;*.txt|Alle Dateien (*.*)|*.*"
+
+msgid "Load license file"
+msgstr "Lizenzdatei laden"
+
+msgid "The clipboard is not available: {0}"
+msgstr "Die Zwischenablage ist nicht verfügbar: {0}"
+
+msgid "Paste a license key first."
+msgstr "Fügen Sie zuerst einen Lizenzschlüssel ein."
+
+msgid "This is not a valid license key."
+msgstr "Dies ist kein gültiger Lizenzschlüssel."
+
+msgid "This license key needs a newer version of Catalog Studio."
+msgstr "Dieser Lizenzschlüssel benötigt eine neuere Version von Catalog Studio."
+
+msgid "The license key is damaged or was changed."
+msgstr "Der Lizenzschlüssel ist beschädigt oder wurde verändert."
+
+msgid "This license key belongs to another computer ({0}). This computer: {1}."
+msgstr "Dieser Lizenzschlüssel gehört zu einem anderen Computer ({0}). Dieser Computer: {1}."
+
+msgid "Catalog Studio — Free version"
+msgstr "Catalog Studio — kostenlose Version"
+
+msgid "{0} is available in the full version of Catalog Studio.\n\nThe free version creates catalogs in Excel. Enter a license key to unlock PDF, the web catalog and page images.\n\nComputer code: {1}\n\nOpen the license settings now?"
+msgstr "„{0}“ ist in der Vollversion von Catalog Studio verfügbar.\n\nDie kostenlose Version erstellt Kataloge in Excel. Geben Sie einen Lizenzschlüssel ein, um PDF, den Web-Katalog und Seitenbilder freizuschalten.\n\nComputer-Code: {1}\n\nDie Lizenzeinstellungen jetzt öffnen?"
+
+msgid "Full version"
+msgstr "Vollversion"
+
+msgid "Available in the full version"
+msgstr "In der Vollversion verfügbar"
+
+msgid "License requests:"
+msgstr "Lizenzanfragen:"
+
+msgid "Write e-mail"
+msgstr "E-Mail schreiben"
+
+msgid "License request for Catalog Studio"
+msgstr "Lizenzanfrage für Catalog Studio"
+
+msgid "Your mail program opens with the request — add your company name and send it to {0}."
+msgstr "Ihr E-Mail-Programm öffnet sich mit der Anfrage — ergänzen Sie Ihren Firmennamen und senden Sie sie an {0}."
+
+msgid "No mail program opened ({0}) — the request text was copied, send it to {1}."
+msgstr "Kein E-Mail-Programm geöffnet ({0}) — der Anfragetext wurde kopiert, senden Sie ihn an {1}."
