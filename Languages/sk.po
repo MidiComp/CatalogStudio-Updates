@@ -863,8 +863,8 @@ msgstr "Pridať titulnú stranu (PDF aj Excel)"
 msgid "Company:"
 msgstr "Firma:"
 
-msgid "e.g. Kollár Ltd."
-msgstr "napr. Kollár s.r.o."
+msgid "e.g. My Company Ltd."
+msgstr "napr. Moja firma s.r.o."
 
 msgid "Address:"
 msgstr "Adresa:"

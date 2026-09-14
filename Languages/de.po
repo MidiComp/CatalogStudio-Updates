@@ -1011,8 +1011,8 @@ msgstr "Deckblatt hinzufügen (PDF und Excel)"
 msgid "Company:"
 msgstr "Firma:"
 
-msgid "e.g. Kollár Ltd."
-msgstr "z. B. Kollár GmbH"
+msgid "e.g. My Company Ltd."
+msgstr "z. B. Meine Firma GmbH"
 
 msgid "Address:"
 msgstr "Adresse:"

@@ -840,8 +840,8 @@ msgstr "Add a cover page (PDF and Excel)"
 msgid "Company:"
 msgstr "Company:"
 
-msgid "e.g. Kollár Ltd."
-msgstr "e.g. Kollár Ltd."
+msgid "e.g. My Company Ltd."
+msgstr "e.g. My Company Ltd."
 
 msgid "Address:"
 msgstr "Address:"
