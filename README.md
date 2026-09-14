@@ -40,7 +40,6 @@ Licenčný kľúč si vyžiadate v programe: **O programe › Licencia**. Kľú�
 | `CatalogStudio.exe` | program |
 | `Languages` | preklady (slovenčina, angličtina, nemčina) |
 | `LatoFont` | písmo Lato — SIL Open Font License (`OFL.txt`) |
-| `Resources` | logo |
 | `version.json` | posledná verzia pre kontrolu aktualizácií |
 
 ---
