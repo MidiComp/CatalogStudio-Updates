@@ -17,6 +17,7 @@ V programe **O programe › Aktualizácie › Skontrolovať aktualizácie** — 
 ## Licencia
 
 Bez licenčného kľúča je Catalog Studio **bezplatná verzia** a vytvára katalógy v Exceli. 
+
 **PDF, webový katalóg a obrázky strán** sú v plnej verzii.
 
 **Cena licencie: 89 €** — jeden počítač, bez časového obmedzenia.
