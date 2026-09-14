@@ -20,7 +20,16 @@ Bez licenčného kľúča je Catalog Studio **bezplatná verzia** a vytvára kat
 
 **PDF, webový katalóg a obrázky strán** sú v plnej verzii.
 
-**Cena licencie: 89 €** — jeden počítač, bez časového obmedzenia.
+**Cena licencie: 99 €** — plná verzia, jeden počítač, bez časového obmedzenia.
+
+**Čiastočné licencie** — tiež jeden počítač, bez časového obmedzenia:
+
+| Licencia | Cena |
+|---|---|
+| iba PDF katalóg | 79 € |
+| PDF + webový katalóg | 89 € |
+| iba webový katalóg | 79 € |
+| webový katalóg + obrázky strán | 89 € |
 
 Licenčný kľúč si vyžiadate v programe: **O programe › Licencia**. Kľúč patrí jednému počítaču a neexpiruje.
 
@@ -36,4 +45,4 @@ Licenčný kľúč si vyžiadate v programe: **O programe › Licencia**. Kľú�
 
 ---
 
-**English** — ready-to-run Catalog Studio for Windows (needs the .NET 8 Desktop Runtime, x64): download the ZIP and run `CatalogStudio.exe`. About › Updates installs new versions from this repository, including the translations. Without a license key the program creates Excel catalogs; PDF, the web catalog and page images are part of the full version. A license costs 89 € (one computer, no expiry) — request the key under About › License.
+**English** — ready-to-run Catalog Studio for Windows (needs the .NET 8 Desktop Runtime, x64): download the ZIP and run `CatalogStudio.exe`. About › Updates installs new versions from this repository, including the translations. Without a license key the program creates Excel catalogs; PDF, the web catalog and page images are part of the full version. The full version costs 99 €; partial licenses: PDF only 79 €, PDF + web catalog 89 €, web catalog only 79 €, web catalog + page images 89 € (one computer, no expiry) — request the key under About › License.

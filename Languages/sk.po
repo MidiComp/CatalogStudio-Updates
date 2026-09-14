@@ -936,8 +936,8 @@ msgstr "Názov šablóny"
 msgid "Help"
 msgstr "Pomoc"
 
-msgid "How to use Catalog Studio"
-msgstr "Ako používať Catalog Studio"
+msgid "How to use {0}"
+msgstr "Ako používať {0}"
 
 msgid "Quick start"
 msgstr "Rýchly postup"
@@ -1047,8 +1047,8 @@ msgstr "↑ Hore"
 msgid "No product matches the search."
 msgstr "Žiadny produkt nezodpovedá hľadaniu."
 
-msgid "Generated {0} — Catalog Studio"
-msgstr "Vygenerované {0} — Catalog Studio"
+msgid "Generated {0} — {1}"
+msgstr "Vygenerované {0} — {1}"
 
 # ── DataCheckService ─────────────────────────────
 
@@ -2187,17 +2187,11 @@ msgstr "Zobraziť sprievodcu začiatkom"
 msgid "Updates"
 msgstr "Aktualizácie"
 
-msgid "Update source:"
-msgstr "Zdroj aktualizácií:"
-
 msgid "Check for updates"
 msgstr "Skontrolovať aktualizácie"
 
 msgid "Download and install"
 msgstr "Stiahnuť a nainštalovať"
-
-msgid "A GitHub release address, or a version.json on a web server or a shared drive."
-msgstr "Adresa GitHub release alebo version.json na webe či zdieľanom disku."
 
 msgid "Checking…"
 msgstr "Kontrolujem…"
@@ -2211,8 +2205,8 @@ msgstr "Máte najnovšiu verziu ({0})."
 msgid "The check did not succeed: {0}"
 msgstr "Kontrola sa nepodarila: {0}"
 
-msgid "Catalog Studio {0} will be downloaded and the program restarts.\n\nYour settings and templates stay as they are. Continue?"
-msgstr "Stiahne sa Catalog Studio {0} a program sa reštartuje.\n\nNastavenia a šablóny zostanú. Pokračovať?"
+msgid "{0} {1} will be downloaded and the program restarts.\n\nYour settings and templates stay as they are. Continue?"
+msgstr "Stiahne sa {0} {1} a program sa reštartuje.\n\nNastavenia a šablóny zostanú. Pokračovať?"
 
 msgid "Downloading…"
 msgstr "Sťahujem…"
@@ -2223,8 +2217,8 @@ msgstr "Aktualizáciu sa nepodarilo nainštalovať: {0}"
 msgid "The update source does not describe a version."
 msgstr "Zdroj aktualizácií neobsahuje verziu."
 
-msgid "The downloaded file is not a Catalog Studio program."
-msgstr "Stiahnutý súbor nie je program Catalog Studio."
+msgid "The downloaded file is not a {0} program."
+msgstr "Stiahnutý súbor nie je program {0}."
 
 msgid "The update source was not found. A private GitHub repository cannot be read without signing in — use a version.json on a web server or a shared drive instead."
 msgstr "Zdroj aktualizácií sa nenašiel. Súkromný repozitár GitHub sa bez prihlásenia prečítať nedá — použite version.json na webe alebo zdieľanom disku."
@@ -2355,8 +2349,8 @@ msgstr "Kód počítača bol skopírovaný."
 msgid "The request text was copied — add your company name and send it to {0}."
 msgstr "Text žiadosti bol skopírovaný — doplňte názov firmy a odošlite ho na {0}."
 
-msgid "License request for Catalog Studio\nComputer code: {0}\nVersion: {1}\nCompany: "
-msgstr "Žiadosť o licenciu pre Catalog Studio\nKód počítača: {0}\nVerzia: {1}\nFirma: "
+msgid "License request for {0}\nComputer code: {1}\nVersion: {2}\nCompany: "
+msgstr "Žiadosť o licenciu pre {0}\nKód počítača: {1}\nVerzia: {2}\nFirma: "
 
 msgid "License files (*.license;*.txt)|*.license;*.txt|All files (*.*)|*.*"
 msgstr "Súbory licencie (*.license;*.txt)|*.license;*.txt|Všetky súbory (*.*)|*.*"
@@ -2373,8 +2367,8 @@ msgstr "Najprv vložte licenčný kľúč."
 msgid "This is not a valid license key."
 msgstr "Toto nie je platný licenčný kľúč."
 
-msgid "This license key needs a newer version of Catalog Studio."
-msgstr "Tento licenčný kľúč potrebuje novšiu verziu Catalog Studio."
+msgid "This license key needs a newer version of {0}."
+msgstr "Tento licenčný kľúč potrebuje novšiu verziu {0}."
 
 msgid "The license key is damaged or was changed."
 msgstr "Licenčný kľúč je poškodený alebo bol zmenený."
@@ -2382,11 +2376,11 @@ msgstr "Licenčný kľúč je poškodený alebo bol zmenený."
 msgid "This license key belongs to another computer ({0}). This computer: {1}."
 msgstr "Tento licenčný kľúč patrí inému počítaču ({0}). Tento počítač: {1}."
 
-msgid "Catalog Studio — Free version"
-msgstr "Catalog Studio — bezplatná verzia"
+msgid "{0} — Free version"
+msgstr "{0} — bezplatná verzia"
 
-msgid "{0} is available in the full version of Catalog Studio.\n\nThe free version creates catalogs in Excel. Enter a license key to unlock PDF, the web catalog and page images.\n\nComputer code: {1}\n\nOpen the license settings now?"
-msgstr "Funkcia „{0}“ je dostupná v plnej verzii Catalog Studio.\n\nBezplatná verzia vytvára katalógy v Exceli. Pre PDF, webový katalóg a obrázky strán zadajte licenčný kľúč.\n\nKód počítača: {1}\n\nOtvoriť teraz nastavenie licencie?"
+msgid "{0} is available in the full version of {2}.\n\nThe free version creates catalogs in Excel. Enter a license key to unlock PDF, the web catalog and page images.\n\nComputer code: {1}\n\nOpen the license settings now?"
+msgstr "Funkcia „{0}“ je dostupná v plnej verzii {2}.\n\nBezplatná verzia vytvára katalógy v Exceli. Pre PDF, webový katalóg a obrázky strán zadajte licenčný kľúč.\n\nKód počítača: {1}\n\nOtvoriť teraz nastavenie licencie?"
 
 msgid "Full version"
 msgstr "Plná verzia"
@@ -2400,8 +2394,8 @@ msgstr "Žiadosti o licenciu:"
 msgid "Write e-mail"
 msgstr "Napísať e-mail"
 
-msgid "License request for Catalog Studio"
-msgstr "Žiadosť o licenciu pre Catalog Studio"
+msgid "License request for {0}"
+msgstr "Žiadosť o licenciu pre {0}"
 
 msgid "Your mail program opens with the request — add your company name and send it to {0}."
 msgstr "Otvorí sa váš e-mailový program so žiadosťou — doplňte názov firmy a odošlite ju na {0}."
@@ -2417,3 +2411,36 @@ msgstr "{0} — jeden počítač, bez časového obmedzenia"
 
 msgid "License price: {0} — one computer, never expires."
 msgstr "Cena licencie: {0} — jeden počítač, bez časového obmedzenia."
+
+msgid "Website:"
+msgstr "Webová adresa:"
+
+msgid "Nothing is checked until you click the button. Settings, templates and the license stay after an update."
+msgstr "Bez kliknutia na tlačidlo sa nič nekontroluje. Nastavenia, šablóny aj licencia po aktualizácii ostanú."
+
+msgid "E-mail:"
+msgstr "E-mail:"
+
+msgid "Free version — only Excel output. PDF, the web catalog and page images need a license key."
+msgstr "Bezplatná verzia — iba výstup do Excelu. PDF, webový katalóg a obrázky strán potrebujú licenčný kľúč."
+
+msgid "The request text was copied — add your company name."
+msgstr "Text žiadosti bol skopírovaný — doplňte názov firmy."
+
+msgid "{0} — full version, one computer, never expires"
+msgstr "{0} — plná verzia, jeden počítač, bez časového obmedzenia"
+
+msgid "License price: {0} — full version, one computer, never expires."
+msgstr "Cena licencie: {0} — plná verzia, jeden počítač, bez časového obmedzenia."
+
+msgid "Partial licenses:"
+msgstr "Čiastočné licencie:"
+
+msgid "Unlock more:"
+msgstr "Ďalšie odomknutie:"
+
+msgid "Full version: {0}"
+msgstr "Plná verzia: {0}"
+
+msgid "License wanted (full version or one of the partial licenses): "
+msgstr "Požadovaná licencia (plná verzia alebo jedna z čiastočných licencií): "
