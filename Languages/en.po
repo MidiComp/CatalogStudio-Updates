@@ -2409,3 +2409,33 @@ msgstr "Full version: {0}"
 
 msgid "License wanted (full version or one of the partial licenses): "
 msgstr "License wanted (full version or one of the partial licenses): "
+
+msgid "CMYK colours for print (PDF)"
+msgstr "CMYK colours for print (PDF)"
+
+msgid "Colour profile:"
+msgstr "Colour profile:"
+
+msgid "{0} (built-in)"
+msgstr "{0} (built-in)"
+
+msgid "Own ICC profile…"
+msgstr "Own ICC profile…"
+
+msgid "ICC profiles (*.icc;*.icm)|*.icc;*.icm|All files (*.*)|*.*"
+msgstr "ICC profiles (*.icc;*.icm)|*.icc;*.icm|All files (*.*)|*.*"
+
+msgid "Choose the printer's CMYK profile"
+msgstr "Choose the printer's CMYK profile"
+
+msgid "This file is not a CMYK colour profile. Ask the print shop for their ICC profile (e.g. PSO Coated v3 or ISO Coated v2)."
+msgstr "This file is not a CMYK colour profile. Ask the print shop for their ICC profile (e.g. PSO Coated v3 or ISO Coated v2)."
+
+msgid "Colours for print"
+msgstr "Colours for print"
+
+msgid "The finished PDF is converted to CMYK with the printer's colour profile — ask the print shop which one they use; Coated FOGRA39 suits most coated paper. Black and grey stay pure black (K). The preview on screen, the web catalog and page images stay in RGB."
+msgstr "The finished PDF is converted to CMYK with the printer's colour profile — ask the print shop which one they use; Coated FOGRA39 suits most coated paper. Black and grey stay pure black (K). The preview on screen, the web catalog and page images stay in RGB."
+
+msgid "Converting colours to CMYK..."
+msgstr "Converting colours to CMYK..."

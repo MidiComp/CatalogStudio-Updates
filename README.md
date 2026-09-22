@@ -41,6 +41,7 @@ Licenčný kľúč si vyžiadate v programe: **O programe › Licencia**. Kľú�
 | `Languages` | preklady (slovenčina, angličtina, nemčina) |
 | `LatoFont` | písmo Lato — SIL Open Font License (`OFL.txt`) |
 | `version.json` | posledná verzia pre kontrolu aktualizácií |
+| `THIRD-PARTY-NOTICES.txt` | licencie použitých knižníc a farebného profilu |
 
 ---
 

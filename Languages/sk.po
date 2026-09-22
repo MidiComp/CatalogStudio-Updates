@@ -2444,3 +2444,33 @@ msgstr "Plná verzia: {0}"
 
 msgid "License wanted (full version or one of the partial licenses): "
 msgstr "Požadovaná licencia (plná verzia alebo jedna z čiastočných licencií): "
+
+msgid "CMYK colours for print (PDF)"
+msgstr "Farby CMYK pre tlač (PDF)"
+
+msgid "Colour profile:"
+msgstr "Farebný profil:"
+
+msgid "{0} (built-in)"
+msgstr "{0} (vstavaný)"
+
+msgid "Own ICC profile…"
+msgstr "Vlastný profil ICC…"
+
+msgid "ICC profiles (*.icc;*.icm)|*.icc;*.icm|All files (*.*)|*.*"
+msgstr "Profily ICC (*.icc;*.icm)|*.icc;*.icm|Všetky súbory (*.*)|*.*"
+
+msgid "Choose the printer's CMYK profile"
+msgstr "Vyberte profil CMYK tlačiarne"
+
+msgid "This file is not a CMYK colour profile. Ask the print shop for their ICC profile (e.g. PSO Coated v3 or ISO Coated v2)."
+msgstr "Tento súbor nie je farebný profil CMYK. Požiadajte tlačiareň o jej profil ICC (napr. PSO Coated v3 alebo ISO Coated v2)."
+
+msgid "Colours for print"
+msgstr "Farby pre tlač"
+
+msgid "The finished PDF is converted to CMYK with the printer's colour profile — ask the print shop which one they use; Coated FOGRA39 suits most coated paper. Black and grey stay pure black (K). The preview on screen, the web catalog and page images stay in RGB."
+msgstr "Hotové PDF sa prevedie do CMYK podľa farebného profilu tlačiarne — opýtajte sa tlačiarne, ktorý používa; Coated FOGRA39 sa hodí pre väčšinu natieraných papierov. Čierna a šedá ostanú čisto čierne (K). Náhľad na obrazovke, webový katalóg a obrázky strán ostanú v RGB."
+
+msgid "Converting colours to CMYK..."
+msgstr "Prevod farieb do CMYK..."

@@ -1,0 +1,25 @@
+Catalog Studio uses the following third-party components.
+
+QuestPDF — PDF generation. QuestPDF Community License
+  (free for companies with an annual gross revenue below USD 1 million).
+  https://www.questpdf.com/license/
+
+ClosedXML — Excel files. MIT License. https://github.com/ClosedXML/ClosedXML
+
+ExcelDataReader — reading .xls files. MIT License. https://github.com/ExcelDataReader/ExcelDataReader
+
+SixLabors.Fonts 1.0 — text measurement. Apache License 2.0. https://github.com/SixLabors/Fonts
+
+PDFsharp — CMYK conversion of the PDF (reading and writing PDF objects).
+  MIT License. https://github.com/empira/PDFsharp
+
+Magick.NET — CMYK conversion of colours and images. Apache License 2.0.
+  https://github.com/dlemstra/Magick.NET
+  It contains ImageMagick (ImageMagick License, https://imagemagick.org/script/license.php),
+  Little CMS (MIT License), libjpeg-turbo (IJG / BSD licenses) and zlib (zlib License).
+
+Coated FOGRA39 (ISO 12647-2:2004) — the built-in CMYK colour profile.
+  Copyright 2007 Adobe Systems, Inc. Distributed with Magick.NET under the Adobe
+  ICC profile terms, which allow redistribution of the unmodified profile.
+
+Lato — the font of the PDF catalogs. SIL Open Font License 1.1 (LatoFont\OFL.txt).
