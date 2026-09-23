@@ -2442,3 +2442,70 @@ msgstr "Das fertige PDF wird mit dem Farbprofil der Druckerei in CMYK umgewandel
 
 msgid "Converting colours to CMYK..."
 msgstr "Farben werden in CMYK umgewandelt..."
+
+# ──── Card pictures from rules and automatic layout ────
+
+msgid "Picture from a file"
+msgstr "Bild aus einer Datei"
+
+msgid "Picture file"
+msgstr "Bilddatei"
+
+msgid "Picture drawn on the card, e.g. a country mark — click to pick a file (Picture action, card mode)"
+msgstr "Bild auf der Karte, z. B. ein Landeswappen — zum Auswählen einer Datei klicken (Aktion Bild, Kartenmodus)"
+
+msgid "Card field"
+msgstr "Kartenfeld"
+
+msgid "Which of the card's two picture fields the rule fills; the card designer places and sizes the field"
+msgstr "Welches der beiden Bildfelder der Karte die Regel füllt; Position und Größe des Feldes legen Sie im Kartendesigner fest"
+
+msgid "Choose…"
+msgstr "Auswählen…"
+
+msgid "Picture for the product card"
+msgstr "Bild für die Produktkarte"
+
+msgid "Pictures"
+msgstr "Bilder"
+
+msgid "Rule picture {0}"
+msgstr "Regelbild {0}"
+
+msgid "card field"
+msgstr "Kartenfeld"
+
+msgid "Fit into pages (card mode, PDF):"
+msgstr "Auf Seitenzahl anpassen (Kartenmodus, PDF):"
+
+msgid "0 = off (columns and rows are set by hand)"
+msgstr "0 = aus (Spalten und Zeilen stellen Sie selbst ein)"
+
+msgid "the grid is worked out once the data is loaded"
+msgstr "das Raster wird berechnet, sobald die Daten geladen sind"
+
+msgid "worked out: {0} columns × {1} rows, {2} cards per page"
+msgstr "berechnet: {0} Spalten × {1} Zeilen, {2} Karten pro Seite"
+
+msgid "the grid could not be worked out"
+msgstr "das Raster konnte nicht berechnet werden"
+
+msgid "the products do not fit into {0} pages — the densest grid {1} × {2} is used"
+msgstr "die Produkte passen nicht auf {0} Seiten — es wird das dichteste Raster {1} × {2} verwendet"
+
+# ──── Text from a cell of the table ────
+
+msgid "A text may name a cell of the table: {L276} is replaced by what that cell holds."
+msgstr "Ein Text kann eine Zelle der Tabelle nennen: {L276} wird durch den Inhalt dieser Zelle ersetzt."
+
+msgid "A card field with a text of its own. The text may name a cell of the table: {L276} is replaced by what that cell holds."
+msgstr "Ein Kartenfeld mit eigenem Text. Der Text kann eine Zelle der Tabelle nennen: {L276} wird durch den Inhalt dieser Zelle ersetzt."
+
+msgid "+ Text field"
+msgstr "+ Textfeld"
+
+msgid "Remove field"
+msgstr "Feld entfernen"
+
+msgid "Text {0}"
+msgstr "Text {0}"

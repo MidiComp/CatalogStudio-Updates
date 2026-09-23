@@ -2474,3 +2474,70 @@ msgstr "Hotové PDF sa prevedie do CMYK podľa farebného profilu tlačiarne —
 
 msgid "Converting colours to CMYK..."
 msgstr "Prevod farieb do CMYK..."
+
+# ──── Card pictures from rules and automatic layout ────
+
+msgid "Picture from a file"
+msgstr "Obrázok zo súboru"
+
+msgid "Picture file"
+msgstr "Súbor obrázka"
+
+msgid "Picture drawn on the card, e.g. a country mark — click to pick a file (Picture action, card mode)"
+msgstr "Obrázok na karte, napr. štátny znak — kliknutím vyberiete súbor (akcia Obrázok, režim karta)"
+
+msgid "Card field"
+msgstr "Pole karty"
+
+msgid "Which of the card's two picture fields the rule fills; the card designer places and sizes the field"
+msgstr "Ktoré z dvoch obrázkových polí karty pravidlo vyplní; umiestnenie a veľkosť poľa určíte v návrhári karty"
+
+msgid "Choose…"
+msgstr "Vybrať…"
+
+msgid "Picture for the product card"
+msgstr "Obrázok na kartu produktu"
+
+msgid "Pictures"
+msgstr "Obrázky"
+
+msgid "Rule picture {0}"
+msgstr "Obrázok z pravidla {0}"
+
+msgid "card field"
+msgstr "pole karty"
+
+msgid "Fit into pages (card mode, PDF):"
+msgstr "Zmestiť na počet strán (režim karta, PDF):"
+
+msgid "0 = off (columns and rows are set by hand)"
+msgstr "0 = vypnuté (stĺpce a riadky nastavujete ručne)"
+
+msgid "the grid is worked out once the data is loaded"
+msgstr "mriežku program dopočíta po načítaní údajov"
+
+msgid "worked out: {0} columns × {1} rows, {2} cards per page"
+msgstr "vypočítané: {0} stĺpcov × {1} riadkov, {2} kariet na stranu"
+
+msgid "the grid could not be worked out"
+msgstr "mriežku sa nepodarilo dopočítať"
+
+msgid "the products do not fit into {0} pages — the densest grid {1} × {2} is used"
+msgstr "produkty sa do {0} strán nezmestia — použije sa najhustejšia mriežka {1} × {2}"
+
+# ──── Text from a cell of the table ────
+
+msgid "A text may name a cell of the table: {L276} is replaced by what that cell holds."
+msgstr "Text môže odkazovať na bunku tabuľky: {L276} sa nahradí tým, čo je v tej bunke."
+
+msgid "A card field with a text of its own. The text may name a cell of the table: {L276} is replaced by what that cell holds."
+msgstr "Pole karty s vlastným textom. Text môže odkazovať na bunku tabuľky: {L276} sa nahradí tým, čo je v tej bunke."
+
+msgid "+ Text field"
+msgstr "+ Textové pole"
+
+msgid "Remove field"
+msgstr "Odstrániť pole"
+
+msgid "Text {0}"
+msgstr "Text {0}"

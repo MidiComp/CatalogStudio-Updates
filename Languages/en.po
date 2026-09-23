@@ -2439,3 +2439,70 @@ msgstr "The finished PDF is converted to CMYK with the printer's colour profile 
 
 msgid "Converting colours to CMYK..."
 msgstr "Converting colours to CMYK..."
+
+# ──── Card pictures from rules and automatic layout ────
+
+msgid "Picture from a file"
+msgstr "Picture from a file"
+
+msgid "Picture file"
+msgstr "Picture file"
+
+msgid "Picture drawn on the card, e.g. a country mark — click to pick a file (Picture action, card mode)"
+msgstr "Picture drawn on the card, e.g. a country mark — click to pick a file (Picture action, card mode)"
+
+msgid "Card field"
+msgstr "Card field"
+
+msgid "Which of the card's two picture fields the rule fills; the card designer places and sizes the field"
+msgstr "Which of the card's two picture fields the rule fills; the card designer places and sizes the field"
+
+msgid "Choose…"
+msgstr "Choose…"
+
+msgid "Picture for the product card"
+msgstr "Picture for the product card"
+
+msgid "Pictures"
+msgstr "Pictures"
+
+msgid "Rule picture {0}"
+msgstr "Rule picture {0}"
+
+msgid "card field"
+msgstr "card field"
+
+msgid "Fit into pages (card mode, PDF):"
+msgstr "Fit into pages (card mode, PDF):"
+
+msgid "0 = off (columns and rows are set by hand)"
+msgstr "0 = off (columns and rows are set by hand)"
+
+msgid "the grid is worked out once the data is loaded"
+msgstr "the grid is worked out once the data is loaded"
+
+msgid "worked out: {0} columns × {1} rows, {2} cards per page"
+msgstr "worked out: {0} columns × {1} rows, {2} cards per page"
+
+msgid "the grid could not be worked out"
+msgstr "the grid could not be worked out"
+
+msgid "the products do not fit into {0} pages — the densest grid {1} × {2} is used"
+msgstr "the products do not fit into {0} pages — the densest grid {1} × {2} is used"
+
+# ──── Text from a cell of the table ────
+
+msgid "A text may name a cell of the table: {L276} is replaced by what that cell holds."
+msgstr "A text may name a cell of the table: {L276} is replaced by what that cell holds."
+
+msgid "A card field with a text of its own. The text may name a cell of the table: {L276} is replaced by what that cell holds."
+msgstr "A card field with a text of its own. The text may name a cell of the table: {L276} is replaced by what that cell holds."
+
+msgid "+ Text field"
+msgstr "+ Text field"
+
+msgid "Remove field"
+msgstr "Remove field"
+
+msgid "Text {0}"
+msgstr "Text {0}"
