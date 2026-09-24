@@ -2541,3 +2541,9 @@ msgstr "Odstrániť pole"
 
 msgid "Text {0}"
 msgstr "Text {0}"
+
+msgid "Center in the card"
+msgstr "Vycentrovať na karte"
+
+msgid "Height (%)"
+msgstr "Výška (%)"

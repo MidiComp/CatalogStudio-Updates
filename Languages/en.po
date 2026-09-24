@@ -2506,3 +2506,9 @@ msgstr "Remove field"
 
 msgid "Text {0}"
 msgstr "Text {0}"
+
+msgid "Center in the card"
+msgstr "Center in the card"
+
+msgid "Height (%)"
+msgstr "Height (%)"

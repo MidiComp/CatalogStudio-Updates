@@ -2509,3 +2509,9 @@ msgstr "Feld entfernen"
 
 msgid "Text {0}"
 msgstr "Text {0}"
+
+msgid "Center in the card"
+msgstr "In der Karte zentrieren"
+
+msgid "Height (%)"
+msgstr "Höhe (%)"
