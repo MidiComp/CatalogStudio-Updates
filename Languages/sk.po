@@ -2547,3 +2547,6 @@ msgstr "Vycentrovať na karte"
 
 msgid "Height (%)"
 msgstr "Výška (%)"
+
+msgid "Search subfolders too"
+msgstr "Prehľadať aj podpriečinky"

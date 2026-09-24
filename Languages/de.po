@@ -2515,3 +2515,6 @@ msgstr "In der Karte zentrieren"
 
 msgid "Height (%)"
 msgstr "Höhe (%)"
+
+msgid "Search subfolders too"
+msgstr "Unterordner mitdurchsuchen"

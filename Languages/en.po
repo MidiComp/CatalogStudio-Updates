@@ -2512,3 +2512,6 @@ msgstr "Center in the card"
 
 msgid "Height (%)"
 msgstr "Height (%)"
+
+msgid "Search subfolders too"
+msgstr "Search subfolders too"
