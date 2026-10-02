@@ -469,9 +469,6 @@ msgstr "Excel-Druck"
 msgid "Printing always fits the content to the page width."
 msgstr "Der Druck passt den Inhalt immer an die Seitenbreite an."
 
-msgid "Content always fits the page width. Crop marks add a white border with trim marks around the PDF page for professional cutting; the bleed lets the page background and the flyer banner run past the trim line so no white edge remains after cutting."
-msgstr "Der Inhalt passt sich immer der Seitenbreite an. Schnittmarken fügen einen weißen Rand mit Beschnittmarken um die PDF-Seite hinzu; der Beschnitt lässt den Seitenhintergrund und das Flyer-Banner über die Schnittlinie hinauslaufen, sodass nach dem Zuschnitt kein weißer Rand bleibt."
-
 msgid "Paper, orientation and margins are shared with the PDF output."
 msgstr "Papier, Ausrichtung und Ränder sind mit der PDF-Ausgabe gemeinsam."
 
@@ -2616,3 +2613,46 @@ msgid "Template loaded — the file {0} could not be read"
 msgstr "Vorlage geladen — die Datei {0} konnte nicht gelesen werden"
 msgid "Save complete settings under a name — e.g. Price list 2026, Sale, Wholesale. The data file, the output folder and the catalog name are saved with them"
 msgstr "Vollständige Einstellungen unter einem Namen sichern — z. B. Preisliste 2026, Aktion, Großhandel. Mitgesichert werden die Datendatei, der Ausgabeordner und der Katalogname"
+
+msgid "Pages one by one (PDF)"
+msgstr "Seiten einzeln (PDF)"
+
+msgid "Save every page as a PDF of its own"
+msgstr "Jede Seite als eigene PDF-Datei speichern"
+
+msgid "Besides the whole catalog, every page is saved next to it as a PDF of its own, with the page number in front of the name: 01-Catalog.pdf, 02-Catalog.pdf and so on, numbered the way the pages follow in the catalog. The pages are taken out of the catalog that was just made, so the images keep the quality they have in it and every setting applies to them the same way."
+msgstr "Neben dem ganzen Katalog wird jede Seite daneben als eigene PDF-Datei gespeichert, mit der Seitenzahl vor dem Namen: 01-Katalog.pdf, 02-Katalog.pdf und so weiter, nummeriert so, wie die Seiten im Katalog aufeinander folgen. Die Seiten werden aus dem soeben erzeugten Katalog entnommen, die Bilder behalten also die Qualität, die sie dort haben, und jede Einstellung gilt für sie genauso."
+
+msgid "Saving the pages one by one..."
+msgstr "Seiten werden einzeln gespeichert..."
+
+msgid "The page {0} could not be saved — the file is open in another program:
+
+{1}"
+msgstr "Die Seite {0} konnte nicht gespeichert werden — die Datei ist in einem anderen Programm geöffnet:
+
+{1}"
+
+msgid "Registration targets next to the crop marks"
+msgstr "Passermarken neben den Schnittmarken"
+
+msgid "Content always fits the page width. Crop marks add a white border with trim marks around the PDF page for professional cutting; the bleed lets the page background and the flyer banner run past the trim line so no white edge remains after cutting. The registration targets — a ring with a cross and a quartered disc beside every corner — print on all four plates, so the press can see at a glance whether the plates line up."
+msgstr "Der Inhalt passt sich immer an die Seitenbreite an. Schnittmarken fügen einen weißen Rand mit Schnittmarken um die PDF-Seite für den professionellen Beschnitt hinzu; der Beschnitt lässt den Seitenhintergrund und das Flyer-Banner über die Schnittlinie hinauslaufen, sodass nach dem Schneiden kein weißer Rand bleibt. Die Passermarken — ein Ring mit Kreuz und eine geviertelte Scheibe an jeder Ecke — drucken auf allen vier Platten, sodass die Druckerei sofort sieht, ob die Platten passgenau stehen."
+
+msgid "Document properties"
+msgstr "Dokumenteigenschaften"
+
+msgid "Write the properties into the exported files"
+msgstr "Eigenschaften in die exportierten Dateien schreiben"
+
+msgid "Subject:"
+msgstr "Betreff:"
+
+msgid "Keywords:"
+msgstr "Stichwörter:"
+
+msgid "Created with {0}"
+msgstr "Erstellt mit {0}"
+
+msgid "The details the finished catalog carries inside it. A PDF reader shows them under Document properties (Ctrl+D in Acrobat Reader, the » menu in Firefox), a spreadsheet program under File - Info, and in the web catalog they are meta tags a search engine reads. Windows shows them in Properties only when a reader that registers the file type is installed, so do not go looking for them there. Every field may stay empty."
+msgstr "Die Angaben, die der fertige Katalog in sich trägt. Ein PDF-Reader zeigt sie unter Dokumenteigenschaften (Strg+D im Acrobat Reader, Menü » in Firefox), ein Tabellenprogramm unter Datei - Informationen, und im Web-Katalog sind es Meta-Tags, die eine Suchmaschine liest. Windows zeigt sie unter Eigenschaften nur, wenn ein Reader installiert ist, der den Dateityp registriert — suchen Sie sie dort also nicht. Jedes Feld darf leer bleiben."

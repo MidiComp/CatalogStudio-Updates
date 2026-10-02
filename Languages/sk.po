@@ -1214,9 +1214,6 @@ msgstr "Tlač Excelu"
 msgid "Printing always fits the content to the page width."
 msgstr "Tlač vždy prispôsobí obsah na šírku strany."
 
-msgid "Content always fits the page width. Crop marks add a white border with trim marks around the PDF page for professional cutting; the bleed lets the page background and the flyer banner run past the trim line so no white edge remains after cutting."
-msgstr "Obsah sa vždy prispôsobí na šírku strany. Orezové značky pridajú biely okraj so značkami okolo strany PDF pre profesionálne orezanie; spadávka necháva pozadie strany aj letákovú hlavičku presiahnuť za orezovú líniu, takže po oreze nezostane biely okraj."
-
 msgid "Paper, orientation and margins are shared with the PDF output."
 msgstr "Papier, orientácia a okraje sú spoločné s výstupom PDF."
 
@@ -2648,3 +2645,46 @@ msgid "Template loaded — the file {0} could not be read"
 msgstr "Šablóna načítaná — súbor {0} sa nepodarilo prečítať"
 msgid "Save complete settings under a name — e.g. Price list 2026, Sale, Wholesale. The data file, the output folder and the catalog name are saved with them"
 msgstr "Uložte kompletné nastavenia pod názvom — napr. Cenník 2026, Akcia, Veľkoobchod. Spolu s nimi sa uloží aj súbor s údajmi, výstupný priečinok a názov katalógu"
+
+msgid "Pages one by one (PDF)"
+msgstr "Strany po jednej (PDF)"
+
+msgid "Save every page as a PDF of its own"
+msgstr "Uložiť každú stranu ako samostatné PDF"
+
+msgid "Besides the whole catalog, every page is saved next to it as a PDF of its own, with the page number in front of the name: 01-Catalog.pdf, 02-Catalog.pdf and so on, numbered the way the pages follow in the catalog. The pages are taken out of the catalog that was just made, so the images keep the quality they have in it and every setting applies to them the same way."
+msgstr "Okrem celého katalógu sa vedľa neho uloží každá strana ako samostatné PDF, s číslom strany pred názvom: 01-Katalog.pdf, 02-Katalog.pdf a tak ďalej, očíslované tak, ako strany idú za sebou v katalógu. Strany sa vyberú z katalógu, ktorý práve vznikol, takže obrázky majú rovnakú kvalitu ako v ňom a všetky nastavenia na ne platia rovnako."
+
+msgid "Saving the pages one by one..."
+msgstr "Ukladám strany po jednej..."
+
+msgid "The page {0} could not be saved — the file is open in another program:
+
+{1}"
+msgstr "Stranu {0} sa nepodarilo uložiť — súbor je otvorený v inom programe:
+
+{1}"
+
+msgid "Registration targets next to the crop marks"
+msgstr "Registračné terčíky pri orezových značkách"
+
+msgid "Content always fits the page width. Crop marks add a white border with trim marks around the PDF page for professional cutting; the bleed lets the page background and the flyer banner run past the trim line so no white edge remains after cutting. The registration targets — a ring with a cross and a quartered disc beside every corner — print on all four plates, so the press can see at a glance whether the plates line up."
+msgstr "Obsah sa vždy prispôsobí na šírku strany. Orezové značky pridajú biely okraj so značkami okolo strany PDF pre profesionálne orezanie; spadávka necháva pozadie strany aj letákovú hlavičku presiahnuť za orezovú líniu, takže po oreze nezostane biely okraj. Registračné terčíky — krúžok s krížikom a kolieska rozdelené na štvrtiny pri každom rohu — sa tlačia na všetky štyri platne, takže tlačiareň hneď vidí, či sú platne zarovnané."
+
+msgid "Document properties"
+msgstr "Vlastnosti dokumentu"
+
+msgid "Write the properties into the exported files"
+msgstr "Zapísať vlastnosti do exportovaných súborov"
+
+msgid "Subject:"
+msgstr "Predmet:"
+
+msgid "Keywords:"
+msgstr "Kľúčové slová:"
+
+msgid "Created with {0}"
+msgstr "Vytvorené programom {0}"
+
+msgid "The details the finished catalog carries inside it. A PDF reader shows them under Document properties (Ctrl+D in Acrobat Reader, the » menu in Firefox), a spreadsheet program under File - Info, and in the web catalog they are meta tags a search engine reads. Windows shows them in Properties only when a reader that registers the file type is installed, so do not go looking for them there. Every field may stay empty."
+msgstr "Údaje, ktoré hotový katalóg nesie v sebe. Čítačka PDF ich ukáže pod položkou Vlastnosti dokumentu (Ctrl+D v Acrobat Readeri, ponuka » vo Firefoxe), tabuľkový program pod Súbor - Informácie a vo webovom katalógu sú to meta značky, ktoré si prečíta vyhľadávač. Windows ich vo Vlastnostiach ukáže len vtedy, keď je nainštalovaná čítačka, ktorá si typ súboru zaregistruje, takže tam ich nehľadajte. Každé pole môže ostať prázdne."

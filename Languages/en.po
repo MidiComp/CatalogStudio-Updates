@@ -1179,9 +1179,6 @@ msgstr "Excel printing"
 msgid "Printing always fits the content to the page width."
 msgstr "Printing always fits the content to the page width."
 
-msgid "Content always fits the page width. Crop marks add a white border with trim marks around the PDF page for professional cutting; the bleed lets the page background and the flyer banner run past the trim line so no white edge remains after cutting."
-msgstr "Content always fits the page width. Crop marks add a white border with trim marks around the PDF page for professional cutting; the bleed lets the page background and the flyer banner run past the trim line so no white edge remains after cutting."
-
 msgid "Paper, orientation and margins are shared with the PDF output."
 msgstr "Paper, orientation and margins are shared with the PDF output."
 
@@ -2613,3 +2610,46 @@ msgid "Template loaded — the file {0} could not be read"
 msgstr "Template loaded — the file {0} could not be read"
 msgid "Save complete settings under a name — e.g. Price list 2026, Sale, Wholesale. The data file, the output folder and the catalog name are saved with them"
 msgstr "Save complete settings under a name — e.g. Price list 2026, Sale, Wholesale. The data file, the output folder and the catalog name are saved with them"
+
+msgid "Pages one by one (PDF)"
+msgstr "Pages one by one (PDF)"
+
+msgid "Save every page as a PDF of its own"
+msgstr "Save every page as a PDF of its own"
+
+msgid "Besides the whole catalog, every page is saved next to it as a PDF of its own, with the page number in front of the name: 01-Catalog.pdf, 02-Catalog.pdf and so on, numbered the way the pages follow in the catalog. The pages are taken out of the catalog that was just made, so the images keep the quality they have in it and every setting applies to them the same way."
+msgstr "Besides the whole catalog, every page is saved next to it as a PDF of its own, with the page number in front of the name: 01-Catalog.pdf, 02-Catalog.pdf and so on, numbered the way the pages follow in the catalog. The pages are taken out of the catalog that was just made, so the images keep the quality they have in it and every setting applies to them the same way."
+
+msgid "Saving the pages one by one..."
+msgstr "Saving the pages one by one..."
+
+msgid "The page {0} could not be saved — the file is open in another program:
+
+{1}"
+msgstr "The page {0} could not be saved — the file is open in another program:
+
+{1}"
+
+msgid "Registration targets next to the crop marks"
+msgstr "Registration targets next to the crop marks"
+
+msgid "Content always fits the page width. Crop marks add a white border with trim marks around the PDF page for professional cutting; the bleed lets the page background and the flyer banner run past the trim line so no white edge remains after cutting. The registration targets — a ring with a cross and a quartered disc beside every corner — print on all four plates, so the press can see at a glance whether the plates line up."
+msgstr "Content always fits the page width. Crop marks add a white border with trim marks around the PDF page for professional cutting; the bleed lets the page background and the flyer banner run past the trim line so no white edge remains after cutting. The registration targets — a ring with a cross and a quartered disc beside every corner — print on all four plates, so the press can see at a glance whether the plates line up."
+
+msgid "Document properties"
+msgstr "Document properties"
+
+msgid "Write the properties into the exported files"
+msgstr "Write the properties into the exported files"
+
+msgid "Subject:"
+msgstr "Subject:"
+
+msgid "Keywords:"
+msgstr "Keywords:"
+
+msgid "Created with {0}"
+msgstr "Created with {0}"
+
+msgid "The details the finished catalog carries inside it. A PDF reader shows them under Document properties (Ctrl+D in Acrobat Reader, the » menu in Firefox), a spreadsheet program under File - Info, and in the web catalog they are meta tags a search engine reads. Windows shows them in Properties only when a reader that registers the file type is installed, so do not go looking for them there. Every field may stay empty."
+msgstr "The details the finished catalog carries inside it. A PDF reader shows them under Document properties (Ctrl+D in Acrobat Reader, the » menu in Firefox), a spreadsheet program under File - Info, and in the web catalog they are meta tags a search engine reads. Windows shows them in Properties only when a reader that registers the file type is installed, so do not go looking for them there. Every field may stay empty."
