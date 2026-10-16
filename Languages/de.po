@@ -2656,3 +2656,99 @@ msgstr "Erstellt mit {0}"
 
 msgid "The details the finished catalog carries inside it — the PDF, the workbook, the web catalog and the page images alike. A PDF reader shows them under Document properties (Ctrl+D in Acrobat Reader, the » menu in Firefox) and a spreadsheet program under File - Info; in the web catalog they are meta tags a search engine reads. Windows itself shows them under Properties - Details for the page images (all of them on a JPG, all but the subject and the comment on a PNG), for the other files only when a reader that registers the type is installed. Every field may stay empty."
 msgstr "Die Angaben, die der fertige Katalog in sich trägt — die PDF-Datei, die Arbeitsmappe, der Web-Katalog und die Seitenbilder gleichermaßen. Ein PDF-Reader zeigt sie unter Dokumenteigenschaften (Strg+D im Acrobat Reader, Menü » in Firefox) und ein Tabellenprogramm unter Datei - Informationen; im Web-Katalog sind es Meta-Tags, die eine Suchmaschine liest. Windows selbst zeigt sie unter Eigenschaften - Details bei den Seitenbildern (bei JPG alle, bei PNG alle außer Betreff und Kommentar), bei den anderen Dateien nur, wenn ein Reader installiert ist, der den Typ registriert. Jedes Feld darf leer bleiben."
+
+msgid "Overlap of touching cards (pt):"
+msgstr "Überlappung sich berührender Karten (pt):"
+
+msgid "Only with a gap of 0 and no card frame: two fills drawn edge to edge leave a hairline on screen, and this takes it away. 0 = off."
+msgstr "Nur bei Abstand 0 und ohne Kartenrahmen: Zwei Flächen Kante an Kante hinterlassen am Bildschirm eine Haarlinie, und das beseitigt sie. 0 = aus."
+
+msgid "Page background split"
+msgstr "Teilung des Seitenhintergrunds"
+
+msgid "+  Add page split"
+msgstr "+  Teilung hinzufügen"
+
+msgid "Parts across"
+msgstr "Teile nebeneinander"
+
+msgid "Parts down"
+msgstr "Teile untereinander"
+
+msgid "Filled in"
+msgstr "Ausgefüllt"
+
+msgid "Pages such as 4, 2-3 or 2-3, 6 (1 = first product page); empty = every page"
+msgstr "Seiten wie 4, 2-3 oder 2-3, 6 (1 = erste Produktseite); leer = jede Seite"
+
+msgid "1-4"
+msgstr "1-4"
+
+msgid "Widths across:"
+msgstr "Breiten der Teile:"
+
+msgid "Heights down:"
+msgstr "Höhen der Teile:"
+
+msgid "1 and 3 = a quarter and three quarters"
+msgstr "1 und 3 = ein Viertel und drei Viertel"
+
+msgid "Part:"
+msgstr "Teil:"
+
+msgid "Part {0}, {1}:"
+msgstr "Teil {0}, {1}:"
+
+msgid "Colour:"
+msgstr "Farbe:"
+
+msgid "Picture:"
+msgstr "Bild:"
+
+msgid "Browse…"
+msgstr "Durchsuchen…"
+
+msgid "Opacity %:"
+msgstr "Deckkraft %:"
+
+msgid "empty"
+msgstr "leer"
+
+msgid "{0} of {1} parts"
+msgstr "{0} von {1} Teilen"
+
+msgid "Picture of the part"
+msgstr "Bild des Teils"
+
+msgid "The page background split in halves, thirds or quarters across and down, each part with a colour or a picture of its own. It is drawn over the page background above and under everything else, so a part left empty lets that background show through. It has nothing to do with the data or the rest of the settings, and every division names the pages it is for (PDF and page images). The grid below stands for the page: click a part to pick it, and drag the line between two parts to say how big each of them is."
+msgstr "Der Seitenhintergrund in Hälften, Drittel oder Viertel geteilt, quer und längs, jeder Teil mit eigener Farbe oder eigenem Bild. Er wird über dem Seitenhintergrund oben und unter allem anderen gezeichnet, durch einen leer gelassenen Teil scheint dieser Hintergrund also durch. Mit den Daten und den übrigen Einstellungen hat das nichts zu tun, und jede Teilung nennt die Seiten, für die sie gilt (PDF und Seitenbilder). Das Raster unten ist die Seite: Klicken Sie einen Teil an, um ihn auszuwählen, und ziehen Sie die Linie zwischen zwei Teilen, um ihre Größe zu bestimmen."
+
+msgid "Widths across (%):"
+msgstr "Breiten der Teile (%):"
+
+msgid "Heights down (%):"
+msgstr "Höhen der Teile (%):"
+
+msgid "together they always make 100"
+msgstr "zusammen ergeben sie immer 100"
+
+msgid "Sizes:"
+msgstr "Größen:"
+
+msgid "One grid — the parts line up"
+msgstr "Ein Raster — die Teile stehen bündig"
+
+msgid "Each row separately"
+msgstr "Jede Zeile einzeln"
+
+msgid "Each column separately"
+msgstr "Jede Spalte einzeln"
+
+msgid "each part can then be a different size from the one above it"
+msgstr "ein Teil kann dann anders groß sein als der darüber"
+
+msgid "Widths in row {0} (%):"
+msgstr "Breiten in Zeile {0} (%):"
+
+msgid "Heights in column {0} (%):"
+msgstr "Höhen in Spalte {0} (%):"

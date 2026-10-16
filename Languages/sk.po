@@ -2688,3 +2688,99 @@ msgstr "Vytvorené programom {0}"
 
 msgid "The details the finished catalog carries inside it — the PDF, the workbook, the web catalog and the page images alike. A PDF reader shows them under Document properties (Ctrl+D in Acrobat Reader, the » menu in Firefox) and a spreadsheet program under File - Info; in the web catalog they are meta tags a search engine reads. Windows itself shows them under Properties - Details for the page images (all of them on a JPG, all but the subject and the comment on a PNG), for the other files only when a reader that registers the type is installed. Every field may stay empty."
 msgstr "Údaje, ktoré hotový katalóg nesie v sebe — rovnako PDF, zošit, webový katalóg aj obrázky strán. Čítačka PDF ich ukáže pod položkou Vlastnosti dokumentu (Ctrl+D v Acrobat Readeri, ponuka » vo Firefoxe) a tabuľkový program pod Súbor - Informácie; vo webovom katalógu sú to meta značky, ktoré si prečíta vyhľadávač. Samotný Windows ich pod položkou Vlastnosti - Podrobnosti ukáže pri obrázkoch strán (pri JPG všetky, pri PNG všetky okrem predmetu a komentára), pri ostatných súboroch len vtedy, keď je nainštalovaná čítačka, ktorá si typ zaregistruje. Každé pole môže ostať prázdne."
+
+msgid "Overlap of touching cards (pt):"
+msgstr "Prekrytie dotýkajúcich sa kariet (b):"
+
+msgid "Only with a gap of 0 and no card frame: two fills drawn edge to edge leave a hairline on screen, and this takes it away. 0 = off."
+msgstr "Len pri medzere 0 a bez rámu karty: dve plochy nakreslené tesne vedľa seba nechajú na obrazovke vlások a toto ho odstráni. 0 = vypnuté."
+
+msgid "Page background split"
+msgstr "Rozdelenie pozadia strany"
+
+msgid "+  Add page split"
+msgstr "+  Pridať rozdelenie"
+
+msgid "Parts across"
+msgstr "Častí vedľa seba"
+
+msgid "Parts down"
+msgstr "Častí pod sebou"
+
+msgid "Filled in"
+msgstr "Vyplnené"
+
+msgid "Pages such as 4, 2-3 or 2-3, 6 (1 = first product page); empty = every page"
+msgstr "Strany ako 4, 2-3 alebo 2-3, 6 (1 = prvá strana s produktmi); prázdne = každá strana"
+
+msgid "1-4"
+msgstr "1-4"
+
+msgid "Widths across:"
+msgstr "Šírky častí:"
+
+msgid "Heights down:"
+msgstr "Výšky častí:"
+
+msgid "1 and 3 = a quarter and three quarters"
+msgstr "1 a 3 = štvrtina a tri štvrtiny"
+
+msgid "Part:"
+msgstr "Časť:"
+
+msgid "Part {0}, {1}:"
+msgstr "Časť {0}, {1}:"
+
+msgid "Colour:"
+msgstr "Farba:"
+
+msgid "Picture:"
+msgstr "Obrázok:"
+
+msgid "Browse…"
+msgstr "Prehľadať…"
+
+msgid "Opacity %:"
+msgstr "Priehľadnosť %:"
+
+msgid "empty"
+msgstr "prázdna"
+
+msgid "{0} of {1} parts"
+msgstr "{0} z {1} častí"
+
+msgid "Picture of the part"
+msgstr "Obrázok časti"
+
+msgid "The page background split in halves, thirds or quarters across and down, each part with a colour or a picture of its own. It is drawn over the page background above and under everything else, so a part left empty lets that background show through. It has nothing to do with the data or the rest of the settings, and every division names the pages it is for (PDF and page images). The grid below stands for the page: click a part to pick it, and drag the line between two parts to say how big each of them is."
+msgstr "Pozadie strany rozdelené na polovice, tretiny alebo štvrtiny vodorovne aj zvisle, každá časť s vlastnou farbou alebo obrázkom. Kreslí sa nad pozadie strany vyššie a pod všetko ostatné, takže cez časť nechanú prázdnu presvitá to pozadie. S dátami ani s ostatnými nastaveniami to nemá nič spoločné a každé rozdelenie si určuje strany, na ktoré platí (PDF a obrázky strán). Mriežka nižšie je tá strana: kliknutím vyberiete časť a potiahnutím čiary medzi dvoma časťami určíte, aká veľká má ktorá byť."
+
+msgid "Widths across (%):"
+msgstr "Šírky častí (%):"
+
+msgid "Heights down (%):"
+msgstr "Výšky častí (%):"
+
+msgid "together they always make 100"
+msgstr "spolu dávajú vždy 100"
+
+msgid "Sizes:"
+msgstr "Veľkosti:"
+
+msgid "One grid — the parts line up"
+msgstr "Jedna mriežka — časti sú zarovnané"
+
+msgid "Each row separately"
+msgstr "Každý riadok zvlášť"
+
+msgid "Each column separately"
+msgstr "Každý stĺpec zvlášť"
+
+msgid "each part can then be a different size from the one above it"
+msgstr "časť potom môže byť inak veľká ako tá nad ňou"
+
+msgid "Widths in row {0} (%):"
+msgstr "Šírky v riadku {0} (%):"
+
+msgid "Heights in column {0} (%):"
+msgstr "Výšky v stĺpci {0} (%):"

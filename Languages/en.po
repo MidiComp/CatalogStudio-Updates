@@ -2653,3 +2653,99 @@ msgstr "Created with {0}"
 
 msgid "The details the finished catalog carries inside it — the PDF, the workbook, the web catalog and the page images alike. A PDF reader shows them under Document properties (Ctrl+D in Acrobat Reader, the » menu in Firefox) and a spreadsheet program under File - Info; in the web catalog they are meta tags a search engine reads. Windows itself shows them under Properties - Details for the page images (all of them on a JPG, all but the subject and the comment on a PNG), for the other files only when a reader that registers the type is installed. Every field may stay empty."
 msgstr "The details the finished catalog carries inside it — the PDF, the workbook, the web catalog and the page images alike. A PDF reader shows them under Document properties (Ctrl+D in Acrobat Reader, the » menu in Firefox) and a spreadsheet program under File - Info; in the web catalog they are meta tags a search engine reads. Windows itself shows them under Properties - Details for the page images (all of them on a JPG, all but the subject and the comment on a PNG), for the other files only when a reader that registers the type is installed. Every field may stay empty."
+
+msgid "Overlap of touching cards (pt):"
+msgstr "Overlap of touching cards (pt):"
+
+msgid "Only with a gap of 0 and no card frame: two fills drawn edge to edge leave a hairline on screen, and this takes it away. 0 = off."
+msgstr "Only with a gap of 0 and no card frame: two fills drawn edge to edge leave a hairline on screen, and this takes it away. 0 = off."
+
+msgid "Page background split"
+msgstr "Page background split"
+
+msgid "+  Add page split"
+msgstr "+  Add page split"
+
+msgid "Parts across"
+msgstr "Parts across"
+
+msgid "Parts down"
+msgstr "Parts down"
+
+msgid "Filled in"
+msgstr "Filled in"
+
+msgid "Pages such as 4, 2-3 or 2-3, 6 (1 = first product page); empty = every page"
+msgstr "Pages such as 4, 2-3 or 2-3, 6 (1 = first product page); empty = every page"
+
+msgid "1-4"
+msgstr "1-4"
+
+msgid "Widths across:"
+msgstr "Widths across:"
+
+msgid "Heights down:"
+msgstr "Heights down:"
+
+msgid "1 and 3 = a quarter and three quarters"
+msgstr "1 and 3 = a quarter and three quarters"
+
+msgid "Part:"
+msgstr "Part:"
+
+msgid "Part {0}, {1}:"
+msgstr "Part {0}, {1}:"
+
+msgid "Colour:"
+msgstr "Colour:"
+
+msgid "Picture:"
+msgstr "Picture:"
+
+msgid "Browse…"
+msgstr "Browse…"
+
+msgid "Opacity %:"
+msgstr "Opacity %:"
+
+msgid "empty"
+msgstr "empty"
+
+msgid "{0} of {1} parts"
+msgstr "{0} of {1} parts"
+
+msgid "Picture of the part"
+msgstr "Picture of the part"
+
+msgid "The page background split in halves, thirds or quarters across and down, each part with a colour or a picture of its own. It is drawn over the page background above and under everything else, so a part left empty lets that background show through. It has nothing to do with the data or the rest of the settings, and every division names the pages it is for (PDF and page images). The grid below stands for the page: click a part to pick it, and drag the line between two parts to say how big each of them is."
+msgstr "The page background split in halves, thirds or quarters across and down, each part with a colour or a picture of its own. It is drawn over the page background above and under everything else, so a part left empty lets that background show through. It has nothing to do with the data or the rest of the settings, and every division names the pages it is for (PDF and page images). The grid below stands for the page: click a part to pick it, and drag the line between two parts to say how big each of them is."
+
+msgid "Widths across (%):"
+msgstr "Widths across (%):"
+
+msgid "Heights down (%):"
+msgstr "Heights down (%):"
+
+msgid "together they always make 100"
+msgstr "together they always make 100"
+
+msgid "Sizes:"
+msgstr "Sizes:"
+
+msgid "One grid — the parts line up"
+msgstr "One grid — the parts line up"
+
+msgid "Each row separately"
+msgstr "Each row separately"
+
+msgid "Each column separately"
+msgstr "Each column separately"
+
+msgid "each part can then be a different size from the one above it"
+msgstr "each part can then be a different size from the one above it"
+
+msgid "Widths in row {0} (%):"
+msgstr "Widths in row {0} (%):"
+
+msgid "Heights in column {0} (%):"
+msgstr "Heights in column {0} (%):"
