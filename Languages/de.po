@@ -2752,3 +2752,45 @@ msgstr "Breiten in Zeile {0} (%):"
 
 msgid "Heights in column {0} (%):"
 msgstr "Höhen in Spalte {0} (%):"
+
+msgid "Pictures side by side"
+msgstr "Bilder nebeneinander"
+
+msgid "The product names several pictures in one cell (0121;0122) and they are drawn beside one another instead of the first one alone"
+msgstr "Das Produkt nennt in einer Zelle mehrere Bildnamen (0121;0122), und sie werden nebeneinander gezeichnet statt nur das erste"
+
+msgid "Gap (pt)"
+msgstr "Abstand (pt)"
+
+msgid "Room between the pictures; below zero they reach under one another"
+msgstr "Raum zwischen den Bildern; unter null greifen sie untereinander"
+
+msgid "Group at"
+msgstr "Gruppe an"
+
+msgid "On top"
+msgstr "Obenauf"
+
+msgid "Which picture covers which where they overlap"
+msgstr "Welches Bild welches überdeckt, wo sie sich überlappen"
+
+msgid "the first"
+msgstr "das erste"
+
+msgid "the last"
+msgstr "das letzte"
+
+msgid "No background"
+msgstr "Ohne Hintergrund"
+
+msgid "Take the white background off these pictures, so they do not cover each other with a white square. It applies to this group alone."
+msgstr "Den weißen Hintergrund dieser Bilder entfernen, damit sie einander nicht mit einem weißen Quadrat verdecken. Gilt nur für diese Gruppe."
+
+msgid "(none)"
+msgstr "(keine)"
+
+msgid "Products sharing a card — column:"
+msgstr "Produkte auf einer Karte — Spalte:"
+
+msgid "Rows with the same value (1, 2, 3…) become one card carrying all their pictures; an empty value keeps the product a card of its own."
+msgstr "Zeilen mit demselben Wert (1, 2, 3…) werden zu einer Karte mit allen ihren Bildern; ein leerer Wert lässt dem Produkt eine eigene Karte."

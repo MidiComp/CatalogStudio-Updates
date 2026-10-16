@@ -2784,3 +2784,45 @@ msgstr "Šírky v riadku {0} (%):"
 
 msgid "Heights in column {0} (%):"
 msgstr "Výšky v stĺpci {0} (%):"
+
+msgid "Pictures side by side"
+msgstr "Obrázky vedľa seba"
+
+msgid "The product names several pictures in one cell (0121;0122) and they are drawn beside one another instead of the first one alone"
+msgstr "Produkt má v jednej bunke viac názvov obrázkov (0121;0122) a nakreslia sa vedľa seba namiesto prvého z nich"
+
+msgid "Gap (pt)"
+msgstr "Rozostup (b)"
+
+msgid "Room between the pictures; below zero they reach under one another"
+msgstr "Priestor medzi obrázkami; pod nulou zasahujú jeden pod druhý"
+
+msgid "Group at"
+msgstr "Skupina pri"
+
+msgid "On top"
+msgstr "Navrchu"
+
+msgid "Which picture covers which where they overlap"
+msgstr "Ktorý obrázok prekrýva ktorý tam, kde sa prekrývajú"
+
+msgid "the first"
+msgstr "prvý"
+
+msgid "the last"
+msgstr "posledný"
+
+msgid "No background"
+msgstr "Bez pozadia"
+
+msgid "Take the white background off these pictures, so they do not cover each other with a white square. It applies to this group alone."
+msgstr "Odstrániť týmto obrázkom biele pozadie, aby sa navzájom neprekryli bielym štvorcom. Platí len pre túto skupinu."
+
+msgid "(none)"
+msgstr "(žiadny)"
+
+msgid "Products sharing a card — column:"
+msgstr "Zlúčené produkty — stĺpec:"
+
+msgid "Rows with the same value (1, 2, 3…) become one card carrying all their pictures; an empty value keeps the product a card of its own."
+msgstr "Riadky s rovnakou hodnotou (1, 2, 3…) sa spoja do jednej karty so všetkými svojimi obrázkami; prázdna hodnota necháva produktu vlastnú kartu."
