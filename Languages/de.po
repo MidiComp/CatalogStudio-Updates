@@ -2818,3 +2818,27 @@ msgstr "Zusammengeführter Name {0}"
 
 msgid "Merged card — group {0}"
 msgstr "Zusammengeführte Karte — Gruppe {0}"
+
+msgid "Is one of"
+msgstr "Ist eine von"
+
+msgid "Is none of"
+msgstr "Ist keine von"
+
+msgid "Names of the parts — column:"
+msgstr "Namen der Teile — Spalte:"
+
+msgid "What the column is compared with. With \"Is one of\" several values are written one after another, separated by commas: 1, 2, 3"
+msgstr "Womit die Spalte verglichen wird. Bei „Ist eine von“ werden mehrere Werte nacheinander geschrieben, durch Kommas getrennt: 1, 2, 3"
+
+msgid "Usually the product name: each part's name becomes a card field of its own, which the card designer places. The name of the whole card is a column added to the data."
+msgstr "Üblicherweise der Produktname: der Name jedes Teils wird ein eigenes Kartenfeld, das der Kartenentwurf platziert. Der Name der ganzen Karte ist eine Spalte in den Daten."
+
+msgid "Each part's own fields — columns:"
+msgstr "Eigene Felder jedes Teils — Spalten:"
+
+msgid "Usually the product name, and a code beside it: every ticked column becomes a card field of its own for each part, so three parts and two columns make six fields, which the card designer places. The name of the whole card is a column added to the data."
+msgstr "Üblicherweise der Produktname und daneben ein Code: jede angehakte Spalte wird für jedes Teil ein eigenes Kartenfeld, drei Teile und zwei Spalten ergeben also sechs Felder, die der Kartenentwurf platziert. Der Name der ganzen Karte ist eine Spalte in den Daten."
+
+msgid "{0} — part {1}"
+msgstr "{0} — Teil {1}"

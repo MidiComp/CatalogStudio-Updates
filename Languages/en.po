@@ -2815,3 +2815,27 @@ msgstr "Merged name {0}"
 
 msgid "Merged card — group {0}"
 msgstr "Merged card — group {0}"
+
+msgid "Is one of"
+msgstr "Is one of"
+
+msgid "Is none of"
+msgstr "Is none of"
+
+msgid "Names of the parts — column:"
+msgstr "Names of the parts — column:"
+
+msgid "What the column is compared with. With \"Is one of\" several values are written one after another, separated by commas: 1, 2, 3"
+msgstr "What the column is compared with. With \"Is one of\" several values are written one after another, separated by commas: 1, 2, 3"
+
+msgid "Usually the product name: each part's name becomes a card field of its own, which the card designer places. The name of the whole card is a column added to the data."
+msgstr "Usually the product name: each part's name becomes a card field of its own, which the card designer places. The name of the whole card is a column added to the data."
+
+msgid "Each part's own fields — columns:"
+msgstr "Each part's own fields — columns:"
+
+msgid "Usually the product name, and a code beside it: every ticked column becomes a card field of its own for each part, so three parts and two columns make six fields, which the card designer places. The name of the whole card is a column added to the data."
+msgstr "Usually the product name, and a code beside it: every ticked column becomes a card field of its own for each part, so three parts and two columns make six fields, which the card designer places. The name of the whole card is a column added to the data."
+
+msgid "{0} — part {1}"
+msgstr "{0} — part {1}"

@@ -2850,3 +2850,27 @@ msgstr "Zlúčený názov {0}"
 
 msgid "Merged card — group {0}"
 msgstr "Zlúčená karta — skupina {0}"
+
+msgid "Is one of"
+msgstr "Je jedna z"
+
+msgid "Is none of"
+msgstr "Nie je žiadna z"
+
+msgid "Names of the parts — column:"
+msgstr "Názvy zlúčených produktov — stĺpec:"
+
+msgid "What the column is compared with. With \"Is one of\" several values are written one after another, separated by commas: 1, 2, 3"
+msgstr "S čím sa stĺpec porovnáva. Pri podmienke „Je jedna z“ sa hodnoty napíšu za sebou a oddelia čiarkami: 1, 2, 3"
+
+msgid "Usually the product name: each part's name becomes a card field of its own, which the card designer places. The name of the whole card is a column added to the data."
+msgstr "Zvyčajne názov výrobku: názov každej časti bude vlastné pole karty, ktoré si umiestnite v návrhárovi. Názov celej karty je stĺpec, ktorý pridáte do dát."
+
+msgid "Each part's own fields — columns:"
+msgstr "Vlastné polia každej časti — stĺpce:"
+
+msgid "Usually the product name, and a code beside it: every ticked column becomes a card field of its own for each part, so three parts and two columns make six fields, which the card designer places. The name of the whole card is a column added to the data."
+msgstr "Zvyčajne názov výrobku a vedľa neho kód: každý zaškrtnutý stĺpec bude pre každú časť vlastné pole karty, takže tri časti a dva stĺpce dajú šesť polí, ktoré si umiestnite v návrhárovi. Názov celej karty je stĺpec, ktorý pridáte do dát."
+
+msgid "{0} — part {1}"
+msgstr "{0} — časť {1}"
