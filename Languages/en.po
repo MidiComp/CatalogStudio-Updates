@@ -2791,3 +2791,27 @@ msgstr "Products sharing a card — column:"
 
 msgid "Rows with the same value (1, 2, 3…) become one card carrying all their pictures; an empty value keeps the product a card of its own."
 msgstr "Rows with the same value (1, 2, 3…) become one card carrying all their pictures; an empty value keeps the product a card of its own."
+
+msgid "Rule settings"
+msgstr "Rule settings"
+
+msgid "Rule settings — {0}"
+msgstr "Rule settings — {0}"
+
+msgid "What it does"
+msgstr "What it does"
+
+msgid "Pick a rule in the table above."
+msgstr "Pick a rule in the table above."
+
+msgid "This action needs nothing but the condition on the left."
+msgstr "This action needs nothing but the condition on the left."
+
+msgid "names from:"
+msgstr "names from:"
+
+msgid "Merged name {0}"
+msgstr "Merged name {0}"
+
+msgid "Merged card — group {0}"
+msgstr "Merged card — group {0}"

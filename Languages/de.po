@@ -2794,3 +2794,27 @@ msgstr "Produkte auf einer Karte — Spalte:"
 
 msgid "Rows with the same value (1, 2, 3…) become one card carrying all their pictures; an empty value keeps the product a card of its own."
 msgstr "Zeilen mit demselben Wert (1, 2, 3…) werden zu einer Karte mit allen ihren Bildern; ein leerer Wert lässt dem Produkt eine eigene Karte."
+
+msgid "Rule settings"
+msgstr "Regeleinstellungen"
+
+msgid "Rule settings — {0}"
+msgstr "Regeleinstellungen — {0}"
+
+msgid "What it does"
+msgstr "Was sie tut"
+
+msgid "Pick a rule in the table above."
+msgstr "Wählen Sie oben in der Tabelle eine Regel."
+
+msgid "This action needs nothing but the condition on the left."
+msgstr "Diese Aktion braucht nichts außer der Bedingung links."
+
+msgid "names from:"
+msgstr "Namen aus Spalte:"
+
+msgid "Merged name {0}"
+msgstr "Zusammengeführter Name {0}"
+
+msgid "Merged card — group {0}"
+msgstr "Zusammengeführte Karte — Gruppe {0}"
