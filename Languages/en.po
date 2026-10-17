@@ -2839,3 +2839,86 @@ msgstr "Usually the product name, and a code beside it: every ticked column beco
 
 msgid "{0} — part {1}"
 msgstr "{0} — part {1}"
+
+msgid "Preferred folder:"
+msgstr "Preferred folder:"
+
+msgid "Its name column:"
+msgstr "Its name column:"
+
+msgid "(the same column)"
+msgstr "(the same column)"
+
+msgid "Select the folder looked in first"
+msgstr "Select the folder looked in first"
+
+msgid "optional — a picture found here is used instead of the one above"
+msgstr "optional — a picture found here is used instead of the one above"
+
+msgid "A picture found in this folder is the one used; everything else comes from the folder above. Cut-out pictures (PNG with a transparent background) belong here — the program then has no white to take off."
+msgstr "A picture found in this folder is the one used; everything else comes from the folder above. Cut-out pictures (PNG with a transparent background) belong here — the program then has no white to take off."
+
+msgid "The column the names in that folder come from. Empty = the same column as the folder above; the prefix, the suffix, the subfolders and the size are shared."
+msgstr "The column the names in that folder come from. Empty = the same column as the folder above; the prefix, the suffix, the subfolders and the size are shared."
+
+msgid "Its name prefix:"
+msgstr "Its name prefix:"
+
+msgid "suffix:"
+msgstr "suffix:"
+
+msgid "What goes before and after the value in the folder looked in first. Its files are often named differently from the ones below — without the suffix, say — so it has a pair of its own."
+msgstr "What goes before and after the value in the folder looked in first. Its files are often named differently from the ones below — without the suffix, say — so it has a pair of its own."
+
+msgid "The column the names in that folder come from. Empty = the same column as the folder above; the subfolders, the size and the quality are shared."
+msgstr "The column the names in that folder come from. Empty = the same column as the folder above; the subfolders, the size and the quality are shared."
+
+msgid "Card as it is"
+msgstr "Card as it is"
+
+msgid "pictures side by side"
+msgstr "pictures side by side"
+
+msgid "Into a section of the page"
+msgstr "Into a section of the page"
+
+msgid "Section"
+msgstr "Section"
+
+msgid "The name of the part of the divided page background these products are laid out in (Design screen, \"Page background in parts\")"
+msgstr "The name of the part of the divided page background these products are laid out in (Design screen, \"Page background in parts\")"
+
+msgid "Section name:"
+msgstr "Section name:"
+
+msgid "Cards across:"
+msgstr "Cards across:"
+
+msgid "down:"
+msgstr "down:"
+
+msgid "Margins — left:"
+msgstr "Margins — left:"
+
+msgid "top:"
+msgstr "top:"
+
+msgid "Header of its own"
+msgstr "Header of its own"
+
+msgid "The page background split in halves, thirds or quarters across and down, each part with a colour or a picture of its own. It is drawn over the page background above and under everything else, so a part left empty lets that background show through. Every division names the pages it is for (PDF and page images). The grid below stands for the page: click a part to pick it, and drag the line between two parts to say how big each of them is.
+Give a part a name and it becomes a section of the page: a rule on the Rules screen sends products into it (\"Into a section of the page\"), they are laid out in the grid the section was given, and the rest of the catalog flows around it. The page margins stay as they are; the margins inside the section are set here. The section takes whole cells of the page grid, so it is drawn where the cards really are."
+msgstr "The page background split in halves, thirds or quarters across and down, each part with a colour or a picture of its own. It is drawn over the page background above and under everything else, so a part left empty lets that background show through. Every division names the pages it is for (PDF and page images). The grid below stands for the page: click a part to pick it, and drag the line between two parts to say how big each of them is.
+Give a part a name and it becomes a section of the page: a rule on the Rules screen sends products into it (\"Into a section of the page\"), they are laid out in the grid the section was given, and the rest of the catalog flows around it. The page margins stay as they are; the margins inside the section are set here. The section takes whole cells of the page grid, so it is drawn where the cards really are."
+
+msgid "Section — {0} ({1})"
+msgstr "Section — {0} ({1})"
+
+msgid "colour:"
+msgstr "colour:"
+
+msgid "thickness:"
+msgstr "thickness:"
+
+msgid "rounded corners:"
+msgstr "rounded corners:"

@@ -2874,3 +2874,86 @@ msgstr "Zvyčajne názov výrobku a vedľa neho kód: každý zaškrtnutý stĺp
 
 msgid "{0} — part {1}"
 msgstr "{0} — časť {1}"
+
+msgid "Preferred folder:"
+msgstr "Prednostná zložka:"
+
+msgid "Its name column:"
+msgstr "Jej stĺpec s názvom:"
+
+msgid "(the same column)"
+msgstr "(rovnaký stĺpec)"
+
+msgid "Select the folder looked in first"
+msgstr "Vyberte zložku, v ktorej sa hľadá najprv"
+
+msgid "optional — a picture found here is used instead of the one above"
+msgstr "voliteľné — obrázok nájdený tu sa použije namiesto toho z hornej zložky"
+
+msgid "A picture found in this folder is the one used; everything else comes from the folder above. Cut-out pictures (PNG with a transparent background) belong here — the program then has no white to take off."
+msgstr "Obrázok, ktorý je v tejto zložke, sa použije; ostatné sa vezmú zo zložky nad ňou. Patria sem orezané obrázky (PNG s priehľadným pozadím) — program potom nemusí odstraňovať biele pozadie."
+
+msgid "The column the names in that folder come from. Empty = the same column as the folder above; the prefix, the suffix, the subfolders and the size are shared."
+msgstr "Stĺpec, z ktorého sa berú názvy v tejto zložke. Prázdne = rovnaký stĺpec ako pri zložke nad ňou; predpona, prípona, podzložky aj veľkosť sú spoločné."
+
+msgid "Its name prefix:"
+msgstr "Jej predpona názvu:"
+
+msgid "suffix:"
+msgstr "prípona:"
+
+msgid "What goes before and after the value in the folder looked in first. Its files are often named differently from the ones below — without the suffix, say — so it has a pair of its own."
+msgstr "Čo sa pridá pred a za hodnotu v prednostnej zložke. Jej súbory sa často volajú inak než tie v zložke pod ňou — napríklad bez prípony — preto má vlastnú dvojicu."
+
+msgid "The column the names in that folder come from. Empty = the same column as the folder above; the subfolders, the size and the quality are shared."
+msgstr "Stĺpec, z ktorého sa berú názvy v tejto zložke. Prázdne = rovnaký stĺpec ako pri zložke nad ňou; podpriečinky, veľkosť aj kvalita sú spoločné."
+
+msgid "Card as it is"
+msgstr "Karta bez zmeny veľkosti"
+
+msgid "pictures side by side"
+msgstr "obrázky vedľa seba"
+
+msgid "Into a section of the page"
+msgstr "Do sekcie na strane"
+
+msgid "Section"
+msgstr "Sekcia"
+
+msgid "The name of the part of the divided page background these products are laid out in (Design screen, \"Page background in parts\")"
+msgstr "Názov časti rozdeleného pozadia strany, v ktorej sa tieto produkty rozložia (karta Dizajn, „Rozdelenie pozadia strany“)"
+
+msgid "Section name:"
+msgstr "Názov sekcie:"
+
+msgid "Cards across:"
+msgstr "Kariet vedľa seba:"
+
+msgid "down:"
+msgstr "pod sebou:"
+
+msgid "Margins — left:"
+msgstr "Okraje — vľavo:"
+
+msgid "top:"
+msgstr "hore:"
+
+msgid "Header of its own"
+msgstr "Vlastná hlavička"
+
+msgid "The page background split in halves, thirds or quarters across and down, each part with a colour or a picture of its own. It is drawn over the page background above and under everything else, so a part left empty lets that background show through. Every division names the pages it is for (PDF and page images). The grid below stands for the page: click a part to pick it, and drag the line between two parts to say how big each of them is.
+Give a part a name and it becomes a section of the page: a rule on the Rules screen sends products into it (\"Into a section of the page\"), they are laid out in the grid the section was given, and the rest of the catalog flows around it. The page margins stay as they are; the margins inside the section are set here. The section takes whole cells of the page grid, so it is drawn where the cards really are."
+msgstr "Pozadie strany rozdelené na polovice, tretiny alebo štvrtiny vodorovne aj zvisle, každá časť s vlastnou farbou alebo obrázkom. Kreslí sa nad celkovým pozadím strany a pod všetkým ostatným, takže prázdna časť nechá presvitať pozadie pod sebou. Každé rozdelenie uvádza strany, pre ktoré platí (PDF a obrázky strán). Mriežka nižšie je strana: kliknutím vyberiete časť a ťahaním čiary medzi dvoma časťami určíte, aké sú veľké.
+Keď časti dáte názov, stane sa z nej sekcia strany: pravidlo v karte Pravidlá do nej pošle produkty („Do sekcie na strane“), rozložia sa v mriežke, ktorú ste sekcii nastavili, a ostatné karty katalógu ju obtekajú. Okraje strany zostávajú, aké sú; okraje vnútri sekcie sa nastavujú tu. Sekcia zaberá celé bunky mriežky strany, takže je nakreslená presne tam, kde sú karty."
+
+msgid "Section — {0} ({1})"
+msgstr "Sekcia — {0} ({1})"
+
+msgid "colour:"
+msgstr "farba:"
+
+msgid "thickness:"
+msgstr "hrúbka:"
+
+msgid "rounded corners:"
+msgstr "zaoblenie:"

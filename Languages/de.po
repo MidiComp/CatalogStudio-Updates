@@ -2842,3 +2842,86 @@ msgstr "Üblicherweise der Produktname und daneben ein Code: jede angehakte Spal
 
 msgid "{0} — part {1}"
 msgstr "{0} — Teil {1}"
+
+msgid "Preferred folder:"
+msgstr "Bevorzugter Ordner:"
+
+msgid "Its name column:"
+msgstr "Ihre Namensspalte:"
+
+msgid "(the same column)"
+msgstr "(dieselbe Spalte)"
+
+msgid "Select the folder looked in first"
+msgstr "Ordner wählen, in dem zuerst gesucht wird"
+
+msgid "optional — a picture found here is used instead of the one above"
+msgstr "optional — ein hier gefundenes Bild wird statt dem aus dem Ordner darüber verwendet"
+
+msgid "A picture found in this folder is the one used; everything else comes from the folder above. Cut-out pictures (PNG with a transparent background) belong here — the program then has no white to take off."
+msgstr "Ein Bild aus diesem Ordner wird verwendet; alles andere kommt aus dem Ordner darüber. Hierher gehören freigestellte Bilder (PNG mit transparentem Hintergrund) — das Programm muss dann kein Weiß entfernen."
+
+msgid "The column the names in that folder come from. Empty = the same column as the folder above; the prefix, the suffix, the subfolders and the size are shared."
+msgstr "Die Spalte, aus der die Namen in diesem Ordner kommen. Leer = dieselbe Spalte wie der Ordner darüber; Präfix, Suffix, Unterordner und Größe sind gemeinsam."
+
+msgid "Its name prefix:"
+msgstr "Ihr Namens-Präfix:"
+
+msgid "suffix:"
+msgstr "Suffix:"
+
+msgid "What goes before and after the value in the folder looked in first. Its files are often named differently from the ones below — without the suffix, say — so it has a pair of its own."
+msgstr "Was in dem zuerst durchsuchten Ordner vor und hinter den Wert gesetzt wird. Seine Dateien heißen oft anders als die darunter — etwa ohne Suffix — daher hat er ein eigenes Paar."
+
+msgid "The column the names in that folder come from. Empty = the same column as the folder above; the subfolders, the size and the quality are shared."
+msgstr "Die Spalte, aus der die Namen in diesem Ordner kommen. Leer = dieselbe Spalte wie der Ordner darüber; Unterordner, Größe und Qualität sind gemeinsam."
+
+msgid "Card as it is"
+msgstr "Karte in normaler Größe"
+
+msgid "pictures side by side"
+msgstr "Bilder nebeneinander"
+
+msgid "Into a section of the page"
+msgstr "In einen Abschnitt der Seite"
+
+msgid "Section"
+msgstr "Abschnitt"
+
+msgid "The name of the part of the divided page background these products are laid out in (Design screen, \"Page background in parts\")"
+msgstr "Der Name des Teils des geteilten Seitenhintergrunds, in dem diese Produkte angeordnet werden (Design, „Seitenhintergrund in Teilen“)"
+
+msgid "Section name:"
+msgstr "Name des Abschnitts:"
+
+msgid "Cards across:"
+msgstr "Karten nebeneinander:"
+
+msgid "down:"
+msgstr "untereinander:"
+
+msgid "Margins — left:"
+msgstr "Ränder — links:"
+
+msgid "top:"
+msgstr "oben:"
+
+msgid "Header of its own"
+msgstr "Eigene Kopfzeile"
+
+msgid "The page background split in halves, thirds or quarters across and down, each part with a colour or a picture of its own. It is drawn over the page background above and under everything else, so a part left empty lets that background show through. Every division names the pages it is for (PDF and page images). The grid below stands for the page: click a part to pick it, and drag the line between two parts to say how big each of them is.
+Give a part a name and it becomes a section of the page: a rule on the Rules screen sends products into it (\"Into a section of the page\"), they are laid out in the grid the section was given, and the rest of the catalog flows around it. The page margins stay as they are; the margins inside the section are set here. The section takes whole cells of the page grid, so it is drawn where the cards really are."
+msgstr "Der Seitenhintergrund in Hälften, Drittel oder Viertel geteilt, quer und längs, jeder Teil mit eigener Farbe oder eigenem Bild. Er wird über dem Seitenhintergrund und unter allem anderen gezeichnet, ein leerer Teil lässt ihn also durchscheinen. Jede Teilung nennt die Seiten, für die sie gilt (PDF und Seitenbilder). Das Raster unten steht für die Seite: Klicken Sie einen Teil an, um ihn zu wählen, und ziehen Sie die Linie zwischen zwei Teilen, um ihre Größe zu bestimmen.
+Geben Sie einem Teil einen Namen, wird er zu einem Abschnitt der Seite: Eine Regel im Regel-Bildschirm schickt Produkte hinein („In einen Abschnitt der Seite“), sie werden im Raster des Abschnitts angeordnet, und die übrigen Karten fließen darum herum. Die Seitenränder bleiben, wie sie sind; die Ränder im Abschnitt werden hier eingestellt. Der Abschnitt belegt ganze Zellen des Seitenrasters und wird daher genau dort gezeichnet, wo die Karten sind."
+
+msgid "Section — {0} ({1})"
+msgstr "Abschnitt — {0} ({1})"
+
+msgid "colour:"
+msgstr "Farbe:"
+
+msgid "thickness:"
+msgstr "Dicke:"
+
+msgid "rounded corners:"
+msgstr "Eckenradius:"
