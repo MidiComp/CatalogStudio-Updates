@@ -2925,3 +2925,162 @@ msgstr "Dicke:"
 
 msgid "rounded corners:"
 msgstr "Eckenradius:"
+
+msgid "Cards in single rows"
+msgstr "Karten je Zeile"
+
+msgid "A row of its own: 1:5, 4:7, 7:3 means five cards in the first row, seven in the fourth and three in the seventh; every other row holds what Columns says. A single row may hold up to 12. Empty = every row the same."
+msgstr "Eine eigene Zeile: 1:5, 4:7, 7:3 bedeutet fünf Karten in der ersten Zeile, sieben in der vierten und drei in der siebten; jede andere Zeile hält so viele, wie Spalten sagt. Eine einzelne Zeile darf bis zu 12 halten. Leer = alle Zeilen gleich."
+
+msgid "Pages {0} — rows of {1} cards"
+msgstr "Seiten {0} — Zeilen mit {1} Karten"
+
+msgid "Own card design for these rows"
+msgstr "Eigener Kartenentwurf für diese Zeilen"
+
+msgid "Same design as the other rows — a change here makes it their own"
+msgstr "Gleicher Entwurf wie die anderen Zeilen — eine Änderung hier gibt ihnen einen eigenen"
+
+msgid "Use the design of the page"
+msgstr "Entwurf der Seite verwenden"
+
+msgid "Page {0} / {1} — being drawn…"
+msgstr "Seite {0} / {1} — wird gezeichnet…"
+
+msgid "Add a column"
+msgstr "Spalte hinzufügen"
+
+msgid "Add a column…"
+msgstr "Spalte hinzufügen…"
+
+msgid "Text stands"
+msgstr "Ausrichtung"
+
+msgid "Centre"
+msgstr "Mittig"
+
+msgid "Card frame"
+msgstr "Kartenrahmen"
+
+msgid "Layout draws a frame around every card of the catalog — switch that off to decide it here"
+msgstr "Layout zeichnet einen Rahmen um jede Karte des Katalogs — schalten Sie ihn dort aus, dann entscheiden Sie hier"
+
+msgid "Choose the pages, the section or the merged card this is about"
+msgstr "Wählen Sie zuerst die Seiten, den Bereich oder die zusammengefasste Karte"
+
+msgid "A frame around the cards of this card design, in the colour and width set in Layout"
+msgstr "Ein Rahmen um die Karten dieses Entwurfs, in Farbe und Breite aus dem Layout"
+
+msgid "Size from column (%):"
+msgstr "Größe aus Spalte (%):"
+
+msgid "Picture size (%)"
+msgstr "Bildgröße (%)"
+
+msgid "Picture %"
+msgstr "Bild %"
+
+msgid "Picture at {0} %"
+msgstr "Bild auf {0} %"
+
+msgid "How large the picture is drawn, in percent of the room it has on the card (Picture size action)"
+msgstr "Wie groß das Bild gezeichnet wird — in Prozent des Platzes, den es auf der Karte hat (Aktion Bildgröße)"
+
+msgid "A column with the size of the picture on the card, in percent of the room it has (\"60\"). An empty cell, 100 or more = the picture takes all of it, as before. A smaller picture stands at the bottom of its room, so the sizes of a range line up. A rule (\"Picture size\") says the same for everything it matches, and this column wins where both have something to say."
+msgstr "Eine Spalte mit der Größe des Bildes auf der Karte, in Prozent des Platzes, den es hat („60“). Leere Zelle, 100 oder mehr = das Bild nimmt den ganzen Platz ein wie bisher. Ein kleineres Bild steht am unteren Rand seines Platzes, sodass die Größen einer Reihe auf einer Linie stehen. Dasselbe für eine ganze Gruppe sagt eine Regel („Bildgröße“); wo beide etwas sagen, gilt diese Spalte."
+
+msgid "Picture size in the file:"
+msgstr "Bildgröße in der Datei:"
+
+msgid "As large as it is drawn (recommended)"
+msgstr "So groß wie gezeichnet (empfohlen)"
+
+msgid "Fixed, from the width and the resolution"
+msgstr "Fest, aus Breite und Auflösung"
+
+msgid "The original file, unchanged"
+msgstr "Die Originaldatei, unverändert"
+
+msgid "A photograph of 3000 pixels drawn 150 points wide needs some 600 of them at 300 DPI; the rest only makes the file larger and the catalog slower to write. \"As large as it is drawn\" works that out for every picture, at the resolution set beside it - in print there is nothing to see, and the file comes out several times smaller."
+msgstr "Ein Foto mit 3000 Pixeln, 150 Punkt breit gezeichnet, braucht bei 300 DPI etwa 600 davon; der Rest macht die Datei nur größer und das Schreiben langsamer. „So groß wie gezeichnet“ rechnet das für jedes Bild aus, mit der Auflösung daneben — im Druck ist nichts zu sehen, und die Datei wird um ein Vielfaches kleiner."
+
+msgid "To a file..."
+msgstr "In eine Datei…"
+
+msgid "From a file..."
+msgstr "Aus einer Datei…"
+
+msgid "Choose a template first."
+msgstr "Wählen Sie zuerst eine Vorlage."
+
+msgid "Save the template as a file"
+msgstr "Vorlage als Datei speichern"
+
+msgid "Open a template file"
+msgstr "Vorlagendatei öffnen"
+
+msgid "Catalog Studio template"
+msgstr "Catalog-Studio-Vorlage"
+
+msgid "The template could not be read."
+msgstr "Die Vorlage konnte nicht gelesen werden."
+
+msgid "The template could not be written to a file."
+msgstr "Die Vorlage konnte nicht in eine Datei geschrieben werden."
+
+msgid "This file holds no template."
+msgstr "In dieser Datei ist keine Vorlage."
+
+msgid "Template \"{0}\" was written to the file. The paths of this computer - the data file, the output folder and the side files - did not go with it; everything about the look did."
+msgstr "Die Vorlage „{0}“ wurde in die Datei geschrieben. Die Pfade dieses Rechners — Datendatei, Ausgabeordner und weitere Dateien — sind nicht mitgegangen; alles zum Aussehen schon."
+
+msgid "Template \"{0}\" was added. Load it to work with it."
+msgstr "Die Vorlage „{0}“ wurde hinzugefügt. Laden Sie sie, um damit zu arbeiten."
+
+msgid "Crossed out"
+msgstr "Durchgestrichen"
+
+msgid "Computed columns..."
+msgstr "Berechnete Spalten…"
+
+msgid "Computed columns"
+msgstr "Berechnete Spalten"
+
+msgid "Formula"
+msgstr "Formel"
+
+msgid "The column has no name."
+msgstr "Die Spalte hat keinen Namen."
+
+msgid "The column has no formula."
+msgstr "Die Spalte hat keine Formel."
+
+msgid "There is no column called \"{0}\"."
+msgstr "Eine Spalte „{0}“ gibt es nicht."
+
+msgid "The formula cannot be worked out."
+msgstr "Die Formel lässt sich nicht berechnen."
+
+msgid "(no product has what it needs yet)"
+msgstr "(noch kann kein Produkt sie füllen)"
+
+msgid "A column worked out from the ones in the data file, for a catalog that needs a price with VAT, a saving or a rounded figure. Write the columns in braces: {Cena} * 1,23. The four operations, brackets and round, min, max, abs, floor and ceil can be used; a comma and a full stop are both the decimal point. The data file itself is never written to."
+msgstr "Eine Spalte, die aus den Spalten der Datendatei berechnet wird — für einen Preis mit MwSt., eine Ersparnis oder einen gerundeten Wert. Spalten in geschweifte Klammern schreiben: {Cena} * 1,23. Möglich sind die vier Grundrechenarten, Klammern sowie round, min, max, abs, floor und ceil; Komma und Punkt gelten beide als Dezimaltrennzeichen. In die Datendatei wird nie geschrieben."
+
+msgid "A catalog for each:"
+msgstr "Ein Katalog je:"
+
+msgid "(one catalog)"
+msgstr "(ein Katalog)"
+
+msgid "{0} × catalog"
+msgstr "{0} × Katalog"
+
+msgid "one catalog"
+msgstr "ein Katalog"
+
+msgid "Building layout... ({0} of {1})"
+msgstr "Layout wird aufgebaut… ({0} von {1})"
+
+msgid "Instead of one catalog, the program makes one for every value this column holds - a flyer for each supplier, each brand or each shop. The settings and the look are the same for all of them; the file name carries the value."
+msgstr "Statt eines Katalogs erstellt das Programm einen je Wert dieser Spalte — einen Flyer für jeden Lieferanten, jede Marke oder jede Filiale. Einstellungen und Aussehen sind für alle gleich; der Wert steht im Dateinamen."

@@ -2922,3 +2922,96 @@ msgstr "thickness:"
 
 msgid "rounded corners:"
 msgstr "rounded corners:"
+
+msgid "Cards in single rows"
+msgstr "Cards in single rows"
+
+msgid "A row of its own: 1:5, 4:7, 7:3 means five cards in the first row, seven in the fourth and three in the seventh; every other row holds what Columns says. A single row may hold up to 12. Empty = every row the same."
+msgstr "A row of its own: 1:5, 4:7, 7:3 means five cards in the first row, seven in the fourth and three in the seventh; every other row holds what Columns says. A single row may hold up to 12. Empty = every row the same."
+
+msgid "Pages {0} — rows of {1} cards"
+msgstr "Pages {0} — rows of {1} cards"
+
+msgid "Own card design for these rows"
+msgstr "Own card design for these rows"
+
+msgid "Same design as the other rows — a change here makes it their own"
+msgstr "Same design as the other rows — a change here makes it their own"
+
+msgid "Use the design of the page"
+msgstr "Use the design of the page"
+
+msgid "Page {0} / {1} — being drawn…"
+msgstr "Page {0} / {1} — being drawn…"
+
+msgid "Add a column"
+msgstr "Add a column"
+
+msgid "Add a column…"
+msgstr "Add a column…"
+
+msgid "Text stands"
+msgstr "Text stands"
+
+msgid "Centre"
+msgstr "Centre"
+
+msgid "Card frame"
+msgstr "Card frame"
+
+msgid "Layout draws a frame around every card of the catalog — switch that off to decide it here"
+msgstr "Layout draws a frame around every card of the catalog — switch that off to decide it here"
+
+msgid "Choose the pages, the section or the merged card this is about"
+msgstr "Choose the pages, the section or the merged card this is about"
+
+msgid "A frame around the cards of this card design, in the colour and width set in Layout"
+msgstr "A frame around the cards of this card design, in the colour and width set in Layout"
+
+msgid "Size from column (%):"
+msgstr "Size from column (%):"
+
+msgid "Picture size (%)"
+msgstr "Picture size (%)"
+
+msgid "Picture %"
+msgstr "Picture %"
+
+msgid "Picture at {0} %"
+msgstr "Picture at {0} %"
+
+msgid "Picture size in the file:"
+msgstr "Picture size in the file:"
+
+msgid "As large as it is drawn (recommended)"
+msgstr "As large as it is drawn (recommended)"
+
+msgid "Fixed, from the width and the resolution"
+msgstr "Fixed, from the width and the resolution"
+
+msgid "The original file, unchanged"
+msgstr "The original file, unchanged"
+
+msgid "Crossed out"
+msgstr "Crossed out"
+
+msgid "Computed columns..."
+msgstr "Computed columns..."
+
+msgid "Computed columns"
+msgstr "Computed columns"
+
+msgid "A catalog for each:"
+msgstr "A catalog for each:"
+
+msgid "(one catalog)"
+msgstr "(one catalog)"
+
+msgid "{0} × catalog"
+msgstr "{0} × catalog"
+
+msgid "one catalog"
+msgstr "one catalog"
+
+msgid "Building layout... ({0} of {1})"
+msgstr "Building layout... ({0} of {1})"

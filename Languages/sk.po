@@ -2957,3 +2957,162 @@ msgstr "hrúbka:"
 
 msgid "rounded corners:"
 msgstr "zaoblenie:"
+
+msgid "Cards in single rows"
+msgstr "Kariet v riadkoch"
+
+msgid "A row of its own: 1:5, 4:7, 7:3 means five cards in the first row, seven in the fourth and three in the seventh; every other row holds what Columns says. A single row may hold up to 12. Empty = every row the same."
+msgstr "Vlastný riadok: 1:5, 4:7, 7:3 znamená päť kariet v prvom riadku, sedem vo štvrtom a tri v siedmom; každý ďalší riadok drží toľko, koľko hovoria Stĺpce. Jeden riadok môže mať až 12. Prázdne = všetky riadky rovnaké."
+
+msgid "Pages {0} — rows of {1} cards"
+msgstr "Strany {0} — riadky so {1} kartami"
+
+msgid "Own card design for these rows"
+msgstr "Vlastný návrh karty pre tieto riadky"
+
+msgid "Same design as the other rows — a change here makes it their own"
+msgstr "Rovnaký návrh ako ostatné riadky — zmenou tu získajú vlastný"
+
+msgid "Use the design of the page"
+msgstr "Použiť návrh strany"
+
+msgid "Page {0} / {1} — being drawn…"
+msgstr "Strana {0} / {1} — kreslí sa…"
+
+msgid "Add a column"
+msgstr "Pridať stĺpec"
+
+msgid "Add a column…"
+msgstr "Pridať stĺpec…"
+
+msgid "Text stands"
+msgstr "Zarovnanie"
+
+msgid "Centre"
+msgstr "Na stred"
+
+msgid "Card frame"
+msgstr "Rámik karty"
+
+msgid "Layout draws a frame around every card of the catalog — switch that off to decide it here"
+msgstr "Rozloženie kreslí rámik okolo každej karty katalógu — vypnite ho tam a rozhodnete sa tu"
+
+msgid "Choose the pages, the section or the merged card this is about"
+msgstr "Najprv vyberte strany, sekciu alebo zlúčenú kartu, o ktorú ide"
+
+msgid "A frame around the cards of this card design, in the colour and width set in Layout"
+msgstr "Rámik okolo kariet tohto návrhu, vo farbe a hrúbke nastavenej v Rozložení"
+
+msgid "Size from column (%):"
+msgstr "Veľkosť zo stĺpca (%):"
+
+msgid "Picture size (%)"
+msgstr "Veľkosť obrázka (%)"
+
+msgid "Picture %"
+msgstr "Obrázok %"
+
+msgid "Picture at {0} %"
+msgstr "Obrázok na {0} %"
+
+msgid "How large the picture is drawn, in percent of the room it has on the card (Picture size action)"
+msgstr "Ako veľký sa obrázok nakreslí — v percentách miesta, ktoré má na karte (akcia Veľkosť obrázka)"
+
+msgid "A column with the size of the picture on the card, in percent of the room it has (\"60\"). An empty cell, 100 or more = the picture takes all of it, as before. A smaller picture stands at the bottom of its room, so the sizes of a range line up. A rule (\"Picture size\") says the same for everything it matches, and this column wins where both have something to say."
+msgstr "Stĺpec s veľkosťou obrázka na karte, v percentách miesta, ktoré má („60“). Prázdna bunka, 100 a viac = obrázok zaberie celé miesto ako doteraz. Menší obrázok stojí pri spodnej hrane svojho miesta, takže veľkosti jedného radu stoja v jednej línii. To isté pre celú skupinu produktov povie pravidlo („Veľkosť obrázka“) a tento stĺpec má prednosť tam, kde hovoria obidva."
+
+msgid "Picture size in the file:"
+msgstr "Veľkosť obrázka v súbore:"
+
+msgid "As large as it is drawn (recommended)"
+msgstr "Aký je na strane (odporúčané)"
+
+msgid "Fixed, from the width and the resolution"
+msgstr "Pevná, zo šírky a rozlíšenia"
+
+msgid "The original file, unchanged"
+msgstr "Pôvodný súbor bez zmeny"
+
+msgid "A photograph of 3000 pixels drawn 150 points wide needs some 600 of them at 300 DPI; the rest only makes the file larger and the catalog slower to write. \"As large as it is drawn\" works that out for every picture, at the resolution set beside it - in print there is nothing to see, and the file comes out several times smaller."
+msgstr "Fotografia s 3000 pixelmi nakreslená 150 bodov široká potrebuje pri 300 DPI asi 600 z nich; zvyšok len zväčšuje súbor a spomaľuje zápis katalógu. „Aký je na strane“ to vyráta pre každý obrázok podľa rozlíšenia vedľa — v tlači to nie je vidieť a súbor vyjde niekoľkonásobne menší."
+
+msgid "To a file..."
+msgstr "Do súboru…"
+
+msgid "From a file..."
+msgstr "Zo súboru…"
+
+msgid "Choose a template first."
+msgstr "Najprv vyberte šablónu."
+
+msgid "Save the template as a file"
+msgstr "Uložiť šablónu ako súbor"
+
+msgid "Open a template file"
+msgstr "Otvoriť súbor so šablónou"
+
+msgid "Catalog Studio template"
+msgstr "Šablóna Catalog Studio"
+
+msgid "The template could not be read."
+msgstr "Šablónu sa nepodarilo prečítať."
+
+msgid "The template could not be written to a file."
+msgstr "Šablónu sa nepodarilo zapísať do súboru."
+
+msgid "This file holds no template."
+msgstr "V tomto súbore nie je šablóna."
+
+msgid "Template \"{0}\" was written to the file. The paths of this computer - the data file, the output folder and the side files - did not go with it; everything about the look did."
+msgstr "Šablóna „{0}“ sa zapísala do súboru. Cesty tohto počítača — dátový súbor, výstupný priečinok a ďalšie súbory — s ňou nešli; všetko ostatné o vzhľade áno."
+
+msgid "Template \"{0}\" was added. Load it to work with it."
+msgstr "Šablóna „{0}“ pribudla. Načítajte ju, keď s ňou chcete pracovať."
+
+msgid "Crossed out"
+msgstr "Prečiarknuté"
+
+msgid "Computed columns..."
+msgstr "Výpočtové stĺpce…"
+
+msgid "Computed columns"
+msgstr "Výpočtové stĺpce"
+
+msgid "Formula"
+msgstr "Vzorec"
+
+msgid "The column has no name."
+msgstr "Stĺpec nemá názov."
+
+msgid "The column has no formula."
+msgstr "Stĺpec nemá vzorec."
+
+msgid "There is no column called \"{0}\"."
+msgstr "Stĺpec „{0}“ neexistuje."
+
+msgid "The formula cannot be worked out."
+msgstr "Vzorec sa nedá vyrátať."
+
+msgid "(no product has what it needs yet)"
+msgstr "(zatiaľ ho žiadny produkt nevie naplniť)"
+
+msgid "A column worked out from the ones in the data file, for a catalog that needs a price with VAT, a saving or a rounded figure. Write the columns in braces: {Cena} * 1,23. The four operations, brackets and round, min, max, abs, floor and ceil can be used; a comma and a full stop are both the decimal point. The data file itself is never written to."
+msgstr "Stĺpec vyrátaný zo stĺpcov dátového súboru — na cenu s DPH, úsporu alebo zaokrúhlenú hodnotu. Stĺpce píšte do zložených zátvoriek: {Cena} * 1,23. Použiť sa dajú štyri základné operácie, zátvorky a round, min, max, abs, floor a ceil; desatinná čiarka aj bodka platia obe. Do dátového súboru sa nikdy nezapisuje."
+
+msgid "A catalog for each:"
+msgstr "Katalóg pre každý:"
+
+msgid "(one catalog)"
+msgstr "(jeden katalóg)"
+
+msgid "{0} × catalog"
+msgstr "{0} × katalóg"
+
+msgid "one catalog"
+msgstr "jeden katalóg"
+
+msgid "Building layout... ({0} of {1})"
+msgstr "Stavia sa rozloženie… ({0} z {1})"
+
+msgid "Instead of one catalog, the program makes one for every value this column holds - a flyer for each supplier, each brand or each shop. The settings and the look are the same for all of them; the file name carries the value."
+msgstr "Namiesto jedného katalógu vytvorí program jeden pre každú hodnotu tohto stĺpca — leták pre každého dodávateľa, značku či predajňu. Nastavenia aj vzhľad sú pre všetky rovnaké, hodnota je v názve súboru."
